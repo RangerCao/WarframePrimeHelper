@@ -1,0 +1,12 @@
+{
+    "hotkey": "=",
+    "bbox": [
+        0,
+        0,
+        1920,
+        1080
+    ],
+    "proxy": "",
+    "sound_file": "ding.mp3",
+    "sound_volume": 0.48
+}

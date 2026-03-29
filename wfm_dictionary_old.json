@@ -1,0 +1,4166 @@
+{
+  "garudaprime": {
+    "url_name": "garuda_prime",
+    "real_cn_name": "Garuda Prime"
+  },
+  "gyreprime": {
+    "url_name": "gyre_prime",
+    "real_cn_name": "Gyre Prime"
+  },
+  "khoraprime": {
+    "url_name": "khora_prime",
+    "real_cn_name": "Khora Prime"
+  },
+  "revenantprime": {
+    "url_name": "revenant_prime",
+    "real_cn_name": "Revenant Prime"
+  },
+  "baruukprime": {
+    "url_name": "baruuk_prime",
+    "real_cn_name": "Baruuk Prime"
+  },
+  "hildrynprime": {
+    "url_name": "hildryn_prime",
+    "real_cn_name": "Hildryn Prime"
+  },
+  "wispprime": {
+    "url_name": "wisp_prime",
+    "real_cn_name": "Wisp Prime"
+  },
+  "grendelprime": {
+    "url_name": "grendel_prime",
+    "real_cn_name": "Grendel Prime"
+  },
+  "gaussprime": {
+    "url_name": "gauss_prime",
+    "real_cn_name": "Gauss Prime"
+  },
+  "proteaprime": {
+    "url_name": "protea_prime",
+    "real_cn_name": "Protea Prime"
+  },
+  "sevagothprime": {
+    "url_name": "sevagoth_prime",
+    "real_cn_name": "Sevagoth Prime"
+  },
+  "ashprime": {
+    "url_name": "ash_prime",
+    "real_cn_name": "Ash Prime"
+  },
+  "atlasprime": {
+    "url_name": "atlas_prime",
+    "real_cn_name": "Atlas Prime"
+  },
+  "bansheeprime": {
+    "url_name": "banshee_prime",
+    "real_cn_name": "Banshee Prime"
+  },
+  "chromaprime": {
+    "url_name": "chroma_prime",
+    "real_cn_name": "Chroma Prime"
+  },
+  "emberprime": {
+    "url_name": "ember_prime",
+    "real_cn_name": "Ember Prime"
+  },
+  "equinoxprime": {
+    "url_name": "equinox_prime",
+    "real_cn_name": "Equinox Prime"
+  },
+  "frostprime": {
+    "url_name": "frost_prime",
+    "real_cn_name": "Frost Prime"
+  },
+  "hydroidprime": {
+    "url_name": "hydroid_prime",
+    "real_cn_name": "Hydroid Prime"
+  },
+  "ivaraprime": {
+    "url_name": "ivara_prime",
+    "real_cn_name": "Ivara Prime"
+  },
+  "limboprime": {
+    "url_name": "limbo_prime",
+    "real_cn_name": "Limbo Prime"
+  },
+  "lokiprime": {
+    "url_name": "loki_prime",
+    "real_cn_name": "Loki Prime"
+  },
+  "magprime": {
+    "url_name": "mag_prime",
+    "real_cn_name": "Mag Prime"
+  },
+  "mirageprime": {
+    "url_name": "mirage_prime",
+    "real_cn_name": "Mirage Prime"
+  },
+  "nekrosprime": {
+    "url_name": "nekros_prime",
+    "real_cn_name": "Nekros Prime"
+  },
+  "novaprime": {
+    "url_name": "nova_prime",
+    "real_cn_name": "Nova Prime"
+  },
+  "nyxprime": {
+    "url_name": "nyx_prime",
+    "real_cn_name": "Nyx Prime"
+  },
+  "lavosprime": {
+    "url_name": "lavos_prime",
+    "real_cn_name": "Lavos Prime"
+  },
+  "xakuprime": {
+    "url_name": "xaku_prime",
+    "real_cn_name": "Xaku Prime"
+  },
+  "mesaprime": {
+    "url_name": "mesa_prime",
+    "real_cn_name": "Mesa Prime"
+  },
+  "oberonprime": {
+    "url_name": "oberon_prime",
+    "real_cn_name": "Oberon Prime"
+  },
+  "rhinoprime": {
+    "url_name": "rhino_prime",
+    "real_cn_name": "Rhino Prime"
+  },
+  "sarynprime": {
+    "url_name": "saryn_prime",
+    "real_cn_name": "Saryn Prime"
+  },
+  "trinityprime": {
+    "url_name": "trinity_prime",
+    "real_cn_name": "Trinity Prime"
+  },
+  "valkyrprime": {
+    "url_name": "valkyr_prime",
+    "real_cn_name": "Valkyr Prime"
+  },
+  "vaubanprime": {
+    "url_name": "vauban_prime",
+    "real_cn_name": "Vauban Prime"
+  },
+  "voltprime": {
+    "url_name": "volt_prime",
+    "real_cn_name": "Volt Prime"
+  },
+  "zephyrprime": {
+    "url_name": "zephyr_prime",
+    "real_cn_name": "Zephyr Prime"
+  },
+  "wukongprime": {
+    "url_name": "wukong_prime",
+    "real_cn_name": "Wukong Prime"
+  },
+  "calibanprime": {
+    "url_name": "caliban_prime",
+    "real_cn_name": "Caliban Prime"
+  },
+  "yareliprime": {
+    "url_name": "yareli_prime",
+    "real_cn_name": "Yareli Prime"
+  },
+  "titaniaprime": {
+    "url_name": "titania_prime",
+    "real_cn_name": "Titania Prime"
+  },
+  "inarosprime": {
+    "url_name": "inaros_prime",
+    "real_cn_name": "Inaros Prime"
+  },
+  "nezhaprime": {
+    "url_name": "nezha_prime",
+    "real_cn_name": "Nezha Prime"
+  },
+  "octaviaprime": {
+    "url_name": "octavia_prime",
+    "real_cn_name": "Octavia Prime"
+  },
+  "garaprime": {
+    "url_name": "gara_prime",
+    "real_cn_name": "Gara Prime"
+  },
+  "nidusprime": {
+    "url_name": "nidus_prime",
+    "real_cn_name": "Nidus Prime"
+  },
+  "harrowprime": {
+    "url_name": "harrow_prime",
+    "real_cn_name": "Harrow Prime"
+  },
+  "认知&冲击": {
+    "url_name": "ack_&_brunt",
+    "real_cn_name": "认知&冲击"
+  },
+  "拉托双枪": {
+    "url_name": "aklato",
+    "real_cn_name": "拉托双枪"
+  },
+  "天仓悲痛之刃": {
+    "url_name": "ceti_lacera",
+    "real_cn_name": "天仓悲痛之刃"
+  },
+  "夸兹": {
+    "url_name": "quatz",
+    "real_cn_name": "夸兹"
+  },
+  "太始弓": {
+    "url_name": "nataruk",
+    "real_cn_name": "太始弓"
+  },
+  "哈利卡亡魂": {
+    "url_name": "halikar_wraith",
+    "real_cn_name": "哈利卡亡魂"
+  },
+  "迅发电浆炮": {
+    "url_name": "acceltra",
+    "real_cn_name": "迅发电浆炮"
+  },
+  "阿利乌双枪": {
+    "url_name": "akarius",
+    "real_cn_name": "阿利乌双枪"
+  },
+  "咀嚼金棒": {
+    "url_name": "masseter",
+    "real_cn_name": "咀嚼金棒"
+  },
+  "病囊飞刃": {
+    "url_name": "pathocyst",
+    "real_cn_name": "病囊飞刃"
+  },
+  "恐惧": {
+    "url_name": "dread",
+    "real_cn_name": "恐惧"
+  },
+  "金璃剑": {
+    "url_name": "vitrica",
+    "real_cn_name": "金璃剑"
+  },
+  "锡斯特双枪": {
+    "url_name": "dual_cestra",
+    "real_cn_name": "锡斯特双枪"
+  },
+  "灭杀者": {
+    "url_name": "trumna",
+    "real_cn_name": "灭杀者"
+  },
+  "追击者": {
+    "url_name": "sepulcrum",
+    "real_cn_name": "追击者"
+  },
+  "斩肉双刀": {
+    "url_name": "dual_cleavers",
+    "real_cn_name": "斩肉双刀"
+  },
+  "什长双枪": {
+    "url_name": "dual_decurion",
+    "real_cn_name": "什长双枪"
+  },
+  "苍穹双剑": {
+    "url_name": "dual_ether",
+    "real_cn_name": "苍穹双剑"
+  },
+  "烈焰双剑": {
+    "url_name": "dual_heat_swords",
+    "real_cn_name": "烈焰双剑"
+  },
+  "恶脓双斧": {
+    "url_name": "dual_ichor",
+    "real_cn_name": "恶脓双斧"
+  },
+  "双短柄战镰": {
+    "url_name": "dual_kamas",
+    "real_cn_name": "双短柄战镰"
+  },
+  "噬蛇弩prime": {
+    "url_name": "nagantaka_prime",
+    "real_cn_name": "噬蛇弩Prime"
+  },
+  "黑鸦prime": {
+    "url_name": "corvas_prime",
+    "real_cn_name": "黑鸦Prime"
+  },
+  "风鸣": {
+    "url_name": "aeolak",
+    "real_cn_name": "风鸣"
+  },
+  "暮斩": {
+    "url_name": "hespar",
+    "real_cn_name": "暮斩"
+  },
+  "双短柄战镰prime": {
+    "url_name": "dual_kamas_prime",
+    "real_cn_name": "双短柄战镰Prime"
+  },
+  "凤殁": {
+    "url_name": "phenmor",
+    "real_cn_name": "凤殁"
+  },
+  "奏凯": {
+    "url_name": "laetum",
+    "real_cn_name": "奏凯"
+  },
+  "双雄": {
+    "url_name": "praedos",
+    "real_cn_name": "双雄"
+  },
+  "电幻步枪": {
+    "url_name": "alternox",
+    "real_cn_name": "电幻步枪"
+  },
+  "雷克斯双枪": {
+    "url_name": "aklex",
+    "real_cn_name": "雷克斯双枪"
+  },
+  "凯瑞斯双刀": {
+    "url_name": "dual_keres",
+    "real_cn_name": "凯瑞斯双刀"
+  },
+  "锋月双斧": {
+    "url_name": "dual_raza",
+    "real_cn_name": "锋月双斧"
+  },
+  "空刃双刀": {
+    "url_name": "dual_skana",
+    "real_cn_name": "空刃双刀"
+  },
+  "毒囊双枪": {
+    "url_name": "dual_toxocyst",
+    "real_cn_name": "毒囊双枪"
+  },
+  "豪猪prime": {
+    "url_name": "hystrix_prime",
+    "real_cn_name": "豪猪Prime"
+  },
+  "凯瑞斯双刀prime": {
+    "url_name": "dual_keres_prime",
+    "real_cn_name": "凯瑞斯双刀Prime"
+  },
+  "幻离子prime": {
+    "url_name": "phantasma_prime",
+    "real_cn_name": "幻离子Prime"
+  },
+  "龙辰prime": {
+    "url_name": "tatsu_prime",
+    "real_cn_name": "龙辰Prime"
+  },
+  "盗贼双枪prime": {
+    "url_name": "afuris_prime",
+    "real_cn_name": "盗贼双枪Prime"
+  },
+  "眼镜蛇&鹤prime": {
+    "url_name": "cobra_&_crane_prime",
+    "real_cn_name": "眼镜蛇&鹤Prime"
+  },
+  "翠雀prime": {
+    "url_name": "larkspur_prime",
+    "real_cn_name": "翠雀Prime"
+  },
+  "佐伦双斧": {
+    "url_name": "dual_zoren",
+    "real_cn_name": "佐伦双斧"
+  },
+  "信条铁晶磁轨炮": {
+    "url_name": "tenet_ferrox",
+    "real_cn_name": "信条铁晶磁轨炮"
+  },
+  "雷霆prime": {
+    "url_name": "fulmin_prime",
+    "real_cn_name": "雷霆Prime"
+  },
+  "军扇prime": {
+    "url_name": "gunsen_prime",
+    "real_cn_name": "军扇Prime"
+  },
+  "棱晶欧玛": {
+    "url_name": "prisma_ohma",
+    "real_cn_name": "棱晶欧玛"
+  },
+  "骨葬prime": {
+    "url_name": "gotva_prime",
+    "real_cn_name": "骨葬Prime"
+  },
+  "安柏勒斯": {
+    "url_name": "embolist",
+    "real_cn_name": "安柏勒斯"
+  },
+  "席尔火枪prime": {
+    "url_name": "zylok_prime",
+    "real_cn_name": "席尔火枪Prime"
+  },
+  "咀嚼金棒prime": {
+    "url_name": "masseter_prime",
+    "real_cn_name": "咀嚼金棒Prime"
+  },
+  "迅发电浆炮prime": {
+    "url_name": "acceltra_prime",
+    "real_cn_name": "迅发电浆炮Prime"
+  },
+  "阿利乌双枪prime": {
+    "url_name": "akarius_prime",
+    "real_cn_name": "阿利乌双枪Prime"
+  },
+  "dex侍刃": {
+    "url_name": "dex_nikana",
+    "real_cn_name": "Dex侍刃"
+  },
+  "三叶坚韧": {
+    "url_name": "endura",
+    "real_cn_name": "三叶坚韧"
+  },
+  "逐电prime": {
+    "url_name": "velox_prime",
+    "real_cn_name": "逐电Prime"
+  },
+  "翁prime": {
+    "url_name": "okina_prime",
+    "real_cn_name": "翁Prime"
+  },
+  "苍穹匕首": {
+    "url_name": "ether_daggers",
+    "real_cn_name": "苍穹匕首"
+  },
+  "麦格努斯双枪prime": {
+    "url_name": "akmagnus_prime",
+    "real_cn_name": "麦格努斯双枪Prime"
+  },
+  "葬铭prime": {
+    "url_name": "epitaph_prime",
+    "real_cn_name": "葬铭Prime"
+  },
+  "苍穹死神": {
+    "url_name": "ether_reaper",
+    "real_cn_name": "苍穹死神"
+  },
+  "赤毒鳄神": {
+    "url_name": "kuva_sobek",
+    "real_cn_name": "赤毒鳄神"
+  },
+  "信条冷冻光束步枪": {
+    "url_name": "tenet_glaxion",
+    "real_cn_name": "信条冷冻光束步枪"
+  },
+  "晴日伞": {
+    "url_name": "higasa",
+    "real_cn_name": "晴日伞"
+  },
+  "天薙刀": {
+    "url_name": "amanata",
+    "real_cn_name": "天薙刀"
+  },
+  "苍穹之剑": {
+    "url_name": "ether_sword",
+    "real_cn_name": "苍穹之剑"
+  },
+  "雷克斯双枪prime": {
+    "url_name": "aklex_prime",
+    "real_cn_name": "雷克斯双枪Prime"
+  },
+  "悦音prime": {
+    "url_name": "euphona_prime",
+    "real_cn_name": "悦音Prime"
+  },
+  "晶能放射器": {
+    "url_name": "exergis",
+    "real_cn_name": "晶能放射器"
+  },
+  "猎鹰轮": {
+    "url_name": "falcor",
+    "real_cn_name": "猎鹰轮"
+  },
+  "狼牙": {
+    "url_name": "fang",
+    "real_cn_name": "狼牙"
+  },
+  "狼牙prime": {
+    "url_name": "fang_prime",
+    "real_cn_name": "狼牙Prime"
+  },
+  "铁晶磁轨炮": {
+    "url_name": "ferrox",
+    "real_cn_name": "铁晶磁轨炮"
+  },
+  "巨浪": {
+    "url_name": "fluctus",
+    "real_cn_name": "巨浪"
+  },
+  "通量步枪": {
+    "url_name": "flux_rifle",
+    "real_cn_name": "通量步枪"
+  },
+  "重击巨锤": {
+    "url_name": "fragor",
+    "real_cn_name": "重击巨锤"
+  },
+  "重击巨锤prime": {
+    "url_name": "fragor_prime",
+    "real_cn_name": "重击巨锤Prime"
+  },
+  "麦格努斯双枪": {
+    "url_name": "akmagnus",
+    "real_cn_name": "麦格努斯双枪"
+  },
+  "雷霆": {
+    "url_name": "fulmin",
+    "real_cn_name": "雷霆"
+  },
+  "弗拉克斯": {
+    "url_name": "furax",
+    "real_cn_name": "弗拉克斯"
+  },
+  "弗拉克斯亡魂": {
+    "url_name": "furax_wraith",
+    "real_cn_name": "弗拉克斯亡魂"
+  },
+  "盗贼": {
+    "url_name": "furis",
+    "real_cn_name": "盗贼"
+  },
+  "齐射玻刃": {
+    "url_name": "fusilai",
+    "real_cn_name": "齐射玻刃"
+  },
+  "迦伦提恩": {
+    "url_name": "galatine",
+    "real_cn_name": "迦伦提恩"
+  },
+  "迦伦提恩prime": {
+    "url_name": "galatine_prime",
+    "real_cn_name": "迦伦提恩Prime"
+  },
+  "电流刺索": {
+    "url_name": "galvacord",
+    "real_cn_name": "电流刺索"
+  },
+  "咖玛腕甲枪": {
+    "url_name": "gammacor",
+    "real_cn_name": "咖玛腕甲枪"
+  },
+  "加扎勒反曲刀": {
+    "url_name": "gazal_machete",
+    "real_cn_name": "加扎勒反曲刀"
+  },
+  "轻灵月神双枪": {
+    "url_name": "aksomati",
+    "real_cn_name": "轻灵月神双枪"
+  },
+  "战刃": {
+    "url_name": "glaive",
+    "real_cn_name": "战刃"
+  },
+  "战刃prime": {
+    "url_name": "glaive_prime",
+    "real_cn_name": "战刃Prime"
+  },
+  "冷冻光束步枪": {
+    "url_name": "glaxion",
+    "real_cn_name": "冷冻光束步枪"
+  },
+  "冷冻光束步枪破坏者": {
+    "url_name": "glaxion_vandal",
+    "real_cn_name": "冷冻光束步枪破坏者"
+  },
+  "蛇发女妖": {
+    "url_name": "gorgon",
+    "real_cn_name": "蛇发女妖"
+  },
+  "蛇发女妖亡魂": {
+    "url_name": "gorgon_wraith",
+    "real_cn_name": "蛇发女妖亡魂"
+  },
+  "葛拉卡达": {
+    "url_name": "grakata",
+    "real_cn_name": "葛拉卡达"
+  },
+  "格拉姆": {
+    "url_name": "gram",
+    "real_cn_name": "格拉姆"
+  },
+  "格拉姆prime": {
+    "url_name": "gram_prime",
+    "real_cn_name": "格拉姆Prime"
+  },
+  "葛拉特勒": {
+    "url_name": "grattler",
+    "real_cn_name": "葛拉特勒"
+  },
+  "史提托双枪": {
+    "url_name": "akstiletto",
+    "real_cn_name": "史提托双枪"
+  },
+  "葛恩火枪": {
+    "url_name": "grinlok",
+    "real_cn_name": "葛恩火枪"
+  },
+  "关刀": {
+    "url_name": "guandao",
+    "real_cn_name": "关刀"
+  },
+  "军扇": {
+    "url_name": "gunsen",
+    "real_cn_name": "军扇"
+  },
+  "哈利卡": {
+    "url_name": "halikar",
+    "real_cn_name": "哈利卡"
+  },
+  "哈帕克": {
+    "url_name": "harpak",
+    "real_cn_name": "哈帕克"
+  },
+  "烈焰短剑": {
+    "url_name": "heat_dagger",
+    "real_cn_name": "烈焰短剑"
+  },
+  "烈焰长剑": {
+    "url_name": "heat_sword",
+    "real_cn_name": "烈焰长剑"
+  },
+  "海克": {
+    "url_name": "hek",
+    "real_cn_name": "海克"
+  },
+  "赫利俄光锤": {
+    "url_name": "heliocor",
+    "real_cn_name": "赫利俄光锤"
+  },
+  "赫利俄斯": {
+    "url_name": "helios",
+    "real_cn_name": "赫利俄斯"
+  },
+  "史提托双枪prime": {
+    "url_name": "akstiletto_prime",
+    "real_cn_name": "史提托双枪Prime"
+  },
+  "赫利俄斯prime": {
+    "url_name": "helios_prime",
+    "real_cn_name": "赫利俄斯Prime"
+  },
+  "血肢": {
+    "url_name": "hema",
+    "real_cn_name": "血肢"
+  },
+  "飞扬": {
+    "url_name": "hikou",
+    "real_cn_name": "飞扬"
+  },
+  "飞扬prime": {
+    "url_name": "hikou_prime",
+    "real_cn_name": "飞扬Prime"
+  },
+  "雌鹿": {
+    "url_name": "hind",
+    "real_cn_name": "雌鹿"
+  },
+  "蚂蟥": {
+    "url_name": "hirudo",
+    "real_cn_name": "蚂蟥"
+  },
+  "豪猪": {
+    "url_name": "hystrix",
+    "real_cn_name": "豪猪"
+  },
+  "伊格尼斯": {
+    "url_name": "ignis",
+    "real_cn_name": "伊格尼斯"
+  },
+  "伊格尼斯亡魂": {
+    "url_name": "ignis_wraith",
+    "real_cn_name": "伊格尼斯亡魂"
+  },
+  "凯旋将军": {
+    "url_name": "imperator",
+    "real_cn_name": "凯旋将军"
+  },
+  "瓦斯托双枪": {
+    "url_name": "akvasto",
+    "real_cn_name": "瓦斯托双枪"
+  },
+  "凯旋将军破坏者": {
+    "url_name": "imperator_vandal",
+    "real_cn_name": "凯旋将军破坏者"
+  },
+  "喷射战锤": {
+    "url_name": "jat_kittag",
+    "real_cn_name": "喷射战锤"
+  },
+  "喷射锁镰": {
+    "url_name": "jat_kusar",
+    "real_cn_name": "喷射锁镰"
+  },
+  "燃焰标枪": {
+    "url_name": "javlok",
+    "real_cn_name": "燃焰标枪"
+  },
+  "蛇颚刀": {
+    "url_name": "jaw_sword",
+    "real_cn_name": "蛇颚刀"
+  },
+  "短柄战镰": {
+    "url_name": "kama",
+    "real_cn_name": "短柄战镰"
+  },
+  "卡拉克": {
+    "url_name": "karak",
+    "real_cn_name": "卡拉克"
+  },
+  "卡拉克亡魂": {
+    "url_name": "karak_wraith",
+    "real_cn_name": "卡拉克亡魂"
+  },
+  "凯洛斯特": {
+    "url_name": "karyst",
+    "real_cn_name": "凯洛斯特"
+  },
+  "死亡使徒": {
+    "url_name": "kaszas",
+    "real_cn_name": "死亡使徒"
+  },
+  "瓦斯托双枪prime": {
+    "url_name": "akvasto_prime",
+    "real_cn_name": "瓦斯托双枪Prime"
+  },
+  "怯薛": {
+    "url_name": "kesheg",
+    "real_cn_name": "怯薛"
+  },
+  "红隼": {
+    "url_name": "kestrel",
+    "real_cn_name": "红隼"
+  },
+  "丧钟": {
+    "url_name": "knell",
+    "real_cn_name": "丧钟"
+  },
+  "克那克斯": {
+    "url_name": "knux",
+    "real_cn_name": "克那克斯"
+  },
+  "科加基": {
+    "url_name": "kogake",
+    "real_cn_name": "科加基"
+  },
+  "科加基prime": {
+    "url_name": "kogake_prime",
+    "real_cn_name": "科加基Prime"
+  },
+  "寇恩热能枪": {
+    "url_name": "kohm",
+    "real_cn_name": "寇恩热能枪"
+  },
+  "寇恩霰机枪": {
+    "url_name": "kohmak",
+    "real_cn_name": "寇恩霰机枪"
+  },
+  "猛毒": {
+    "url_name": "komorex",
+    "real_cn_name": "猛毒"
+  },
+  "库鲁多": {
+    "url_name": "korrudo",
+    "real_cn_name": "库鲁多"
+  },
+  "荒谬双枪": {
+    "url_name": "akzani",
+    "real_cn_name": "荒谬双枪"
+  },
+  "北海巨妖": {
+    "url_name": "kraken",
+    "real_cn_name": "北海巨妖"
+  },
+  "直镐": {
+    "url_name": "kreska",
+    "real_cn_name": "直镐"
+  },
+  "皇家拐刃": {
+    "url_name": "kronen",
+    "real_cn_name": "皇家拐刃"
+  },
+  "皇家拐刃prime": {
+    "url_name": "kronen_prime",
+    "real_cn_name": "皇家拐刃Prime"
+  },
+  "杀星": {
+    "url_name": "kulstar",
+    "real_cn_name": "杀星"
+  },
+  "苦无": {
+    "url_name": "kunai",
+    "real_cn_name": "苦无"
+  },
+  "悲痛之刃": {
+    "url_name": "lacera",
+    "real_cn_name": "悲痛之刃"
+  },
+  "兰卡": {
+    "url_name": "lanka",
+    "real_cn_name": "兰卡"
+  },
+  "翠雀": {
+    "url_name": "larkspur",
+    "real_cn_name": "翠雀"
+  },
+  "激光步枪": {
+    "url_name": "laser_rifle",
+    "real_cn_name": "激光步枪"
+  },
+  "阿克里德": {
+    "url_name": "acrid",
+    "real_cn_name": "阿克里德"
+  },
+  "双头蛇": {
+    "url_name": "amphis",
+    "real_cn_name": "双头蛇"
+  },
+  "拉托": {
+    "url_name": "lato",
+    "real_cn_name": "拉托"
+  },
+  "拉托prime": {
+    "url_name": "lato_prime",
+    "real_cn_name": "拉托Prime"
+  },
+  "拉托破坏者": {
+    "url_name": "lato_vandal",
+    "real_cn_name": "拉托破坏者"
+  },
+  "拉特昂": {
+    "url_name": "latron",
+    "real_cn_name": "拉特昂"
+  },
+  "拉特昂prime": {
+    "url_name": "latron_prime",
+    "real_cn_name": "拉特昂Prime"
+  },
+  "拉特昂亡魂": {
+    "url_name": "latron_wraith",
+    "real_cn_name": "拉特昂亡魂"
+  },
+  "勒克塔": {
+    "url_name": "lecta",
+    "real_cn_name": "勒克塔"
+  },
+  "楞次弓": {
+    "url_name": "lenz",
+    "real_cn_name": "楞次弓"
+  },
+  "病变": {
+    "url_name": "lesion",
+    "real_cn_name": "病变"
+  },
+  "雷克斯": {
+    "url_name": "lex",
+    "real_cn_name": "雷克斯"
+  },
+  "安培克斯": {
+    "url_name": "amprex",
+    "real_cn_name": "安培克斯"
+  },
+  "雷克斯prime": {
+    "url_name": "lex_prime",
+    "real_cn_name": "雷克斯Prime"
+  },
+  "卡德斯": {
+    "url_name": "cadus",
+    "real_cn_name": "卡德斯"
+  },
+  "马谢特砍刀": {
+    "url_name": "machete",
+    "real_cn_name": "马谢特砍刀"
+  },
+  "棱晶精英阔刀": {
+    "url_name": "prisma_machete",
+    "real_cn_name": "棱晶精英阔刀"
+  },
+  "马谢特砍刀亡魂": {
+    "url_name": "machete_wraith",
+    "real_cn_name": "马谢特砍刀亡魂"
+  },
+  "执法者": {
+    "url_name": "magistar",
+    "real_cn_name": "执法者"
+  },
+  "麦格努斯": {
+    "url_name": "magnus",
+    "real_cn_name": "麦格努斯"
+  },
+  "玛瑞火枪": {
+    "url_name": "marelok",
+    "real_cn_name": "玛瑞火枪"
+  },
+  "牝狮神": {
+    "url_name": "mios",
+    "real_cn_name": "牝狮神"
+  },
+  "米尔": {
+    "url_name": "mire",
+    "real_cn_name": "米尔"
+  },
+  "安格斯壮": {
+    "url_name": "angstrum",
+    "real_cn_name": "安格斯壮"
+  },
+  "米特尔": {
+    "url_name": "miter",
+    "real_cn_name": "米特尔"
+  },
+  "mk1-玻之武杖": {
+    "url_name": "mk1_bo",
+    "real_cn_name": "MK1-玻之武杖"
+  },
+  "mk1-布莱顿": {
+    "url_name": "mk1_braton",
+    "real_cn_name": "MK1-布莱顿"
+  },
+  "mk1-弗拉克斯": {
+    "url_name": "mk1_furax",
+    "real_cn_name": "MK1-弗拉克斯"
+  },
+  "mk1-盗贼": {
+    "url_name": "mk1_furis",
+    "real_cn_name": "MK1-盗贼"
+  },
+  "mk1-苦无": {
+    "url_name": "mk1_kunai",
+    "real_cn_name": "MK1-苦无"
+  },
+  "mk1-帕里斯": {
+    "url_name": "mk1_paris",
+    "real_cn_name": "MK1-帕里斯"
+  },
+  "mk1-斯特朗": {
+    "url_name": "mk1_strun",
+    "real_cn_name": "MK1-斯特朗"
+  },
+  "异融西诺斯": {
+    "url_name": "mutalist_cernos",
+    "real_cn_name": "异融西诺斯"
+  },
+  "异融量子枪": {
+    "url_name": "mutalist_quanta",
+    "real_cn_name": "异融量子枪"
+  },
+  "夺魂死神": {
+    "url_name": "anku",
+    "real_cn_name": "夺魂死神"
+  },
+  "噬蛇弩": {
+    "url_name": "nagantaka",
+    "real_cn_name": "噬蛇弩"
+  },
+  "海波斯库拉对剑": {
+    "url_name": "nami_skyla",
+    "real_cn_name": "海波斯库拉对剑"
+  },
+  "海波斯库拉对剑prime": {
+    "url_name": "nami_skyla_prime",
+    "real_cn_name": "海波斯库拉对剑Prime"
+  },
+  "海波单剑": {
+    "url_name": "nami_solo",
+    "real_cn_name": "海波单剑"
+  },
+  "侍刃": {
+    "url_name": "nikana",
+    "real_cn_name": "侍刃"
+  },
+  "侍刃prime": {
+    "url_name": "nikana_prime",
+    "real_cn_name": "侍刃Prime"
+  },
+  "降灵追猎者": {
+    "url_name": "ninkondi",
+    "real_cn_name": "降灵追猎者"
+  },
+  "降灵追猎者prime": {
+    "url_name": "ninkondi_prime",
+    "real_cn_name": "降灵追猎者Prime"
+  },
+  "努寇微波枪": {
+    "url_name": "nukor",
+    "real_cn_name": "努寇微波枪"
+  },
+  "奥比克斯": {
+    "url_name": "obex",
+    "real_cn_name": "奥比克斯"
+  },
+  "甲龙双拳": {
+    "url_name": "ankyros",
+    "real_cn_name": "甲龙双拳"
+  },
+  "视使之触": {
+    "url_name": "ocucor",
+    "real_cn_name": "视使之触"
+  },
+  "食人女魔": {
+    "url_name": "ogris",
+    "real_cn_name": "食人女魔"
+  },
+  "欧玛": {
+    "url_name": "ohma",
+    "real_cn_name": "欧玛"
+  },
+  "奥努里克斯": {
+    "url_name": "onorix",
+    "real_cn_name": "奥努里克斯"
+  },
+  "奥堤克光子枪": {
+    "url_name": "opticor",
+    "real_cn_name": "奥堤克光子枪"
+  },
+  "奥堤克光子枪破坏者": {
+    "url_name": "opticor_vandal",
+    "real_cn_name": "奥堤克光子枪破坏者"
+  },
+  "欧特鲁斯": {
+    "url_name": "orthos",
+    "real_cn_name": "欧特鲁斯"
+  },
+  "欧特鲁斯prime": {
+    "url_name": "orthos_prime",
+    "real_cn_name": "欧特鲁斯Prime"
+  },
+  "灵枢": {
+    "url_name": "orvius",
+    "real_cn_name": "灵枢"
+  },
+  "手鼓": {
+    "url_name": "pandero",
+    "real_cn_name": "手鼓"
+  },
+  "甲龙双拳prime": {
+    "url_name": "ankyros_prime",
+    "real_cn_name": "甲龙双拳Prime"
+  },
+  "鲮鲤剑": {
+    "url_name": "pangolin_sword",
+    "real_cn_name": "鲮鲤剑"
+  },
+  "猎豹": {
+    "url_name": "panthera",
+    "real_cn_name": "猎豹"
+  },
+  "心智之殁": {
+    "url_name": "paracesis",
+    "real_cn_name": "心智之殁"
+  },
+  "附肢寄生者": {
+    "url_name": "paracyst",
+    "real_cn_name": "附肢寄生者"
+  },
+  "帕里斯": {
+    "url_name": "paris",
+    "real_cn_name": "帕里斯"
+  },
+  "帕里斯prime": {
+    "url_name": "paris_prime",
+    "real_cn_name": "帕里斯Prime"
+  },
+  "潘塔": {
+    "url_name": "penta",
+    "real_cn_name": "潘塔"
+  },
+  "菲德菈": {
+    "url_name": "phaedra",
+    "real_cn_name": "菲德菈"
+  },
+  "噬菌者": {
+    "url_name": "phage",
+    "real_cn_name": "噬菌者"
+  },
+  "幻离子": {
+    "url_name": "phantasma",
+    "real_cn_name": "幻离子"
+  },
+  "弧电离子枪": {
+    "url_name": "arca_plasmor",
+    "real_cn_name": "弧电离子枪"
+  },
+  "等离子长剑": {
+    "url_name": "plasma_sword",
+    "real_cn_name": "等离子长剑"
+  },
+  "漫射者": {
+    "url_name": "plinx",
+    "real_cn_name": "漫射者"
+  },
+  "脓痘": {
+    "url_name": "pox",
+    "real_cn_name": "脓痘"
+  },
+  "激光步枪prime": {
+    "url_name": "prime_laser_rifle",
+    "real_cn_name": "激光步枪Prime"
+  },
+  "棱晶安格斯壮": {
+    "url_name": "prisma_angstrum",
+    "real_cn_name": "棱晶安格斯壮"
+  },
+  "棱晶激光点发": {
+    "url_name": "prisma_burst_laser",
+    "real_cn_name": "棱晶激光点发"
+  },
+  "棱晶斩肉双刀": {
+    "url_name": "prisma_dual_cleavers",
+    "real_cn_name": "棱晶斩肉双刀"
+  },
+  "棱晶蛇发女妖": {
+    "url_name": "prisma_gorgon",
+    "real_cn_name": "棱晶蛇发女妖"
+  },
+  "棱晶葛拉卡达": {
+    "url_name": "prisma_grakata",
+    "real_cn_name": "棱晶葛拉卡达"
+  },
+  "棱晶葛恩火枪": {
+    "url_name": "prisma_grinlok",
+    "real_cn_name": "棱晶葛恩火枪"
+  },
+  "弧电探知者": {
+    "url_name": "arca_scisco",
+    "real_cn_name": "弧电探知者"
+  },
+  "棱晶奥比克斯": {
+    "url_name": "prisma_obex",
+    "real_cn_name": "棱晶奥比克斯"
+  },
+  "棱晶阴影": {
+    "url_name": "prisma_shade",
+    "real_cn_name": "棱晶阴影"
+  },
+  "棱晶空刃": {
+    "url_name": "prisma_skana",
+    "real_cn_name": "棱晶空刃"
+  },
+  "棱晶特拉": {
+    "url_name": "prisma_tetra",
+    "real_cn_name": "棱晶特拉"
+  },
+  "棱晶双子小精灵": {
+    "url_name": "prisma_twin_gremlins",
+    "real_cn_name": "棱晶双子小精灵"
+  },
+  "棱晶真理巨剑": {
+    "url_name": "prisma_veritux",
+    "real_cn_name": "棱晶真理巨剑"
+  },
+  "普罗沃": {
+    "url_name": "prova",
+    "real_cn_name": "普罗沃"
+  },
+  "普罗沃破坏者": {
+    "url_name": "prova_vandal",
+    "real_cn_name": "普罗沃破坏者"
+  },
+  "毒囊骨茧": {
+    "url_name": "pupacyst",
+    "real_cn_name": "毒囊骨茧"
+  },
+  "食人鱼": {
+    "url_name": "pyrana",
+    "real_cn_name": "食人鱼"
+  },
+  "弧电振子锤": {
+    "url_name": "arca_titron",
+    "real_cn_name": "弧电振子锤"
+  },
+  "食人鱼prime": {
+    "url_name": "pyrana_prime",
+    "real_cn_name": "食人鱼Prime"
+  },
+  "量子切割器": {
+    "url_name": "quanta",
+    "real_cn_name": "量子切割器"
+  },
+  "量子切割器破坏者": {
+    "url_name": "quanta_vandal",
+    "real_cn_name": "量子切割器破坏者"
+  },
+  "夸塔克": {
+    "url_name": "quartakk",
+    "real_cn_name": "夸塔克"
+  },
+  "绯红布里斯提卡": {
+    "url_name": "rakta_ballistica",
+    "real_cn_name": "绯红布里斯提卡"
+  },
+  "绯红西诺斯": {
+    "url_name": "rakta_cernos",
+    "real_cn_name": "绯红西诺斯"
+  },
+  "绯红暗黑匕首": {
+    "url_name": "rakta_dark_dagger",
+    "real_cn_name": "绯红暗黑匕首"
+  },
+  "拉斯波恩": {
+    "url_name": "rathbone",
+    "real_cn_name": "拉斯波恩"
+  },
+  "收割者prime": {
+    "url_name": "reaper_prime",
+    "real_cn_name": "收割者Prime"
+  },
+  "救赎者": {
+    "url_name": "redeemer",
+    "real_cn_name": "救赎者"
+  },
+  "阿卡塔": {
+    "url_name": "arcata",
+    "real_cn_name": "阿卡塔"
+  },
+  "救赎者prime": {
+    "url_name": "redeemer_prime",
+    "real_cn_name": "救赎者Prime"
+  },
+  "锐卡斯": {
+    "url_name": "ripkas",
+    "real_cn_name": "锐卡斯"
+  },
+  "绝路": {
+    "url_name": "rubico",
+    "real_cn_name": "绝路"
+  },
+  "绝路prime": {
+    "url_name": "rubico_prime",
+    "real_cn_name": "绝路Prime"
+  },
+  "圣洁雷爆信镖": {
+    "url_name": "sancti_castanas",
+    "real_cn_name": "圣洁雷爆信镖"
+  },
+  "圣洁执法者": {
+    "url_name": "sancti_magistar",
+    "real_cn_name": "圣洁执法者"
+  },
+  "圣洁猛虎": {
+    "url_name": "sancti_tigris",
+    "real_cn_name": "圣洁猛虎"
+  },
+  "蛇刃": {
+    "url_name": "sarpa",
+    "real_cn_name": "蛇刃"
+  },
+  "分裂斩斧": {
+    "url_name": "scindo",
+    "real_cn_name": "分裂斩斧"
+  },
+  "分裂斩斧prime": {
+    "url_name": "scindo_prime",
+    "real_cn_name": "分裂斩斧Prime"
+  },
+  "盗贼双枪": {
+    "url_name": "afuris",
+    "real_cn_name": "盗贼双枪"
+  },
+  "驯象钩刃": {
+    "url_name": "archhooksword",
+    "real_cn_name": "驯象钩刃"
+  },
+  "嵴椎节鞭": {
+    "url_name": "scoliac",
+    "real_cn_name": "嵴椎节鞭"
+  },
+  "祸根": {
+    "url_name": "scourge",
+    "real_cn_name": "祸根"
+  },
+  "保障锡斯特双枪": {
+    "url_name": "secura_dual_cestra",
+    "real_cn_name": "保障锡斯特双枪"
+  },
+  "保障勒克塔": {
+    "url_name": "secura_lecta",
+    "real_cn_name": "保障勒克塔"
+  },
+  "保障潘塔": {
+    "url_name": "secura_penta",
+    "real_cn_name": "保障潘塔"
+  },
+  "预言者": {
+    "url_name": "seer",
+    "real_cn_name": "预言者"
+  },
+  "电能斩锯": {
+    "url_name": "serro",
+    "real_cn_name": "电能斩锯"
+  },
+  "双节尺棍": {
+    "url_name": "shaku",
+    "real_cn_name": "双节尺棍"
+  },
+  "希芙": {
+    "url_name": "sheev",
+    "real_cn_name": "希芙"
+  },
+  "西伯利亚冰锤": {
+    "url_name": "sibear",
+    "real_cn_name": "西伯利亚冰锤"
+  },
+  "氩格纳克": {
+    "url_name": "argonak",
+    "real_cn_name": "氩格纳克"
+  },
+  "暗杀者": {
+    "url_name": "sicarus",
+    "real_cn_name": "暗杀者"
+  },
+  "暗杀者prime": {
+    "url_name": "sicarus_prime",
+    "real_cn_name": "暗杀者Prime"
+  },
+  "西格玛&南极座": {
+    "url_name": "sigma_&_octantis",
+    "real_cn_name": "西格玛&南极座"
+  },
+  "席瓦&神盾prime": {
+    "url_name": "silva&_aegis_prime",
+    "real_cn_name": "席瓦&神盾Prime"
+  },
+  "席瓦&神盾": {
+    "url_name": "silva&aegis",
+    "real_cn_name": "席瓦&神盾"
+  },
+  "重力奇点拟成枪": {
+    "url_name": "simulor",
+    "real_cn_name": "重力奇点拟成枪"
+  },
+  "空刃": {
+    "url_name": "skana",
+    "real_cn_name": "空刃"
+  },
+  "空刃prime": {
+    "url_name": "skana_prime",
+    "real_cn_name": "空刃Prime"
+  },
+  "影生": {
+    "url_name": "skiajati",
+    "real_cn_name": "影生"
+  },
+  "狙击特昂": {
+    "url_name": "snipetron",
+    "real_cn_name": "狙击特昂"
+  },
+  "阿塔克斯": {
+    "url_name": "artax",
+    "real_cn_name": "阿塔克斯"
+  },
+  "狙击特昂破坏者": {
+    "url_name": "snipetron_vandal",
+    "real_cn_name": "狙击特昂破坏者"
+  },
+  "鳄神": {
+    "url_name": "sobek",
+    "real_cn_name": "鳄神"
+  },
+  "月神": {
+    "url_name": "soma",
+    "real_cn_name": "月神"
+  },
+  "月神prime": {
+    "url_name": "soma_prime",
+    "real_cn_name": "月神Prime"
+  },
+  "超音波冲击枪": {
+    "url_name": "sonicor",
+    "real_cn_name": "超音波冲击枪"
+  },
+  "光谱切割器": {
+    "url_name": "spectra",
+    "real_cn_name": "光谱切割器"
+  },
+  "光谱切割器破坏者": {
+    "url_name": "spectra_vandal",
+    "real_cn_name": "光谱切割器破坏者"
+  },
+  "旋刃飞刀": {
+    "url_name": "spira",
+    "real_cn_name": "旋刃飞刀"
+  },
+  "旋刃飞刀prime": {
+    "url_name": "spira_prime",
+    "real_cn_name": "旋刃飞刀Prime"
+  },
+  "静电能量导引枪": {
+    "url_name": "staticor",
+    "real_cn_name": "静电能量导引枪"
+  },
+  "月神狩弓": {
+    "url_name": "artemis_bow",
+    "real_cn_name": "月神狩弓"
+  },
+  "毒刺": {
+    "url_name": "stinger",
+    "real_cn_name": "毒刺"
+  },
+  "斯特拉迪瓦": {
+    "url_name": "stradavar",
+    "real_cn_name": "斯特拉迪瓦"
+  },
+  "斯特拉迪瓦prime": {
+    "url_name": "stradavar_prime",
+    "real_cn_name": "斯特拉迪瓦Prime"
+  },
+  "斯特朗": {
+    "url_name": "strun",
+    "real_cn_name": "斯特朗"
+  },
+  "斯特朗亡魂": {
+    "url_name": "strun_wraith",
+    "real_cn_name": "斯特朗亡魂"
+  },
+  "史度巴": {
+    "url_name": "stubba",
+    "real_cn_name": "史度巴"
+  },
+  "史特克": {
+    "url_name": "stug",
+    "real_cn_name": "史特克"
+  },
+  "苏普拉": {
+    "url_name": "supra",
+    "real_cn_name": "苏普拉"
+  },
+  "苏普拉破坏者": {
+    "url_name": "supra_vandal",
+    "real_cn_name": "苏普拉破坏者"
+  },
+  "扫除者": {
+    "url_name": "sweeper",
+    "real_cn_name": "扫除者"
+  },
+  "碎裂者": {
+    "url_name": "astilla",
+    "real_cn_name": "碎裂者"
+  },
+  "扫除者prime": {
+    "url_name": "sweeper_prime",
+    "real_cn_name": "扫除者Prime"
+  },
+  "席芭莉丝": {
+    "url_name": "sybaris",
+    "real_cn_name": "席芭莉丝"
+  },
+  "席芭莉丝prime": {
+    "url_name": "sybaris_prime",
+    "real_cn_name": "席芭莉丝Prime"
+  },
+  "恶龙": {
+    "url_name": "sydon",
+    "real_cn_name": "恶龙"
+  },
+  "突触生化枪": {
+    "url_name": "synapse",
+    "real_cn_name": "突触生化枪"
+  },
+  "枢议咖玛腕甲枪": {
+    "url_name": "synoid_gammacor",
+    "real_cn_name": "枢议咖玛腕甲枪"
+  },
+  "枢议赫利俄光锤": {
+    "url_name": "synoid_heliocor",
+    "real_cn_name": "枢议赫利俄光锤"
+  },
+  "枢议重力奇点拟成枪": {
+    "url_name": "synoid_simulor",
+    "real_cn_name": "枢议重力奇点拟成枪"
+  },
+  "鹰爪": {
+    "url_name": "talons",
+    "real_cn_name": "鹰爪"
+  },
+  "龙辰": {
+    "url_name": "tatsu",
+    "real_cn_name": "龙辰"
+  },
+  "原子矿融炮": {
+    "url_name": "atomos",
+    "real_cn_name": "原子矿融炮"
+  },
+  "塔克桑": {
+    "url_name": "taxon",
+    "real_cn_name": "塔克桑"
+  },
+  "铁钩手甲": {
+    "url_name": "tekko",
+    "real_cn_name": "铁钩手甲"
+  },
+  "终极螺钉双枪": {
+    "url_name": "telos_akbolto",
+    "real_cn_name": "终极螺钉双枪"
+  },
+  "终极螺钉拐刃": {
+    "url_name": "telos_boltace",
+    "real_cn_name": "终极螺钉拐刃"
+  },
+  "终极螺钉步枪": {
+    "url_name": "telos_boltor",
+    "real_cn_name": "终极螺钉步枪"
+  },
+  "双簧管": {
+    "url_name": "tenora",
+    "real_cn_name": "双簧管"
+  },
+  "特拉": {
+    "url_name": "tetra",
+    "real_cn_name": "特拉"
+  },
+  "狂鲨": {
+    "url_name": "tiberon",
+    "real_cn_name": "狂鲨"
+  },
+  "狂鲨prime": {
+    "url_name": "tiberon_prime",
+    "real_cn_name": "狂鲨Prime"
+  },
+  "猛虎": {
+    "url_name": "tigris",
+    "real_cn_name": "猛虎"
+  },
+  "阿特拉克斯": {
+    "url_name": "atterax",
+    "real_cn_name": "阿特拉克斯"
+  },
+  "猛虎prime": {
+    "url_name": "tigris_prime",
+    "real_cn_name": "猛虎Prime"
+  },
+  "提佩多": {
+    "url_name": "tipedo",
+    "real_cn_name": "提佩多"
+  },
+  "提佩多prime": {
+    "url_name": "tipedo_prime",
+    "real_cn_name": "提佩多Prime"
+  },
+  "蜻蜓薙": {
+    "url_name": "tonbo",
+    "real_cn_name": "蜻蜓薙"
+  },
+  "征服榴炮": {
+    "url_name": "tonkor",
+    "real_cn_name": "征服榴炮"
+  },
+  "托里德": {
+    "url_name": "torid",
+    "real_cn_name": "托里德"
+  },
+  "双子巴萨克": {
+    "url_name": "twin_basolk",
+    "real_cn_name": "双子巴萨克"
+  },
+  "双子葛拉卡达": {
+    "url_name": "twin_grakata",
+    "real_cn_name": "双子葛拉卡达"
+  },
+  "双子小精灵": {
+    "url_name": "twin_gremlins",
+    "real_cn_name": "双子小精灵"
+  },
+  "双子宼恩霰机枪": {
+    "url_name": "twin_kohmak",
+    "real_cn_name": "双子宼恩霰机枪"
+  },
+  "阿提卡": {
+    "url_name": "attica",
+    "real_cn_name": "阿提卡"
+  },
+  "双子罗格": {
+    "url_name": "twin_rogga",
+    "real_cn_name": "双子罗格"
+  },
+  "双子蝰蛇": {
+    "url_name": "twin_vipers",
+    "real_cn_name": "双子蝰蛇"
+  },
+  "双子蝰蛇亡魂": {
+    "url_name": "twin_wraith_vipers",
+    "real_cn_name": "双子蝰蛇亡魂"
+  },
+  "啐沫者": {
+    "url_name": "tysis",
+    "real_cn_name": "啐沫者"
+  },
+  "瓦斯托": {
+    "url_name": "vasto",
+    "real_cn_name": "瓦斯托"
+  },
+  "瓦斯托prime": {
+    "url_name": "vasto_prime",
+    "real_cn_name": "瓦斯托Prime"
+  },
+  "勇气海克": {
+    "url_name": "vaykor_hek",
+    "real_cn_name": "勇气海克"
+  },
+  "勇气玛瑞火枪": {
+    "url_name": "vaykor_marelok",
+    "real_cn_name": "勇气玛瑞火枪"
+  },
+  "勇气恶龙": {
+    "url_name": "vaykor_sydon",
+    "real_cn_name": "勇气恶龙"
+  },
+  "守望者": {
+    "url_name": "vectis",
+    "real_cn_name": "守望者"
+  },
+  "方位角": {
+    "url_name": "azima",
+    "real_cn_name": "方位角"
+  },
+  "守望者prime": {
+    "url_name": "vectis_prime",
+    "real_cn_name": "守望者Prime"
+  },
+  "草原猎手": {
+    "url_name": "veldt",
+    "real_cn_name": "草原猎手"
+  },
+  "极速电磁步枪": {
+    "url_name": "velocitus",
+    "real_cn_name": "极速电磁步枪"
+  },
+  "凯旋之爪": {
+    "url_name": "venka",
+    "real_cn_name": "凯旋之爪"
+  },
+  "凯旋之爪prime": {
+    "url_name": "venka_prime",
+    "real_cn_name": "凯旋之爪Prime"
+  },
+  "真理巨剑": {
+    "url_name": "veritux",
+    "real_cn_name": "真理巨剑"
+  },
+  "蝰蛇": {
+    "url_name": "viper",
+    "real_cn_name": "蝰蛇"
+  },
+  "蝰蛇亡魂": {
+    "url_name": "viper_wraith",
+    "real_cn_name": "蝰蛇亡魂"
+  },
+  "创伤": {
+    "url_name": "volnus",
+    "real_cn_name": "创伤"
+  },
+  "金工火神": {
+    "url_name": "vulkar",
+    "real_cn_name": "金工火神"
+  },
+  "布里斯提卡": {
+    "url_name": "ballistica",
+    "real_cn_name": "布里斯提卡"
+  },
+  "金工火神亡魂": {
+    "url_name": "vulkar_wraith",
+    "real_cn_name": "金工火神亡魂"
+  },
+  "金工火枪": {
+    "url_name": "vulklok",
+    "real_cn_name": "金工火枪"
+  },
+  "战争之剑": {
+    "url_name": "war",
+    "real_cn_name": "战争之剑"
+  },
+  "恶狼战锤": {
+    "url_name": "wolf_sledge",
+    "real_cn_name": "恶狼战锤"
+  },
+  "毒芽": {
+    "url_name": "zakti",
+    "real_cn_name": "毒芽"
+  },
+  "沙皇": {
+    "url_name": "zarr",
+    "real_cn_name": "沙皇"
+  },
+  "天顶之星": {
+    "url_name": "zenistar",
+    "real_cn_name": "天顶之星"
+  },
+  "天穹之顶": {
+    "url_name": "zenith",
+    "real_cn_name": "天穹之顶"
+  },
+  "诸葛连弩": {
+    "url_name": "zhuge",
+    "real_cn_name": "诸葛连弩"
+  },
+  "诸葛连弩prime": {
+    "url_name": "zhuge_prime",
+    "real_cn_name": "诸葛连弩Prime"
+  },
+  "螺钉双枪": {
+    "url_name": "akbolto",
+    "real_cn_name": "螺钉双枪"
+  },
+  "布里斯提卡prime": {
+    "url_name": "ballistica_prime",
+    "real_cn_name": "布里斯提卡Prime"
+  },
+  "席尔火枪": {
+    "url_name": "zylok",
+    "real_cn_name": "席尔火枪"
+  },
+  "武使之力": {
+    "url_name": "battacor",
+    "real_cn_name": "武使之力"
+  },
+  "苍鹰": {
+    "url_name": "baza",
+    "real_cn_name": "苍鹰"
+  },
+  "玻之武杖": {
+    "url_name": "bo",
+    "real_cn_name": "玻之武杖"
+  },
+  "玻之武杖prime": {
+    "url_name": "bo_prime",
+    "real_cn_name": "玻之武杖Prime"
+  },
+  "野猪": {
+    "url_name": "boar",
+    "real_cn_name": "野猪"
+  },
+  "野猪prime": {
+    "url_name": "boar_prime",
+    "real_cn_name": "野猪Prime"
+  },
+  "螺钉拐刃": {
+    "url_name": "boltace",
+    "real_cn_name": "螺钉拐刃"
+  },
+  "螺钉手枪": {
+    "url_name": "bolto",
+    "real_cn_name": "螺钉手枪"
+  },
+  "螺钉步枪": {
+    "url_name": "boltor",
+    "real_cn_name": "螺钉步枪"
+  },
+  "螺钉双枪prime": {
+    "url_name": "akbolto_prime",
+    "real_cn_name": "螺钉双枪Prime"
+  },
+  "螺钉步枪prime": {
+    "url_name": "boltor_prime",
+    "real_cn_name": "螺钉步枪Prime"
+  },
+  "布拉克": {
+    "url_name": "brakk",
+    "real_cn_name": "布拉克"
+  },
+  "布莱顿": {
+    "url_name": "braton",
+    "real_cn_name": "布莱顿"
+  },
+  "布莱顿prime": {
+    "url_name": "braton_prime",
+    "real_cn_name": "布莱顿Prime"
+  },
+  "布莱顿破坏者": {
+    "url_name": "braton_vandal",
+    "real_cn_name": "布莱顿破坏者"
+  },
+  "破损珽杖": {
+    "url_name": "broken_scepter",
+    "real_cn_name": "破损珽杖"
+  },
+  "破碎的战争之剑": {
+    "url_name": "broken_war",
+    "real_cn_name": "破碎的战争之剑"
+  },
+  "野马": {
+    "url_name": "bronco",
+    "real_cn_name": "野马"
+  },
+  "野马prime": {
+    "url_name": "bronco_prime",
+    "real_cn_name": "野马Prime"
+  },
+  "激光点发": {
+    "url_name": "burst_laser",
+    "real_cn_name": "激光点发"
+  },
+  "野马双枪": {
+    "url_name": "akbronco",
+    "real_cn_name": "野马双枪"
+  },
+  "伯斯顿": {
+    "url_name": "burston",
+    "real_cn_name": "伯斯顿"
+  },
+  "伯斯顿prime": {
+    "url_name": "burston_prime",
+    "real_cn_name": "伯斯顿Prime"
+  },
+  "巴兹火枪": {
+    "url_name": "buzlok",
+    "real_cn_name": "巴兹火枪"
+  },
+  "嫣红潘塔": {
+    "url_name": "carmine_penta",
+    "real_cn_name": "嫣红 潘塔"
+  },
+  "雷爆信镖": {
+    "url_name": "castanas",
+    "real_cn_name": "雷爆信镖"
+  },
+  "灼蚀变体镰": {
+    "url_name": "caustacyst",
+    "real_cn_name": "灼蚀变体镰"
+  },
+  "半人马": {
+    "url_name": "centaur",
+    "real_cn_name": "半人马"
+  },
+  "陶瓷匕首": {
+    "url_name": "ceramic_dagger",
+    "real_cn_name": "陶瓷匕首"
+  },
+  "裸鳃刃": {
+    "url_name": "cerata",
+    "real_cn_name": "裸鳃刃"
+  },
+  "西诺斯": {
+    "url_name": "cernos",
+    "real_cn_name": "西诺斯"
+  },
+  "野马双枪prime": {
+    "url_name": "akbronco_prime",
+    "real_cn_name": "野马双枪Prime"
+  },
+  "西诺斯prime": {
+    "url_name": "cernos_prime",
+    "real_cn_name": "西诺斯Prime"
+  },
+  "锡斯特": {
+    "url_name": "cestra",
+    "real_cn_name": "锡斯特"
+  },
+  "眼镜蛇&鹤": {
+    "url_name": "cobra_&_crane",
+    "real_cn_name": "眼镜蛇&鹤"
+  },
+  "导热聚焦枪": {
+    "url_name": "convectrix",
+    "real_cn_name": "导热聚焦枪"
+  },
+  "科林斯": {
+    "url_name": "corinth",
+    "real_cn_name": "科林斯"
+  },
+  "黑鸦": {
+    "url_name": "corvas",
+    "real_cn_name": "黑鸦"
+  },
+  "克洛诺斯": {
+    "url_name": "cronus",
+    "real_cn_name": "克洛诺斯"
+  },
+  "氰毒": {
+    "url_name": "cyanex",
+    "real_cn_name": "氰毒"
+  },
+  "循环离子枪": {
+    "url_name": "cycron",
+    "real_cn_name": "循环离子枪"
+  },
+  "合成燃气炮": {
+    "url_name": "cyngas",
+    "real_cn_name": "合成燃气炮"
+  },
+  "觉醒双枪": {
+    "url_name": "akjagara",
+    "real_cn_name": "觉醒双枪"
+  },
+  "大久和弓prime": {
+    "url_name": "daikyu_prime",
+    "real_cn_name": "大久和弓Prime"
+  },
+  "达克拉prime": {
+    "url_name": "dakra_prime",
+    "real_cn_name": "达克拉Prime"
+  },
+  "暗黑匕首": {
+    "url_name": "dark_dagger",
+    "real_cn_name": "暗黑匕首"
+  },
+  "暗黑分合剑": {
+    "url_name": "dark_split_sword",
+    "real_cn_name": "暗黑分合剑"
+  },
+  "暗黑长剑": {
+    "url_name": "dark_sword",
+    "real_cn_name": "暗黑长剑"
+  },
+  "分离": {
+    "url_name": "deconstructor",
+    "real_cn_name": "分离"
+  },
+  "分离prime": {
+    "url_name": "deconstructor_prime",
+    "real_cn_name": "分离Prime"
+  },
+  "德拉": {
+    "url_name": "dera",
+    "real_cn_name": "德拉"
+  },
+  "德拉破坏者": {
+    "url_name": "dera_vandal",
+    "real_cn_name": "德拉破坏者"
+  },
+  "绝望": {
+    "url_name": "despair",
+    "real_cn_name": "绝望"
+  },
+  "觉醒双枪prime": {
+    "url_name": "akjagara_prime",
+    "real_cn_name": "觉醒双枪Prime"
+  },
+  "技巧之剑": {
+    "url_name": "destreza",
+    "real_cn_name": "技巧之剑"
+  },
+  "技巧之剑prime": {
+    "url_name": "destreza_prime",
+    "real_cn_name": "技巧之剑Prime"
+  },
+  "科林斯prime": {
+    "url_name": "corinth_prime",
+    "real_cn_name": "科林斯Prime"
+  },
+  "鲮鲤剑prime": {
+    "url_name": "pangolin_prime",
+    "real_cn_name": "鲮鲤剑Prime"
+  },
+  "猎豹prime": {
+    "url_name": "panthera_prime",
+    "real_cn_name": "猎豹Prime"
+  },
+  "凯洛斯特prime": {
+    "url_name": "karyst_prime",
+    "real_cn_name": "凯洛斯特Prime"
+  },
+  "关刀prime": {
+    "url_name": "guandao_prime",
+    "real_cn_name": "关刀Prime"
+  },
+  "死亡机枪": {
+    "url_name": "deth_machine_rifle",
+    "real_cn_name": "死亡机枪"
+  },
+  "毒芽prime": {
+    "url_name": "zakti_prime",
+    "real_cn_name": "毒芽Prime"
+  },
+  "双簧管prime": {
+    "url_name": "tenora_prime",
+    "real_cn_name": "双簧管Prime"
+  },
+  "手鼓prime": {
+    "url_name": "pandero_prime",
+    "real_cn_name": "手鼓Prime"
+  },
+  "碎裂者prime": {
+    "url_name": "astilla_prime",
+    "real_cn_name": "碎裂者Prime"
+  },
+  "创伤prime": {
+    "url_name": "volnus_prime",
+    "real_cn_name": "创伤Prime"
+  },
+  "斯特朗prime": {
+    "url_name": "strun_prime",
+    "real_cn_name": "斯特朗Prime"
+  },
+  "麦格努斯prime": {
+    "url_name": "magnus_prime",
+    "real_cn_name": "麦格努斯Prime"
+  },
+  "祸根prime": {
+    "url_name": "scourge_prime",
+    "real_cn_name": "祸根Prime"
+  },
+  "丧钟prime": {
+    "url_name": "knell_prime",
+    "real_cn_name": "丧钟Prime"
+  },
+  "脉纹": {
+    "url_name": "venato",
+    "real_cn_name": "脉纹"
+  },
+  "雷霆暴君": {
+    "url_name": "korumm",
+    "real_cn_name": "雷霆暴君"
+  },
+  "赤炎流星": {
+    "url_name": "nepheri",
+    "real_cn_name": "赤炎流星"
+  },
+  "蝰首骨妖": {
+    "url_name": "verdilac",
+    "real_cn_name": "蝰首骨妖"
+  },
+  "赤风": {
+    "url_name": "sirocco",
+    "real_cn_name": "赤风"
+  },
+  "电匕怪杰": {
+    "url_name": "rumblejack",
+    "real_cn_name": "电匕怪杰"
+  },
+  "德特昂": {
+    "url_name": "detron",
+    "real_cn_name": "德特昂"
+  },
+  "信条弧电离子枪": {
+    "url_name": "tenet_arca_plasmor",
+    "real_cn_name": "信条弧电离子枪"
+  },
+  "信条特拉": {
+    "url_name": "tenet_tetra",
+    "real_cn_name": "信条特拉"
+  },
+  "信条通量步枪": {
+    "url_name": "tenet_flux_rifle",
+    "real_cn_name": "信条通量步枪"
+  },
+  "信条德特昂": {
+    "url_name": "tenet_detron",
+    "real_cn_name": "信条德特昂"
+  },
+  "信条循环离子枪": {
+    "url_name": "tenet_cycron",
+    "real_cn_name": "信条循环离子枪"
+  },
+  "信条典客": {
+    "url_name": "tenet_envoy",
+    "real_cn_name": "信条典客"
+  },
+  "德特昂苦痛": {
+    "url_name": "detron_mara",
+    "real_cn_name": "德特昂苦痛"
+  },
+  "信条斯派克斯": {
+    "url_name": "tenet_spirex",
+    "real_cn_name": "信条斯派克斯"
+  },
+  "信条纵横双枪": {
+    "url_name": "tenet_diplos",
+    "real_cn_name": "信条纵横双枪"
+  },
+  "信条莉薇娅": {
+    "url_name": "tenet_livia",
+    "real_cn_name": "信条莉薇娅"
+  },
+  "信条集议": {
+    "url_name": "tenet_agendus",
+    "real_cn_name": "信条集议"
+  },
+  "信条枢密": {
+    "url_name": "tenet_exec",
+    "real_cn_name": "信条枢密"
+  },
+  "信条格里高利": {
+    "url_name": "tenet_grigori",
+    "real_cn_name": "信条格里高利"
+  },
+  "赤毒卡拉克": {
+    "url_name": "kuva_karak",
+    "real_cn_name": "赤毒卡拉克"
+  },
+  "赤毒夸塔克": {
+    "url_name": "kuva_quartakk",
+    "real_cn_name": "赤毒夸塔克"
+  },
+  "赤毒雌鹿": {
+    "url_name": "kuva_hind",
+    "real_cn_name": "赤毒雌鹿"
+  },
+  "赤毒邪眼": {
+    "url_name": "kuva_chakkhurr",
+    "real_cn_name": "赤毒邪眼"
+  },
+  "dex达克拉双剑": {
+    "url_name": "dex_dakra",
+    "real_cn_name": "Dex达克拉双剑"
+  },
+  "赤毒寇恩热能枪": {
+    "url_name": "kuva_kohm",
+    "real_cn_name": "赤毒寇恩热能枪"
+  },
+  "赤毒龙骑兵": {
+    "url_name": "kuva_drakgoon",
+    "real_cn_name": "赤毒龙骑兵"
+  },
+  "赤毒布拉玛": {
+    "url_name": "kuva_bramma",
+    "real_cn_name": "赤毒布拉玛"
+  },
+  "赤毒食人女魔": {
+    "url_name": "kuva_ogris",
+    "real_cn_name": "赤毒食人女魔"
+  },
+  "赤毒征服榴炮": {
+    "url_name": "kuva_tonkor",
+    "real_cn_name": "赤毒征服榴炮"
+  },
+  "赤毒努寇微波枪": {
+    "url_name": "kuva_nukor",
+    "real_cn_name": "赤毒努寇微波枪"
+  },
+  "赤毒预言者": {
+    "url_name": "kuva_seer",
+    "real_cn_name": "赤毒预言者"
+  },
+  "赤毒北海巨妖": {
+    "url_name": "kuva_kraken",
+    "real_cn_name": "赤毒北海巨妖"
+  },
+  "赤毒双子史度巴": {
+    "url_name": "kuva_twin_stubbas",
+    "real_cn_name": "赤毒双子史度巴"
+  },
+  "赤毒布拉克": {
+    "url_name": "kuva_brakk",
+    "real_cn_name": "赤毒布拉克"
+  },
+  "dex盗贼双枪": {
+    "url_name": "dex_furis",
+    "real_cn_name": "Dex盗贼双枪"
+  },
+  "赤毒希尔德": {
+    "url_name": "kuva_shildeg",
+    "real_cn_name": "赤毒希尔德"
+  },
+  "赤毒怒雷": {
+    "url_name": "kuva_ayanga",
+    "real_cn_name": "赤毒怒雷"
+  },
+  "赤毒海克": {
+    "url_name": "kuva_hek",
+    "real_cn_name": "赤毒海克"
+  },
+  "赤毒沙皇": {
+    "url_name": "kuva_zarr",
+    "real_cn_name": "赤毒沙皇"
+  },
+  "赤毒葛拉特勒": {
+    "url_name": "kuva_grattler",
+    "real_cn_name": "赤毒葛拉特勒"
+  },
+  "尸鬼电锯": {
+    "url_name": "ghoulsaw",
+    "real_cn_name": "尸鬼电锯"
+  },
+  "卡帕压力枪": {
+    "url_name": "kompressa",
+    "real_cn_name": "卡帕压力枪"
+  },
+  "葬铭": {
+    "url_name": "epitaph",
+    "real_cn_name": "葬铭"
+  },
+  "疆南星刺": {
+    "url_name": "arum_spinosa",
+    "real_cn_name": "疆南星刺"
+  },
+  "威震武扇": {
+    "url_name": "quassus",
+    "real_cn_name": "威震武扇"
+  },
+  "dex席芭莉丝": {
+    "url_name": "dex_sybaris",
+    "real_cn_name": "Dex席芭莉丝"
+  },
+  "孢丝感染枪": {
+    "url_name": "sporothrix",
+    "real_cn_name": "孢丝感染枪"
+  },
+  "卡提努之爪": {
+    "url_name": "keratinos",
+    "real_cn_name": "卡提努之爪"
+  },
+  "感染连枷": {
+    "url_name": "pulmonars",
+    "real_cn_name": "感染连枷"
+  },
+  "邪莫斯": {
+    "url_name": "zymos",
+    "real_cn_name": "邪莫斯"
+  },
+  "异化者": {
+    "url_name": "catabolyst",
+    "real_cn_name": "异化者"
+  },
+  "横痃重炮": {
+    "url_name": "bubonico",
+    "real_cn_name": "横痃重炮"
+  },
+  "塞多": {
+    "url_name": "cedo",
+    "real_cn_name": "塞多"
+  },
+  "送葬者": {
+    "url_name": "cortege",
+    "real_cn_name": "送葬者"
+  },
+  "置灵者": {
+    "url_name": "morgha",
+    "real_cn_name": "置灵者"
+  },
+  "惩戒者": {
+    "url_name": "mausolon",
+    "real_cn_name": "惩戒者"
+  },
+  "龙之侍刃": {
+    "url_name": "dragon_nikana",
+    "real_cn_name": "龙之侍刃"
+  },
+  "钢刃步枪": {
+    "url_name": "stahlta",
+    "real_cn_name": "钢刃步枪"
+  },
+  "诡计之刃": {
+    "url_name": "stropha",
+    "real_cn_name": "诡计之刃"
+  },
+  "逐电": {
+    "url_name": "velox",
+    "real_cn_name": "逐电"
+  },
+  "压制者": {
+    "url_name": "quellor",
+    "real_cn_name": "压制者"
+  },
+  "尖幡": {
+    "url_name": "pennant",
+    "real_cn_name": "尖幡"
+  },
+  "阿索代": {
+    "url_name": "athodai",
+    "real_cn_name": "阿索代"
+  },
+  "鹦鹉螺": {
+    "url_name": "nautilus",
+    "real_cn_name": "鹦鹉螺"
+  },
+  "冰凇": {
+    "url_name": "verglas",
+    "real_cn_name": "冰凇"
+  },
+  "使节": {
+    "url_name": "ambassador",
+    "real_cn_name": "使节"
+  },
+  "刺吸西诺斯": {
+    "url_name": "proboscis_cernos",
+    "real_cn_name": "刺吸西诺斯"
+  },
+  "宝拉": {
+    "url_name": "balla",
+    "real_cn_name": "宝拉"
+  },
+  "西亚什": {
+    "url_name": "cyath",
+    "real_cn_name": "西亚什"
+  },
+  "德塔特": {
+    "url_name": "dehtat",
+    "real_cn_name": "德塔特"
+  },
+  "多克拉姆": {
+    "url_name": "dokrahm",
+    "real_cn_name": "多克拉姆"
+  },
+  "伊克瓦纳ii翟": {
+    "url_name": "ekwana_ii_jai",
+    "real_cn_name": "伊克瓦纳 II 翟"
+  },
+  "伊克瓦纳ii如杭": {
+    "url_name": "ekwana_ii_ruhang",
+    "real_cn_name": "伊克瓦纳 II 如杭"
+  },
+  "伊克瓦纳翟": {
+    "url_name": "ekwana_jai",
+    "real_cn_name": "伊克瓦纳 翟"
+  },
+  "伊克瓦纳翟ii": {
+    "url_name": "ekwana_jai_ii",
+    "real_cn_name": "伊克瓦纳 翟 II"
+  },
+  "伊克瓦纳如杭ii": {
+    "url_name": "ekwana_ruhang",
+    "real_cn_name": "伊克瓦纳 如杭 II"
+  },
+  "伊克瓦纳如杭": {
+    "url_name": "ekwana_ruhang_ii",
+    "real_cn_name": "伊克瓦纳 如杭"
+  },
+  "翟": {
+    "url_name": "jai",
+    "real_cn_name": "翟"
+  },
+  "翟ii": {
+    "url_name": "jai_ii",
+    "real_cn_name": "翟 II"
+  },
+  "查亚普": {
+    "url_name": "jayap",
+    "real_cn_name": "查亚普"
+  },
+  "科布": {
+    "url_name": "korb",
+    "real_cn_name": "科布"
+  },
+  "客隆什": {
+    "url_name": "kronsh",
+    "real_cn_name": "客隆什"
+  },
+  "克鲁斯查": {
+    "url_name": "kroostra",
+    "real_cn_name": "克鲁斯查"
+  },
+  "库阿斯": {
+    "url_name": "kwath",
+    "real_cn_name": "库阿斯"
+  },
+  "拉卡": {
+    "url_name": "laka",
+    "real_cn_name": "拉卡"
+  },
+  "密丸": {
+    "url_name": "mewan",
+    "real_cn_name": "密丸"
+  },
+  "乌尔萨": {
+    "url_name": "ooltha",
+    "real_cn_name": "乌尔萨"
+  },
+  "佩耶": {
+    "url_name": "peye",
+    "real_cn_name": "佩耶"
+  },
+  "瘟疫艾克文": {
+    "url_name": "plague_akwin",
+    "real_cn_name": "瘟疫艾克文"
+  },
+  "瘟疫柏克文": {
+    "url_name": "plague_bokwin",
+    "real_cn_name": "瘟疫柏克文"
+  },
+  "瘟疫奇沃": {
+    "url_name": "plague_keewar",
+    "real_cn_name": "瘟疫奇沃"
+  },
+  "瘟疫克里帕丝": {
+    "url_name": "plague_kripath",
+    "real_cn_name": "瘟疫克里帕丝"
+  },
+  "拉比威": {
+    "url_name": "rabvee",
+    "real_cn_name": "拉比威"
+  },
+  "如杭": {
+    "url_name": "ruhang",
+    "real_cn_name": "如杭"
+  },
+  "如杭ii": {
+    "url_name": "ruhang_ii",
+    "real_cn_name": "如杭 II"
+  },
+  "斯卡拉": {
+    "url_name": "seekalla",
+    "real_cn_name": "斯卡拉"
+  },
+  "瑟普梵": {
+    "url_name": "sepfahn",
+    "real_cn_name": "瑟普梵"
+  },
+  "石当": {
+    "url_name": "shtung",
+    "real_cn_name": "石当"
+  },
+  "瓦吉特ii翟": {
+    "url_name": "vargeet_ii_jai",
+    "real_cn_name": "瓦吉特 II 翟"
+  },
+  "瓦吉特ii如杭": {
+    "url_name": "vargeet_ii_ruhang",
+    "real_cn_name": "瓦吉特 II 如杭"
+  },
+  "瓦吉特翟": {
+    "url_name": "vargeet_jai",
+    "real_cn_name": "瓦吉特 翟"
+  },
+  "瓦吉特翟ii": {
+    "url_name": "vargeet_jai_ii",
+    "real_cn_name": "瓦吉特 翟 II"
+  },
+  "瓦吉特如杭": {
+    "url_name": "vargeet_ruhang",
+    "real_cn_name": "瓦吉特 如杭"
+  },
+  "瓦吉特如杭ii": {
+    "url_name": "vargeet_ruhang_ii",
+    "real_cn_name": "瓦吉特 如杭 II"
+  },
+  "急躁": {
+    "url_name": "brash",
+    "real_cn_name": "急躁"
+  },
+  "精明": {
+    "url_name": "shrewd",
+    "real_cn_name": "精明"
+  },
+  "稳击": {
+    "url_name": "steadyslam",
+    "real_cn_name": "稳击"
+  },
+  "震颤": {
+    "url_name": "tremor",
+    "real_cn_name": "震颤"
+  },
+  "狂虐": {
+    "url_name": "bashrack",
+    "real_cn_name": "狂虐"
+  },
+  "风箱": {
+    "url_name": "bellows",
+    "real_cn_name": "风箱"
+  },
+  "捕月": {
+    "url_name": "catchmoon",
+    "real_cn_name": "捕月"
+  },
+  "深息": {
+    "url_name": "deepbreath",
+    "real_cn_name": "深息"
+  },
+  "激火": {
+    "url_name": "flutterfire",
+    "real_cn_name": "激火"
+  },
+  "凝目": {
+    "url_name": "gaze",
+    "real_cn_name": "凝目"
+  },
+  "碎语": {
+    "url_name": "gibber",
+    "real_cn_name": "碎语"
+  },
+  "重拳": {
+    "url_name": "haymaker",
+    "real_cn_name": "重拳"
+  },
+  "连杀": {
+    "url_name": "killstream",
+    "real_cn_name": "连杀"
+  },
+  "爱击": {
+    "url_name": "lovetap",
+    "real_cn_name": "爱击"
+  },
+  "漫游": {
+    "url_name": "ramble",
+    "real_cn_name": "漫游"
+  },
+  "猛光": {
+    "url_name": "ramflare",
+    "real_cn_name": "猛光"
+  },
+  "响胆": {
+    "url_name": "rattleguts",
+    "real_cn_name": "响胆"
+  },
+  "掌击": {
+    "url_name": "slap",
+    "real_cn_name": "掌击"
+  },
+  "拍针": {
+    "url_name": "slapneedle",
+    "real_cn_name": "拍针"
+  },
+  "火花": {
+    "url_name": "spark",
+    "real_cn_name": "火花"
+  },
+  "溅击": {
+    "url_name": "splat",
+    "real_cn_name": "溅击"
+  },
+  "穿纫": {
+    "url_name": "stitch",
+    "real_cn_name": "穿纫"
+  },
+  "颤火": {
+    "url_name": "swiftfire",
+    "real_cn_name": "颤火"
+  },
+  "雷鼓": {
+    "url_name": "thunderdrum",
+    "real_cn_name": "雷鼓"
+  },
+  "墓指": {
+    "url_name": "tombfinger",
+    "real_cn_name": "墓指"
+  },
+  "速力": {
+    "url_name": "zip",
+    "real_cn_name": "速力"
+  },
+  "速火": {
+    "url_name": "zipfire",
+    "real_cn_name": "速火"
+  },
+  "速针": {
+    "url_name": "zipneedle",
+    "real_cn_name": "速针"
+  },
+  "矫捷窜升": {
+    "url_name": "agility_drift",
+    "real_cn_name": "矫捷窜升"
+  },
+  "协力窜升": {
+    "url_name": "coaction_drift",
+    "real_cn_name": "协力窜升"
+  },
+  "狡诈窜升": {
+    "url_name": "cunning_drift",
+    "real_cn_name": "狡诈窜升"
+  },
+  "坚忍窜升": {
+    "url_name": "endurance_drift",
+    "real_cn_name": "坚忍窜升"
+  },
+  "力量窜升": {
+    "url_name": "power_drift",
+    "real_cn_name": "力量窜升"
+  },
+  "速度窜升": {
+    "url_name": "speed_drift",
+    "real_cn_name": "速度窜升"
+  },
+  "匿踪窜升": {
+    "url_name": "stealth_drift",
+    "real_cn_name": "匿踪窜升"
+  },
+  "快速休整": {
+    "url_name": "brief_respite",
+    "real_cn_name": "快速休整"
+  },
+  "强化刀锋": {
+    "url_name": "empowered_blades",
+    "real_cn_name": "强化刀锋"
+  },
+  "成长之力": {
+    "url_name": "growing_power",
+    "real_cn_name": "成长之力"
+  },
+  "手枪弹药搜集者": {
+    "url_name": "pistol_scavenger",
+    "real_cn_name": "手枪弹药搜集者"
+  },
+  "步枪弹药搜集者": {
+    "url_name": "rifle_scavenger",
+    "real_cn_name": "步枪弹药搜集者"
+  },
+  "霰弹枪弹药搜集者": {
+    "url_name": "shotgun_scavenger",
+    "real_cn_name": "霰弹枪弹药搜集者"
+  },
+  "狙击枪弹药搜集者": {
+    "url_name": "sniper_scavenger",
+    "real_cn_name": "狙击枪弹药搜集者"
+  },
+  "冲刺提升": {
+    "url_name": "sprint_boost",
+    "real_cn_name": "冲刺提升"
+  },
+  "静谧无踪": {
+    "url_name": "hushed_invisibility",
+    "real_cn_name": "静谧无踪"
+  },
+  "耗弱链接": {
+    "url_name": "abating_link",
+    "real_cn_name": "耗弱链接"
+  },
+  "蓄积长鞭": {
+    "url_name": "accumulating_whipclaw",
+    "real_cn_name": "蓄积长鞭"
+  },
+  "适应": {
+    "url_name": "adaptation",
+    "real_cn_name": "适应"
+  },
+  "同化": {
+    "url_name": "assimilate",
+    "real_cn_name": "同化"
+  },
+  "欺幻魔灯": {
+    "url_name": "beguiling_lantern",
+    "real_cn_name": "欺幻魔灯"
+  },
+  "致盲掠夺": {
+    "url_name": "blinding_reave",
+    "real_cn_name": "致盲掠夺"
+  },
+  "冷静与疯狂": {
+    "url_name": "calm_&_frenzy",
+    "real_cn_name": "冷静与疯狂"
+  },
+  "天圣践踏": {
+    "url_name": "celestial_stomp",
+    "real_cn_name": "天圣践踏"
+  },
+  "冰封护罩": {
+    "url_name": "chilling_globe",
+    "real_cn_name": "冰封护罩"
+  },
+  "华彩刀剑": {
+    "url_name": "chromatic_blade",
+    "real_cn_name": "华彩刀剑"
+  },
+  "集中箭矢": {
+    "url_name": "concentrated_arrow",
+    "real_cn_name": "集中箭矢"
+  },
+  "指挥家": {
+    "url_name": "conductor",
+    "real_cn_name": "指挥家"
+  },
+  "反转脉冲": {
+    "url_name": "counter_pulse",
+    "real_cn_name": "反转脉冲"
+  },
+  "缓动惊骇": {
+    "url_name": "creeping_terrify",
+    "real_cn_name": "缓动惊骇"
+  },
+  "二元性状": {
+    "url_name": "duality",
+    "real_cn_name": "二元性状"
+  },
+  "强化箭袋": {
+    "url_name": "empowered_quiver",
+    "real_cn_name": "强化箭袋"
+  },
+  "包覆游云": {
+    "url_name": "enveloping_cloud",
+    "real_cn_name": "包覆游云"
+  },
+  "永恒战意": {
+    "url_name": "eternal_war",
+    "real_cn_name": "永恒战意"
+  },
+  "爆炸戏法": {
+    "url_name": "explosive_legerdemain",
+    "real_cn_name": "爆炸戏法"
+  },
+  "致命传送": {
+    "url_name": "fatal_teleport",
+    "real_cn_name": "致命传送"
+  },
+  "烈焰爆震": {
+    "url_name": "firequake",
+    "real_cn_name": "烈焰爆震"
+  },
+  "闪耀助燃": {
+    "url_name": "flash_accelerant",
+    "real_cn_name": "闪耀助燃"
+  },
+  "弹指瞬技": {
+    "url_name": "fleeting_expertise",
+    "real_cn_name": "弹指瞬技"
+  },
+  "漏斗状云": {
+    "url_name": "funnel_clouds",
+    "real_cn_name": "漏斗状云"
+  },
+  "贪婪吸引": {
+    "url_name": "greedy_pull",
+    "real_cn_name": "贪婪吸引"
+  },
+  "恶怨厅": {
+    "url_name": "hall_of_malevolence",
+    "real_cn_name": "恶怨厅"
+  },
+  "狂化突击": {
+    "url_name": "hysterical_assault",
+    "real_cn_name": "狂化突击"
+  },
+  "滞痕冰浪": {
+    "url_name": "ice_wave_impedance",
+    "real_cn_name": "滞痕冰浪"
+  },
+  "冰冷雪崩": {
+    "url_name": "icy_avalanche",
+    "real_cn_name": "冰冷雪崩"
+  },
+  "渗透": {
+    "url_name": "infiltrate",
+    "real_cn_name": "渗透"
+  },
+  "不竭贪婪": {
+    "url_name": "insatiable",
+    "real_cn_name": "不竭贪婪"
+  },
+  "幼体爆发": {
+    "url_name": "larva_burst",
+    "real_cn_name": "幼体爆发"
+  },
+  "持久誓约": {
+    "url_name": "lasting_covenant",
+    "real_cn_name": "持久誓约"
+  },
+  "磁吸释放": {
+    "url_name": "magnetized_discharge",
+    "real_cn_name": "磁吸释放"
+  },
+  "治愈玻片": {
+    "url_name": "mending_splinters",
+    "real_cn_name": "治愈玻片"
+  },
+  "mesa的华尔兹": {
+    "url_name": "mesas_waltz",
+    "real_cn_name": "Mesa的华尔兹"
+  },
+  "精神狂怒": {
+    "url_name": "mind_freak",
+    "real_cn_name": "精神狂怒"
+  },
+  "心志偏狭": {
+    "url_name": "narrow_minded",
+    "real_cn_name": "心志偏狭"
+  },
+  "抵消虫群": {
+    "url_name": "negation_swarm",
+    "real_cn_name": "抵消虫群"
+  },
+  "矿石凝视": {
+    "url_name": "ore_gaze",
+    "real_cn_name": "矿石凝视"
+  },
+  "分裂槌音": {
+    "url_name": "partitioned_mallet",
+    "real_cn_name": "分裂槌音"
+  },
+  "化像之道": {
+    "url_name": "path_of_statues",
+    "real_cn_name": "化像之道"
+  },
+  "和平挑衅": {
+    "url_name": "peaceful_provocation",
+    "real_cn_name": "和平挑衅"
+  },
+  "花开怪奇": {
+    "url_name": "peculiar_bloom",
+    "real_cn_name": "花开怪奇"
+  },
+  "生长怪奇": {
+    "url_name": "peculiar_growth",
+    "real_cn_name": "生长怪奇"
+  },
+  "凤凰新生": {
+    "url_name": "phoenix_renewal",
+    "real_cn_name": "凤凰新生"
+  },
+  "穿刺抛体": {
+    "url_name": "piercing_navigator",
+    "real_cn_name": "穿刺抛体"
+  },
+  "刺骨战吼": {
+    "url_name": "piercing_roar",
+    "real_cn_name": "刺骨战吼"
+  },
+  "贪夺穹顶": {
+    "url_name": "pilfering_strangledome",
+    "real_cn_name": "贪夺穹顶"
+  },
+  "贪夺触角": {
+    "url_name": "pilfering_swarm",
+    "real_cn_name": "贪夺触角"
+  },
+  "献出力量": {
+    "url_name": "power_donation",
+    "real_cn_name": "献出力量"
+  },
+  "原始暴怒": {
+    "url_name": "primal_rage",
+    "real_cn_name": "原始暴怒"
+  },
+  "长时瘫痪": {
+    "url_name": "prolonged_paralysis",
+    "real_cn_name": "长时瘫痪"
+  },
+  "火成碎流": {
+    "url_name": "pyroclastic_flow",
+    "real_cn_name": "火成碎流"
+  },
+  "终结闪光": {
+    "url_name": "radiant_finish",
+    "real_cn_name": "终结闪光"
+  },
+  "刀翼闪击": {
+    "url_name": "razorwing_blitz",
+    "real_cn_name": "刀翼闪击"
+  },
+  "蓄能重划": {
+    "url_name": "redirection",
+    "real_cn_name": "蓄能重划"
+  },
+  "践踏加固": {
+    "url_name": "reinforcing_stomp",
+    "real_cn_name": "践踏加固"
+  },
+  "驱逐力场": {
+    "url_name": "repelling_bastille",
+    "real_cn_name": "驱逐力场"
+  },
+  "震地共鸣": {
+    "url_name": "resonating_quake",
+    "real_cn_name": "震地共鸣"
+  },
+  "风起云涌": {
+    "url_name": "rising_storm",
+    "real_cn_name": "风起云涌"
+  },
+  "翻滚防护": {
+    "url_name": "rolling_guard",
+    "real_cn_name": "翻滚防护"
+  },
+  "火绫守护": {
+    "url_name": "safeguard",
+    "real_cn_name": "火绫守护"
+  },
+  "残酷无息": {
+    "url_name": "savage_silence",
+    "real_cn_name": "残酷无息"
+  },
+  "削甲手里剑": {
+    "url_name": "seeking_shuriken",
+    "real_cn_name": "削甲手里剑"
+  },
+  "幽影之护": {
+    "url_name": "shield_of_shadows",
+    "real_cn_name": "幽影之护"
+  },
+  "电击奇兵": {
+    "url_name": "shock_trooper",
+    "real_cn_name": "电击奇兵"
+  },
+  "电击加速": {
+    "url_name": "shocking_speed",
+    "real_cn_name": "电击加速"
+  },
+  "惩击洗礼": {
+    "url_name": "smite_infusion",
+    "real_cn_name": "惩击洗礼"
+  },
+  "破碎声波": {
+    "url_name": "sonic_fracture",
+    "real_cn_name": "破碎声波"
+  },
+  "光谱虹吸": {
+    "url_name": "spectrosiphon",
+    "real_cn_name": "光谱虹吸"
+  },
+  "摆荡钩索": {
+    "url_name": "swing_line",
+    "real_cn_name": "摆荡钩索"
+  },
+  "目标入定": {
+    "url_name": "target_fixation",
+    "real_cn_name": "目标入定"
+  },
+  "构造裂缝": {
+    "url_name": "tectonic_fracture",
+    "real_cn_name": "构造裂缝"
+  },
+  "猛爆致病": {
+    "url_name": "teeming_virulence",
+    "real_cn_name": "猛爆致病"
+  },
+  "巨大石者": {
+    "url_name": "titanic_rumbler",
+    "real_cn_name": "巨大石者"
+  },
+  "晶管屏障": {
+    "url_name": "transistor_shield",
+    "real_cn_name": "晶管屏障"
+  },
+  "汲能榨取": {
+    "url_name": "vampire_leech",
+    "real_cn_name": "汲能榨取"
+  },
+  "薇娜丽的护卫": {
+    "url_name": "venari_bodyguard",
+    "real_cn_name": "薇娜丽的护卫"
+  },
+  "强力切换": {
+    "url_name": "vigorous_swap",
+    "real_cn_name": "强力切换"
+  },
+  "庇护焚炉": {
+    "url_name": "warding_thurible",
+    "real_cn_name": "庇护焚炉"
+  },
+  "重锤射击": {
+    "url_name": "hammer_shot",
+    "real_cn_name": "重锤射击"
+  },
+  "白霜弹头": {
+    "url_name": "rime_rounds",
+    "real_cn_name": "白霜弹头"
+  },
+  "致命火力": {
+    "url_name": "malignant_force",
+    "real_cn_name": "致命火力"
+  },
+  "电冲弹药": {
+    "url_name": "shell_shock",
+    "real_cn_name": "电冲弹药"
+  },
+  "激冷装填": {
+    "url_name": "chilling_reload",
+    "real_cn_name": "激冷装填"
+  },
+  "重口径": {
+    "url_name": "heavy_caliber",
+    "real_cn_name": "重口径"
+  },
+  "分裂膛室": {
+    "url_name": "split_chamber",
+    "real_cn_name": "分裂膛室"
+  },
+  "霰弹扩充": {
+    "url_name": "ammo_stock",
+    "real_cn_name": "霰弹扩充"
+  },
+  "氩晶瞄具": {
+    "url_name": "argon_scope",
+    "real_cn_name": "氩晶瞄具"
+  },
+  "灭亡corpus": {
+    "url_name": "bane_of_corpus",
+    "real_cn_name": "灭亡Corpus"
+  },
+  "灭亡grineer": {
+    "url_name": "bane_of_grineer",
+    "real_cn_name": "灭亡Grineer"
+  },
+  "灭亡infested": {
+    "url_name": "bane_of_infested",
+    "real_cn_name": "灭亡Infested"
+  },
+  "蓄力装填": {
+    "url_name": "charged_chamber",
+    "real_cn_name": "蓄力装填"
+  },
+  "净化corpus": {
+    "url_name": "cleanse_corpus",
+    "real_cn_name": "净化Corpus"
+  },
+  "净化grineer": {
+    "url_name": "cleanse_grineer",
+    "real_cn_name": "净化Grineer"
+  },
+  "净化infested": {
+    "url_name": "cleanse_infested",
+    "real_cn_name": "净化Infested"
+  },
+  "尖牙连射": {
+    "url_name": "fanged_fusillade",
+    "real_cn_name": "尖牙连射"
+  },
+  "爆发装填": {
+    "url_name": "fast_hands",
+    "real_cn_name": "爆发装填"
+  },
+  "通量射线步枪超载": {
+    "url_name": "flux_overdrive",
+    "real_cn_name": "通量射线步枪超载"
+  },
+  "制导弹药": {
+    "url_name": "guided_ordinance",
+    "real_cn_name": "制导弹药"
+  },
+  "隼目": {
+    "url_name": "hawk_eye",
+    "real_cn_name": "隼目"
+  },
+  "污染弹匣": {
+    "url_name": "infected_clip",
+    "real_cn_name": "污染弹匣"
+  },
+  "动力回弹": {
+    "url_name": "kinetic_ricochet",
+    "real_cn_name": "动力回弹"
+  },
+  "雷射瞄具": {
+    "url_name": "laser_sight",
+    "real_cn_name": "雷射瞄具"
+  },
+  "弹匣增幅": {
+    "url_name": "magazine_warp",
+    "real_cn_name": "弹匣增幅"
+  },
+  "纳米涂覆": {
+    "url_name": "nano_applicator",
+    "real_cn_name": "纳米涂覆"
+  },
+  "穿甲伤害": {
+    "url_name": "piercing_hit",
+    "real_cn_name": "穿甲伤害"
+  },
+  "转轮弹匣": {
+    "url_name": "repeater_clip",
+    "real_cn_name": "转轮弹匣"
+  },
+  "穿透力": {
+    "url_name": "seeking_force",
+    "real_cn_name": "穿透力"
+  },
+  "通晓霰弹枪": {
+    "url_name": "shotgun_savvy",
+    "real_cn_name": "通晓霰弹枪"
+  },
+  "表演时间": {
+    "url_name": "shotgun_spazz",
+    "real_cn_name": "表演时间"
+  },
+  "簧压膛室": {
+    "url_name": "spring_loaded_chamber",
+    "real_cn_name": "簧压膛室"
+  },
+  "锁定目标": {
+    "url_name": "target_acquired",
+    "real_cn_name": "锁定目标"
+  },
+  "系绳榴弹": {
+    "url_name": "tether_grenades",
+    "real_cn_name": "系绳榴弹"
+  },
+  "晕眩弹药": {
+    "url_name": "dizzying_rounds",
+    "real_cn_name": "晕眩弹药"
+  },
+  "致命洪流": {
+    "url_name": "lethal_torrent",
+    "real_cn_name": "致命洪流"
+  },
+  "痉挛prime": {
+    "url_name": "primed_convulsion",
+    "real_cn_name": "痉挛Prime"
+  },
+  "乏能迅敏": {
+    "url_name": "anemic_agility",
+    "real_cn_name": "乏能迅敏"
+  },
+  "震荡弹头": {
+    "url_name": "concussion_rounds",
+    "real_cn_name": "震荡弹头"
+  },
+  "驱逐corpus": {
+    "url_name": "expel_corpus",
+    "real_cn_name": "驱逐Corpus"
+  },
+  "驱逐grineer": {
+    "url_name": "expel_grineer",
+    "real_cn_name": "驱逐Grineer"
+  },
+  "驱逐infested": {
+    "url_name": "expel_infested",
+    "real_cn_name": "驱逐Infested"
+  },
+  "冰风暴": {
+    "url_name": "ice_storm",
+    "real_cn_name": "冰风暴"
+  },
+  "致命动量": {
+    "url_name": "lethal_momentum",
+    "real_cn_name": "致命动量"
+  },
+  "病原弹头": {
+    "url_name": "pathogen_rounds",
+    "real_cn_name": "病原弹头"
+  },
+  "增压弹匣": {
+    "url_name": "pressurized_magazine",
+    "real_cn_name": "增压弹匣"
+  },
+  "持续火力": {
+    "url_name": "quickdraw",
+    "real_cn_name": "持续火力"
+  },
+  "毁灭扩展": {
+    "url_name": "ruinous_extension",
+    "real_cn_name": "毁灭扩展"
+  },
+  "灼痕焦点": {
+    "url_name": "scorch",
+    "real_cn_name": "灼痕焦点"
+  },
+  "弹头导引": {
+    "url_name": "seeker",
+    "real_cn_name": "弹头导引"
+  },
+  "串联弹匣": {
+    "url_name": "slip_magazine",
+    "real_cn_name": "串联弹匣"
+  },
+  "稳定枪手": {
+    "url_name": "steady_hands",
+    "real_cn_name": "稳定枪手"
+  },
+  "慑人神速": {
+    "url_name": "stunning_speed",
+    "real_cn_name": "慑人神速"
+  },
+  "准确射手": {
+    "url_name": "sure_shot",
+    "real_cn_name": "准确射手"
+  },
+  "定位辅助": {
+    "url_name": "targeting_subsystem",
+    "real_cn_name": "定位辅助"
+  },
+  "戏法增幅": {
+    "url_name": "trick_mag",
+    "real_cn_name": "戏法增幅"
+  },
+  "瘟疫手枪": {
+    "url_name": "pistol_pestilence",
+    "real_cn_name": "瘟疫手枪"
+  },
+  "易爆速返": {
+    "url_name": "volatile_quick_return",
+    "real_cn_name": "易爆速返"
+  },
+  "易爆反弹": {
+    "url_name": "volatile_rebound",
+    "real_cn_name": "易爆反弹"
+  },
+  "蚀骨寒霜": {
+    "url_name": "cold_touch",
+    "real_cn_name": "蚀骨寒霜"
+  },
+  "嗜血狂暴": {
+    "url_name": "berserker_fury",
+    "real_cn_name": "嗜血狂暴"
+  },
+  "败兴虐杀": {
+    "url_name": "buzz_kill",
+    "real_cn_name": "败兴虐杀"
+  },
+  "深渊之火": {
+    "url_name": "atlantis_vulcan",
+    "real_cn_name": "深渊之火"
+  },
+  "螺钻打击": {
+    "url_name": "auger_strike",
+    "real_cn_name": "螺钻打击"
+  },
+  "无明制裁": {
+    "url_name": "blind_justice",
+    "real_cn_name": "无明制裁"
+  },
+  "急进猛突": {
+    "url_name": "blood_rush",
+    "real_cn_name": "急进猛突"
+  },
+  "杀伤计数": {
+    "url_name": "body_count",
+    "real_cn_name": "杀伤计数"
+  },
+  "刀锋弹舞": {
+    "url_name": "bullet_dance",
+    "real_cn_name": "刀锋弹舞"
+  },
+  "冲击巨力": {
+    "url_name": "collision_force",
+    "real_cn_name": "冲击巨力"
+  },
+  "异况超量": {
+    "url_name": "condition_overload",
+    "real_cn_name": "异况超量"
+  },
+  "月落乌啼": {
+    "url_name": "crushing_ruin",
+    "real_cn_name": "月落乌啼"
+  },
+  "积秽骁龙": {
+    "url_name": "defiled_snapdragon",
+    "real_cn_name": "积秽骁龙"
+  },
+  "漂移接触": {
+    "url_name": "drifting_contact",
+    "real_cn_name": "漂移接触"
+  },
+  "终焉风暴": {
+    "url_name": "eleventh_storm",
+    "real_cn_name": "终焉风暴"
+  },
+  "长时苦难": {
+    "url_name": "enduring_affliction",
+    "real_cn_name": "长时苦难"
+  },
+  "不朽打击": {
+    "url_name": "enduring_strike",
+    "real_cn_name": "不朽打击"
+  },
+  "热病打击": {
+    "url_name": "fever_strike",
+    "real_cn_name": "热病打击"
+  },
+  "重点防御": {
+    "url_name": "focused_defense",
+    "real_cn_name": "重点防御"
+  },
+  "母神悲歌": {
+    "url_name": "gaias_tragedy",
+    "real_cn_name": "母神悲歌"
+  },
+  "狼鱼咬咬": {
+    "url_name": "gnashing_payara",
+    "real_cn_name": "狼鱼咬咬"
+  },
+  "奚落守护": {
+    "url_name": "guardian_derision",
+    "real_cn_name": "奚落守护"
+  },
+  "治愈归复": {
+    "url_name": "healing_return",
+    "real_cn_name": "治愈归复"
+  },
+  "正午": {
+    "url_name": "high_noon",
+    "real_cn_name": "正午"
+  },
+  "连牙追袭": {
+    "url_name": "homing_fang",
+    "real_cn_name": "连牙追袭"
+  },
+  "猎人骨锯": {
+    "url_name": "hunters_bonesaw",
+    "real_cn_name": "猎人骨锯"
+  },
+  "未完之刺": {
+    "url_name": "lasting_sting",
+    "real_cn_name": "未完之刺"
+  },
+  "致残突击": {
+    "url_name": "maiming_strike",
+    "real_cn_name": "致残突击"
+  },
+  "非凡技巧": {
+    "url_name": "melee_prowess",
+    "real_cn_name": "非凡技巧"
+  },
+  "残酷组合": {
+    "url_name": "relentless_combination",
+    "real_cn_name": "残酷组合"
+  },
+  "毁灭corpus": {
+    "url_name": "smite_corpus",
+    "real_cn_name": "毁灭Corpus"
+  },
+  "毁灭grineer": {
+    "url_name": "smite_grineer",
+    "real_cn_name": "毁灭Grineer"
+  },
+  "毁灭infested": {
+    "url_name": "smite_infested",
+    "real_cn_name": "毁灭Infested"
+  },
+  "至尊浪人": {
+    "url_name": "sovereign_outcast",
+    "real_cn_name": "至尊浪人"
+  },
+  "旋压刺针": {
+    "url_name": "spinning_needle",
+    "real_cn_name": "旋压刺针"
+  },
+  "复仇亡灵": {
+    "url_name": "vengeful_revenant",
+    "real_cn_name": "复仇亡灵"
+  },
+  "朱红暴风": {
+    "url_name": "vermillion_storm",
+    "real_cn_name": "朱红暴风"
+  },
+  "火神闪击": {
+    "url_name": "vulcan_blitz",
+    "real_cn_name": "火神闪击"
+  },
+  "创口溃烂": {
+    "url_name": "weeping_wounds",
+    "real_cn_name": "创口溃烂"
+  },
+  "致命效率prime": {
+    "url_name": "primed_deadly_efficiency",
+    "real_cn_name": "致命效率Prime"
+  },
+  "双重弹头prime": {
+    "url_name": "primed_dual_rounds",
+    "real_cn_name": "双重弹头Prime"
+  },
+  "加力燃烧": {
+    "url_name": "afterburner",
+    "real_cn_name": "加力燃烧"
+  },
+  "寒流来袭": {
+    "url_name": "cold_snap",
+    "real_cn_name": "寒流来袭"
+  },
+  "系统重划": {
+    "url_name": "system_reroute",
+    "real_cn_name": "系统重划"
+  },
+  "非晶变压器": {
+    "url_name": "morphic_transformer",
+    "real_cn_name": "非晶变压器"
+  },
+  "archwing枪械行家": {
+    "url_name": "archgun_ace",
+    "real_cn_name": "Archwing枪械行家"
+  },
+  "中空子弹": {
+    "url_name": "hollowed_bullets",
+    "real_cn_name": "中空子弹"
+  },
+  "低温外壳": {
+    "url_name": "hypothermic_shell",
+    "real_cn_name": "低温外壳"
+  },
+  "关键焦点": {
+    "url_name": "critical_focus",
+    "real_cn_name": "关键焦点"
+  },
+  "坚决专注": {
+    "url_name": "resolute_focus",
+    "real_cn_name": "坚决专注"
+  },
+  "彗星爆发": {
+    "url_name": "comet_blast",
+    "real_cn_name": "彗星爆发"
+  },
+  "扩充弹匣": {
+    "url_name": "magazine_extension",
+    "real_cn_name": "扩充弹匣"
+  },
+  "类星钻体": {
+    "url_name": "quasar_drill",
+    "real_cn_name": "类星钻体"
+  },
+  "红晶枪管": {
+    "url_name": "rubedo_lined_barrel",
+    "real_cn_name": "红晶枪管"
+  },
+  "致命效率": {
+    "url_name": "deadly_efficiency",
+    "real_cn_name": "致命效率"
+  },
+  "黄道碎裂": {
+    "url_name": "zodiac_shred",
+    "real_cn_name": "黄道碎裂"
+  },
+  "覆壳弹药": {
+    "url_name": "sabot_rounds",
+    "real_cn_name": "覆壳弹药"
+  },
+  "切割刃缘": {
+    "url_name": "cutting_edge",
+    "real_cn_name": "切割刃缘"
+  },
+  "强化刀片": {
+    "url_name": "tempered_blade",
+    "real_cn_name": "强化刀片"
+  },
+  "星云钻孔": {
+    "url_name": "nebula_bore",
+    "real_cn_name": "星云钻孔"
+  },
+  "星体切砍": {
+    "url_name": "astral_slash",
+    "real_cn_name": "星体切砍"
+  },
+  "星界剖解": {
+    "url_name": "astral_autopsy",
+    "real_cn_name": "星界剖解"
+  },
+  "霰弹扩充prime": {
+    "url_name": "primed_ammo_stock",
+    "real_cn_name": "霰弹扩充Prime"
+  },
+  "灭亡corpusprime": {
+    "url_name": "primed_bane_of_corpus",
+    "real_cn_name": "灭亡Corpus Prime"
+  },
+  "灭亡堕落者prime": {
+    "url_name": "primed_bane_of_corrupted",
+    "real_cn_name": "灭亡堕落者Prime"
+  },
+  "灭亡grineerprime": {
+    "url_name": "primed_bane_of_grineer",
+    "real_cn_name": "灭亡Grineer Prime"
+  },
+  "灭亡infestedprime": {
+    "url_name": "primed_bane_of_infested",
+    "real_cn_name": "灭亡Infested Prime"
+  },
+  "充电弹头prime": {
+    "url_name": "primed_charged_shell",
+    "real_cn_name": "充电弹头Prime"
+  },
+  "持久力prime": {
+    "url_name": "primed_continuity",
+    "real_cn_name": "持久力Prime"
+  },
+  "低温弹头prime": {
+    "url_name": "primed_cryo_rounds",
+    "real_cn_name": "低温弹头Prime"
+  },
+  "爆发装填prime": {
+    "url_name": "primed_fast_hands",
+    "real_cn_name": "爆发装填Prime"
+  },
+  "热病打击prime": {
+    "url_name": "primed_fever_strike",
+    "real_cn_name": "热病打击Prime"
+  },
+  "川流不息prime": {
+    "url_name": "primed_flow",
+    "real_cn_name": "川流不息Prime"
+  },
+  "狂暴prime": {
+    "url_name": "primed_fury",
+    "real_cn_name": "狂暴Prime"
+  },
+  "火焰装填prime": {
+    "url_name": "primed_heated_charge",
+    "real_cn_name": "火焰装填Prime"
+  },
+  "重创prime": {
+    "url_name": "primed_heavy_trauma",
+    "real_cn_name": "重创Prime"
+  },
+  "非晶变压器prime": {
+    "url_name": "primed_morphic_transformer",
+    "real_cn_name": "非晶变压器Prime"
+  },
+  "手枪弹药转换prime": {
+    "url_name": "primed_pistol_ammo_mutation",
+    "real_cn_name": "手枪弹药转换Prime"
+  },
+  "手枪精通prime": {
+    "url_name": "primed_pistol_gambit",
+    "real_cn_name": "手枪精通Prime"
+  },
+  "抵近射击prime": {
+    "url_name": "primed_point_blank",
+    "real_cn_name": "抵近射击Prime"
+  },
+  "压迫点prime": {
+    "url_name": "primed_pressure_point",
+    "real_cn_name": "压迫点Prime"
+  },
+  "持续火力prime": {
+    "url_name": "primed_quickdraw",
+    "real_cn_name": "持续火力Prime"
+  },
+  "破灭prime": {
+    "url_name": "primed_ravage",
+    "real_cn_name": "破灭Prime"
+  },
+  "剑风prime": {
+    "url_name": "primed_reach",
+    "real_cn_name": "剑风Prime"
+  },
+  "步枪弹药转换prime": {
+    "url_name": "primed_rifle_ammo_mutation",
+    "real_cn_name": "步枪弹药转换Prime"
+  },
+  "霰弹枪弹药转换prime": {
+    "url_name": "primed_shotgun_ammo_mutation",
+    "real_cn_name": "霰弹枪弹药转换Prime"
+  },
+  "撕裂prime": {
+    "url_name": "primed_shred",
+    "real_cn_name": "撕裂Prime"
+  },
+  "串联弹匣prime": {
+    "url_name": "primed_slip_magazine",
+    "real_cn_name": "串联弹匣Prime"
+  },
+  "顶天立地prime": {
+    "url_name": "primed_sure_footed",
+    "real_cn_name": "顶天立地Prime"
+  },
+  "弱点专精prime": {
+    "url_name": "primed_target_cracker",
+    "real_cn_name": "弱点专精Prime"
+  },
+  "活力prime": {
+    "url_name": "primed_vigor",
+    "real_cn_name": "活力Prime"
+  },
+  "动物本能prime": {
+    "url_name": "primed_animal_instinct",
+    "real_cn_name": "动物本能Prime"
+  },
+  "红晶枪管prime": {
+    "url_name": "primed_rubedo_lined_barrel",
+    "real_cn_name": "红晶枪管Prime"
+  },
+  "毁灭corpusprime": {
+    "url_name": "primed_smite_corpus",
+    "real_cn_name": "毁灭 Corpus Prime"
+  },
+  "毁灭堕落者prime": {
+    "url_name": "primed_smite_corrupted",
+    "real_cn_name": "毁灭堕落者 Prime"
+  },
+  "毁灭grineerprime": {
+    "url_name": "primed_smite_grineer",
+    "real_cn_name": "毁灭 Grineer Prime"
+  },
+  "毁灭infestedprime": {
+    "url_name": "primed_smite_infested",
+    "real_cn_name": "毁灭 Infested Prime"
+  },
+  "净化corpusprime": {
+    "url_name": "primed_cleanse_corpus",
+    "real_cn_name": "净化 Corpus Prime"
+  },
+  "净化堕落者prime": {
+    "url_name": "primed_cleanse_corrupted",
+    "real_cn_name": "净化堕落者Prime"
+  },
+  "净化grineerprime": {
+    "url_name": "primed_cleanse_grineer",
+    "real_cn_name": "净化 Grineer Prime"
+  },
+  "净化infestedprime": {
+    "url_name": "primed_cleanse_infested",
+    "real_cn_name": "净化 Infested Prime"
+  },
+  "烈焰风暴prime": {
+    "url_name": "primed_firestorm",
+    "real_cn_name": "烈焰风暴Prime"
+  },
+  "领袖prime": {
+    "url_name": "primed_pack_leader",
+    "real_cn_name": "领袖Prime"
+  },
+  "驱逐corpusprime": {
+    "url_name": "primed_expel_corpus",
+    "real_cn_name": "驱逐 Corpus Prime"
+  },
+  "驱逐堕落者prime": {
+    "url_name": "primed_expel_corrupted",
+    "real_cn_name": "驱逐堕落者Prime"
+  },
+  "驱逐grineerprime": {
+    "url_name": "primed_expel_grineer",
+    "real_cn_name": "驱逐 Grineer Prime"
+  },
+  "驱逐infestedprime": {
+    "url_name": "primed_expel_infested",
+    "real_cn_name": "驱逐 Infested Prime"
+  },
+  "重生prime": {
+    "url_name": "primed_regen",
+    "real_cn_name": "重生Prime"
+  },
+  "空飞灵巧": {
+    "url_name": "aero_agility",
+    "real_cn_name": "空飞灵巧"
+  },
+  "空飞边际": {
+    "url_name": "aero_periphery",
+    "real_cn_name": "空飞边际"
+  },
+  "空飞俯瞰": {
+    "url_name": "aero_vantage",
+    "real_cn_name": "空飞俯瞰"
+  },
+  "预言协约": {
+    "url_name": "augur_accord",
+    "real_cn_name": "预言协约"
+  },
+  "预言启示": {
+    "url_name": "augur_message",
+    "real_cn_name": "预言启示"
+  },
+  "预言契约": {
+    "url_name": "augur_pact",
+    "real_cn_name": "预言契约"
+  },
+  "预言通灵": {
+    "url_name": "augur_reach",
+    "real_cn_name": "预言通灵"
+  },
+  "预言神密": {
+    "url_name": "augur_secrets",
+    "real_cn_name": "预言神密"
+  },
+  "预言探求": {
+    "url_name": "augur_seeker",
+    "real_cn_name": "预言探求"
+  },
+  "角斗士圣盾": {
+    "url_name": "gladiator_aegis",
+    "real_cn_name": "角斗士圣盾"
+  },
+  "角斗士灵巧": {
+    "url_name": "gladiator_finesse",
+    "real_cn_name": "角斗士灵巧"
+  },
+  "角斗士威猛": {
+    "url_name": "gladiator_might",
+    "real_cn_name": "角斗士威猛"
+  },
+  "角斗士决心": {
+    "url_name": "gladiator_resolve",
+    "real_cn_name": "角斗士决心"
+  },
+  "角斗士猛突": {
+    "url_name": "gladiator_rush",
+    "real_cn_name": "角斗士猛突"
+  },
+  "角斗士钳制": {
+    "url_name": "gladiator_vice",
+    "real_cn_name": "角斗士钳制"
+  },
+  "猎人肾上腺素": {
+    "url_name": "hunter_adrenaline",
+    "real_cn_name": "猎人肾上腺素"
+  },
+  "猎人命令": {
+    "url_name": "hunter_command",
+    "real_cn_name": "猎人命令"
+  },
+  "猎人战备": {
+    "url_name": "hunter_munitions",
+    "real_cn_name": "猎人战备"
+  },
+  "猎人复元": {
+    "url_name": "hunter_recovery",
+    "real_cn_name": "猎人复元"
+  },
+  "猎人协力": {
+    "url_name": "hunter_synergy",
+    "real_cn_name": "猎人协力"
+  },
+  "猎人追踪": {
+    "url_name": "hunter_track",
+    "real_cn_name": "猎人追踪"
+  },
+  "机甲强化": {
+    "url_name": "mecha_empowered",
+    "real_cn_name": "机甲强化"
+  },
+  "机甲超载": {
+    "url_name": "mecha_overdrive",
+    "real_cn_name": "机甲超载"
+  },
+  "机甲脉冲": {
+    "url_name": "mecha_pulse",
+    "real_cn_name": "机甲脉冲"
+  },
+  "机甲充能": {
+    "url_name": "mecha_recharge",
+    "real_cn_name": "机甲充能"
+  },
+  "跃动冲击": {
+    "url_name": "motus_impact",
+    "real_cn_name": "跃动冲击"
+  },
+  "跃动设局": {
+    "url_name": "motus_setup",
+    "real_cn_name": "跃动设局"
+  },
+  "跃动信号": {
+    "url_name": "motus_signal",
+    "real_cn_name": "跃动信号"
+  },
+  "质子喷射": {
+    "url_name": "proton_jet",
+    "real_cn_name": "质子喷射"
+  },
+  "质子脉动": {
+    "url_name": "proton_pulse",
+    "real_cn_name": "质子脉动"
+  },
+  "质子猛扑": {
+    "url_name": "proton_snap",
+    "real_cn_name": "质子猛扑"
+  },
+  "菌株吸收": {
+    "url_name": "strain_consume",
+    "real_cn_name": "菌株吸收"
+  },
+  "菌株爆裂": {
+    "url_name": "strain_eruption",
+    "real_cn_name": "菌株爆裂"
+  },
+  "菌株热毒": {
+    "url_name": "strain_fever",
+    "real_cn_name": "菌株热毒"
+  },
+  "菌株感染": {
+    "url_name": "strain_infection",
+    "real_cn_name": "菌株感染"
+  },
+  "合成充能": {
+    "url_name": "synth_charge",
+    "real_cn_name": "合成充能"
+  },
+  "合成解构": {
+    "url_name": "synth_deconstruct",
+    "real_cn_name": "合成解构"
+  },
+  "合成纤维": {
+    "url_name": "synth_fiber",
+    "real_cn_name": "合成纤维"
+  },
+  "合成反射": {
+    "url_name": "synth_reflex",
+    "real_cn_name": "合成反射"
+  },
+  "技法猛袭": {
+    "url_name": "tek_assault",
+    "real_cn_name": "技法猛袭"
+  },
+  "技法连带": {
+    "url_name": "tek_collateral",
+    "real_cn_name": "技法连带"
+  },
+  "技法强化": {
+    "url_name": "tek_enhance",
+    "real_cn_name": "技法强化"
+  },
+  "技法引力": {
+    "url_name": "tek_gravity",
+    "real_cn_name": "技法引力"
+  },
+  "私法军备": {
+    "url_name": "vigilante_armaments",
+    "real_cn_name": "私法军备"
+  },
+  "私法热诚": {
+    "url_name": "vigilante_fervor",
+    "real_cn_name": "私法热诚"
+  },
+  "私法侵犯": {
+    "url_name": "vigilante_offense",
+    "real_cn_name": "私法侵犯"
+  },
+  "私法追踪": {
+    "url_name": "vigilante_pursuit",
+    "real_cn_name": "私法追踪"
+  },
+  "私法补给": {
+    "url_name": "vigilante_supplies",
+    "real_cn_name": "私法补给"
+  },
+  "私法活力": {
+    "url_name": "vigilante_vigor",
+    "real_cn_name": "私法活力"
+  },
+  "诡文枭主之苦": {
+    "url_name": "boreals_anguish",
+    "real_cn_name": "诡文枭主之苦"
+  },
+  "诡文枭主之恨": {
+    "url_name": "boreals_hatred",
+    "real_cn_name": "诡文枭主之恨"
+  },
+  "诡文枭主之鄙": {
+    "url_name": "boreals_contempt",
+    "real_cn_name": "诡文枭主之鄙"
+  },
+  "欺谋狼主之苦": {
+    "url_name": "amars_anguish",
+    "real_cn_name": "欺谋狼主之苦"
+  },
+  "欺谋狼主之恨": {
+    "url_name": "amars_hatred",
+    "real_cn_name": "欺谋狼主之恨"
+  },
+  "欺谋狼主之鄙": {
+    "url_name": "amars_contempt",
+    "real_cn_name": "欺谋狼主之鄙"
+  },
+  "混沌蛇主之苦": {
+    "url_name": "niras_anguish",
+    "real_cn_name": "混沌蛇主之苦"
+  },
+  "混沌蛇主之恨": {
+    "url_name": "niras_hatred",
+    "real_cn_name": "混沌蛇主之恨"
+  },
+  "混沌蛇主之鄙": {
+    "url_name": "niras_contempt",
+    "real_cn_name": "混沌蛇主之鄙"
+  },
+  "感染噬咬": {
+    "url_name": "infectious_bite",
+    "real_cn_name": "感染噬咬"
+  },
+  "月刃刺冲": {
+    "url_name": "crescent_charge",
+    "real_cn_name": "月刃刺冲"
+  },
+  "弹药储转箱": {
+    "url_name": "ammo_case",
+    "real_cn_name": "弹药储转箱"
+  },
+  "电弧线圈": {
+    "url_name": "arc_coil",
+    "real_cn_name": "电弧线圈"
+  },
+  "冷却液外泄": {
+    "url_name": "coolant_leak",
+    "real_cn_name": "冷却液外泄"
+  },
+  "人群驱散": {
+    "url_name": "crowd_dispersion",
+    "real_cn_name": "人群驱散"
+  },
+  "电光脉冲": {
+    "url_name": "electro_pulse",
+    "real_cn_name": "电光脉冲"
+  },
+  "构造强化": {
+    "url_name": "enhanced_vitality",
+    "real_cn_name": "构造强化"
+  },
+  "幽灵": {
+    "url_name": "ghost",
+    "real_cn_name": "幽灵"
+  },
+  "急速偏斜": {
+    "url_name": "hastened_deflection",
+    "real_cn_name": "急速偏斜"
+  },
+  "嚎声": {
+    "url_name": "howl",
+    "real_cn_name": "嚎声"
+  },
+  "金属纤维": {
+    "url_name": "metal_fiber",
+    "real_cn_name": "金属纤维"
+  },
+  "分子转化": {
+    "url_name": "molecular_conversion",
+    "real_cn_name": "分子转化"
+  },
+  "精算蓄能": {
+    "url_name": "redirection",
+    "real_cn_name": "精算蓄能"
+  },
+  "重定向": {
+    "url_name": "retarget",
+    "real_cn_name": "重定向"
+  },
+  "守护光罩": {
+    "url_name": "sanctuary",
+    "real_cn_name": "守护光罩"
+  },
+  "护盾充能": {
+    "url_name": "shield_charger",
+    "real_cn_name": "护盾充能"
+  },
+  "残余": {
+    "url_name": "spare_parts",
+    "real_cn_name": "残余"
+  },
+  "吸取": {
+    "url_name": "vacuum",
+    "real_cn_name": "吸取"
+  },
+  "战士": {
+    "url_name": "warrior",
+    "real_cn_name": "战士"
+  },
+  "啃咬压制": {
+    "url_name": "neutralize",
+    "real_cn_name": "啃咬压制"
+  },
+  "嗅索取物": {
+    "url_name": "retrieve",
+    "real_cn_name": "嗅索取物"
+  },
+  "狩猎": {
+    "url_name": "hunt",
+    "real_cn_name": "狩猎"
+  },
+  "隐密追踪": {
+    "url_name": "stalk",
+    "real_cn_name": "隐密追踪"
+  },
+  "保护": {
+    "url_name": "protect",
+    "real_cn_name": "保护"
+  },
+  "挖掘": {
+    "url_name": "dig",
+    "real_cn_name": "挖掘"
+  },
+  "凶恶终结": {
+    "url_name": "ferocity",
+    "real_cn_name": "凶恶终结"
+  },
+  "野蛮压制": {
+    "url_name": "savagery",
+    "real_cn_name": "野蛮压制"
+  },
+  "释放": {
+    "url_name": "unleashed",
+    "real_cn_name": "释放"
+  },
+  "吸血噬咬": {
+    "url_name": "draining_bite",
+    "real_cn_name": "吸血噬咬"
+  },
+  "血注": {
+    "url_name": "transfusion",
+    "real_cn_name": "血注"
+  },
+  "顽皮": {
+    "url_name": "mischief",
+    "real_cn_name": "顽皮"
+  },
+  "招福": {
+    "url_name": "charm",
+    "real_cn_name": "招福"
+  },
+  "猫眼": {
+    "url_name": "cats_eye",
+    "real_cn_name": "猫眼"
+  },
+  "反射": {
+    "url_name": "reflect",
+    "real_cn_name": "反射"
+  },
+  "长吻": {
+    "url_name": "proboscis",
+    "real_cn_name": "长吻"
+  },
+  "践踏": {
+    "url_name": "trample",
+    "real_cn_name": "践踏"
+  },
+  "helminth凶恶终结": {
+    "url_name": "helminth_ferocity",
+    "real_cn_name": "Helminth凶恶终结"
+  },
+  "取回": {
+    "url_name": "fetch",
+    "real_cn_name": "取回"
+  },
+  "搜集": {
+    "url_name": "scavenge",
+    "real_cn_name": "搜集"
+  },
+  "危机感知": {
+    "url_name": "sense_danger",
+    "real_cn_name": "危机感知"
+  },
+  "侵略领土": {
+    "url_name": "territorial_aggression",
+    "real_cn_name": "侵略领土"
+  },
+  "咬碎": {
+    "url_name": "bite",
+    "real_cn_name": "咬碎"
+  },
+  "火焰腺体": {
+    "url_name": "flame_gland",
+    "real_cn_name": "火焰腺体"
+  },
+  "冰冻双颚": {
+    "url_name": "frost_jaw",
+    "real_cn_name": "冰冻双颚"
+  },
+  "捶击": {
+    "url_name": "maul",
+    "real_cn_name": "捶击"
+  },
+  "领袖": {
+    "url_name": "pack_leader",
+    "real_cn_name": "领袖"
+  },
+  "电击项圈": {
+    "url_name": "shock_collar",
+    "real_cn_name": "电击项圈"
+  },
+  "牙齿毒液": {
+    "url_name": "venom_teeth",
+    "real_cn_name": "牙齿毒液"
+  },
+  "猛扑": {
+    "url_name": "pounce",
+    "real_cn_name": "猛扑"
+  },
+  "磨锋之爪": {
+    "url_name": "sharpened_claws",
+    "real_cn_name": "磨锋之爪"
+  },
+  "挥击": {
+    "url_name": "swipe",
+    "real_cn_name": "挥击"
+  },
+  "护甲连接": {
+    "url_name": "link_armor",
+    "real_cn_name": "护甲连接"
+  },
+  "生命值连接": {
+    "url_name": "link_health",
+    "real_cn_name": "生命值连接"
+  },
+  "护盾连接": {
+    "url_name": "link_shield",
+    "real_cn_name": "护盾连接"
+  },
+  "忠实搭档": {
+    "url_name": "loyal_companion",
+    "real_cn_name": "忠实搭档"
+  },
+  "宠物治疗套件": {
+    "url_name": "medi_pet_kit",
+    "real_cn_name": "宠物治疗套件"
+  },
+  "庇护": {
+    "url_name": "shelter",
+    "real_cn_name": "庇护"
+  },
+  "动物本能": {
+    "url_name": "animal_instinct",
+    "real_cn_name": "动物本能"
+  },
+  "魔导触媒": {
+    "url_name": "magus_accelerant",
+    "real_cn_name": "魔导触媒"
+  },
+  "魔导近点": {
+    "url_name": "magus_anomaly",
+    "real_cn_name": "魔导近点"
+  },
+  "魔导穿破": {
+    "url_name": "magus_destruct",
+    "real_cn_name": "魔导穿破"
+  },
+  "魔导驱动": {
+    "url_name": "magus_drive",
+    "real_cn_name": "魔导驱动"
+  },
+  "魔导防火墙": {
+    "url_name": "magus_firewall",
+    "real_cn_name": "魔导防火墙"
+  },
+  "魔导干扰": {
+    "url_name": "magus_glitch",
+    "real_cn_name": "魔导干扰"
+  },
+  "魔导封锁": {
+    "url_name": "magus_lockdown",
+    "real_cn_name": "魔导封锁"
+  },
+  "魔导热熔": {
+    "url_name": "magus_melt",
+    "real_cn_name": "魔导热熔"
+  },
+  "魔导超载": {
+    "url_name": "magus_overload",
+    "real_cn_name": "魔导超载"
+  },
+  "魔导修复": {
+    "url_name": "magus_repair",
+    "real_cn_name": "魔导修复"
+  },
+  "魔导复位": {
+    "url_name": "magus_revert",
+    "real_cn_name": "魔导复位"
+  },
+  "炎晶": {
+    "url_name": "pyrol",
+    "real_cn_name": "炎晶"
+  },
+  "亚铜": {
+    "url_name": "coprun",
+    "real_cn_name": "亚铜"
+  },
+  "铁岩": {
+    "url_name": "ferros",
+    "real_cn_name": "铁岩"
+  },
+  "金辉": {
+    "url_name": "auron",
+    "real_cn_name": "金辉"
+  },
+  "酸化矿物": {
+    "url_name": "axidite",
+    "real_cn_name": "酸化矿物"
+  },
+  "铁镍矿": {
+    "url_name": "travoride",
+    "real_cn_name": "铁镍矿"
+  },
+  "启明矿石": {
+    "url_name": "venerol",
+    "real_cn_name": "启明矿石"
+  },
+  "长庚矿石": {
+    "url_name": "hesperon",
+    "real_cn_name": "长庚矿石"
+  },
+  "石青": {
+    "url_name": "azurite",
+    "real_cn_name": "石青"
+  },
+  "兄弟之石": {
+    "url_name": "devar",
+    "real_cn_name": "兄弟之石"
+  },
+  "翠萤石": {
+    "url_name": "veridos",
+    "real_cn_name": "翠萤石"
+  },
+  "绯红石": {
+    "url_name": "crimzian",
+    "real_cn_name": "绯红石"
+  },
+  "心智晶核": {
+    "url_name": "sentirum",
+    "real_cn_name": "心智晶核"
+  },
+  "灵息石": {
+    "url_name": "nyth",
+    "real_cn_name": "灵息石"
+  },
+  "长型环绕者": {
+    "url_name": "longwinder",
+    "real_cn_name": "长型环绕者"
+  },
+  "多目鳗": {
+    "url_name": "tromyzon",
+    "real_cn_name": "多目鳗"
+  },
+  "重筑虾": {
+    "url_name": "charamote",
+    "real_cn_name": "重筑虾"
+  },
+  "海龙": {
+    "url_name": "synathid",
+    "real_cn_name": "海龙"
+  }
+}

@@ -1,0 +1,1422 @@
+﻿
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>overframe国服名称替换英文名称 - Source code</title>
+  <meta name="description" value="Source code for overframe国服名称替换英文名称">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  <script src="/vite/assets/application-CHyagapy.js" crossorigin="anonymous" type="module"></script><link rel="stylesheet" href="/vite/assets/application-BBttLBKt.css" media="screen" />
+    <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="897juxTouf2GwqU2dNWyjm28H59cPkC0jfwnrmdR2E9OIQ5hy7lOyFIuqcTbwyfIbqkSDeSXmqUIa7Hs9-j3cg" />
+    <meta name="clckd" content="bf6242cc3039bff31a7815dff8ee247b" />
+    <meta name="lhverifycode" content="32dc01246faccb7f5b3cad5016dd5033" />
+  <link rel="canonical" href="https://greasyfork.org/en/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/code">
+  <link rel="icon" href="/vite/assets/blacklogo16-DftkYuVe.png">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans&amp;display=swap" media="print" onload="this.media='all'; this.onload=null;">
+<noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans&amp;display=swap"></noscript>
+
+    <link rel="alternate" hreflang="x-default" href="/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/code">
+      <link rel="alternate" hreflang="ar" href="/ar/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/code">
+      <link rel="alternate" hreflang="be" href="/be/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/code">
+      <link rel="alternate" hreflang="bg" href="/bg/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/code">
+      <link rel="alternate" hreflang="ckb" href="/ckb/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/code">
+      <link rel="alternate" hreflang="cs" href="/cs/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/code">
+      <link rel="alternate" hreflang="da" href="/da/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/code">
+      <link rel="alternate" hreflang="de" href="/de/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/code">
+      <link rel="alternate" hreflang="el" href="/el/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/code">
+      <link rel="alternate" hreflang="en" href="/en/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/code">
+      <link rel="alternate" hreflang="eo" href="/eo/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/code">
+      <link rel="alternate" hreflang="es" href="/es/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/code">
+      <link rel="alternate" hreflang="es-419" href="/es-419/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/code">
+      <link rel="alternate" hreflang="fi" href="/fi/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/code">
+      <link rel="alternate" hreflang="fr" href="/fr/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/code">
+      <link rel="alternate" hreflang="fr-CA" href="/fr-CA/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/code">
+      <link rel="alternate" hreflang="he" href="/he/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/code">
+      <link rel="alternate" hreflang="hr" href="/hr/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/code">
+      <link rel="alternate" hreflang="hu" href="/hu/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/code">
+      <link rel="alternate" hreflang="id" href="/id/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/code">
+      <link rel="alternate" hreflang="it" href="/it/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/code">
+      <link rel="alternate" hreflang="ja" href="/ja/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/code">
+      <link rel="alternate" hreflang="ka" href="/ka/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/code">
+      <link rel="alternate" hreflang="ko" href="/ko/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/code">
+      <link rel="alternate" hreflang="mr" href="/mr/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/code">
+      <link rel="alternate" hreflang="nb" href="/nb/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/code">
+      <link rel="alternate" hreflang="nl" href="/nl/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/code">
+      <link rel="alternate" hreflang="pl" href="/pl/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/code">
+      <link rel="alternate" hreflang="pt-BR" href="/pt-BR/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/code">
+      <link rel="alternate" hreflang="ro" href="/ro/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/code">
+      <link rel="alternate" hreflang="ru" href="/ru/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/code">
+      <link rel="alternate" hreflang="sk" href="/sk/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/code">
+      <link rel="alternate" hreflang="sr" href="/sr/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/code">
+      <link rel="alternate" hreflang="sv" href="/sv/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/code">
+      <link rel="alternate" hreflang="th" href="/th/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/code">
+      <link rel="alternate" hreflang="tr" href="/tr/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/code">
+      <link rel="alternate" hreflang="uk" href="/uk/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/code">
+      <link rel="alternate" hreflang="ug" href="/ug/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/code">
+      <link rel="alternate" hreflang="vi" href="/vi/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/code">
+      <link rel="alternate" hreflang="zh-CN" href="/zh-CN/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/code">
+      <link rel="alternate" hreflang="zh-TW" href="/zh-TW/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/code">
+
+
+  <link rel="search" href="/en/opensearch.xml" type="application/opensearchdescription+xml" title="Greasy Fork search" hreflang="en">
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-7NMRNRYW7C"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-7NMRNRYW7C', {
+        'ad_method': 'ea',
+        'ad_method_variant': '',
+        'action': 'scripts/show_code'
+      });
+    </script>
+
+    <script async src="https://media.ethicalads.io/media/client/ethicalads.min.js" onerror="if (typeof gtag !== 'undefined') { gtag('event', 'EthicalAds placement', { 'ea_campaign_type': '(error)' })};switchToEaFallback()"></script>
+
+    <meta name="twitter:card" content="summary">
+  <meta property="og:title" content="overframe国服名称替换英文名称">
+  <meta property="og:url" content="https://greasyfork.org/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0">
+  <meta property="og:description" content="以文本替换方式实现游戏名词国服化，基于英文名称替换，搜索时请使用原名称。PS：本人代码文盲，此脚本为使用别人现有脚本改造而成，欢迎有能力的朋友做出更优秀脚本。原脚本地址：https://greasyfork.org/zh-CN/scripts/376441-soldout-2-%E6%96%87%E6%9C%AC%E6%9B%BF%E6%8D%A2">
+
+</head>
+<body>
+
+  <header id="main-header">
+    <div class="width-constraint">
+      <div id="site-name">
+        <a href="/en"><img alt="" width="96" height="96" src="/vite/assets/blacklogo96-CxYTSM_T.png" /></a>
+        <div id="site-name-text">
+          <h1><a href="/en">Greasy Fork</a></h1>
+        </div>
+      </div>
+      <div id="site-nav">
+        <div id="nav-user-info">
+            <span class="sign-in-link"><a rel="nofollow" href="/en/users/sign_in?return_to=%2Fen%2Fscripts%2F460948-overframe%25E5%259B%25BD%25E6%259C%258D%25E5%2590%258D%25E7%25A7%25B0%25E6%259B%25BF%25E6%258D%25A2%25E8%258B%25B1%25E6%2596%2587%25E5%2590%258D%25E7%25A7%25B0%2Fcode">Sign in</a></span>
+
+                      <form class="language-selector" action="/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/code">
+              <select class="language-selector-locale" name="locale" data-translate-url="https://github.com/greasyfork-org/greasyfork/wiki/Translating-Greasy-Fork">
+                    <option data-language-url="/ar/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/code" value="ar">
+                      Arabic (ar)
+                    </option>
+                    <option data-language-url="/be/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/code" value="be">
+                      Belarusian (be)
+                    </option>
+                    <option data-language-url="/nb/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/code" value="nb">
+                      Bokmål (nb)
+                    </option>
+                    <option data-language-url="/bg/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/code" value="bg">
+                      Bulgarian (bg)
+                    </option>
+                    <option data-language-url="/zh-CN/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/code" value="zh-CN">
+                      Chinese (China) (zh-CN)
+                    </option>
+                    <option data-language-url="/zh-TW/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/code" value="zh-TW">
+                      Chinese (Taiwan) (zh-TW)
+                    </option>
+                    <option data-language-url="/hr/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/code" value="hr">
+                      Croatian (hr)
+                    </option>
+                    <option data-language-url="/cs/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/code" value="cs">
+                      Czech (cs)
+                    </option>
+                    <option data-language-url="/da/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/code" value="da">
+                      Danish (da)
+                    </option>
+                    <option data-language-url="/nl/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/code" value="nl">
+                      Dutch (nl)
+                    </option>
+                    <option data-language-url="/en/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/code" value="en" selected>
+                      English (en)
+                    </option>
+                    <option data-language-url="/eo/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/code" value="eo">
+                      Esperanto (eo)
+                    </option>
+                    <option data-language-url="/fi/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/code" value="fi">
+                      Finnish (fi)
+                    </option>
+                    <option data-language-url="/fr/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/code" value="fr">
+                      French (fr)
+                    </option>
+                    <option data-language-url="/fr-CA/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/code" value="fr-CA">
+                      French (Canada) (fr-CA)
+                    </option>
+                    <option data-language-url="/ka/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/code" value="ka">
+                      Georgian (ka)
+                    </option>
+                    <option data-language-url="/de/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/code" value="de">
+                      German (de)
+                    </option>
+                    <option data-language-url="/el/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/code" value="el">
+                      Greek (el)
+                    </option>
+                    <option data-language-url="/he/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/code" value="he">
+                      Hebrew (he)
+                    </option>
+                    <option data-language-url="/hu/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/code" value="hu">
+                      Hungarian (hu)
+                    </option>
+                    <option data-language-url="/id/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/code" value="id">
+                      Indonesian (id)
+                    </option>
+                    <option data-language-url="/it/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/code" value="it">
+                      Italian (it)
+                    </option>
+                    <option data-language-url="/ja/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/code" value="ja">
+                      Japanese (ja)
+                    </option>
+                    <option data-language-url="/ko/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/code" value="ko">
+                      Korean (ko)
+                    </option>
+                    <option data-language-url="/mr/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/code" value="mr">
+                      Marathi (mr)
+                    </option>
+                    <option data-language-url="/pl/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/code" value="pl">
+                      Polish (pl)
+                    </option>
+                    <option data-language-url="/pt-BR/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/code" value="pt-BR">
+                      Portuguese (Brazil) (pt-BR)
+                    </option>
+                    <option data-language-url="/ro/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/code" value="ro">
+                      Romanian (ro)
+                    </option>
+                    <option data-language-url="/ru/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/code" value="ru">
+                      Russian (ru)
+                    </option>
+                    <option data-language-url="/sr/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/code" value="sr">
+                      Serbian (sr)
+                    </option>
+                    <option data-language-url="/sk/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/code" value="sk">
+                      Slovak (sk)
+                    </option>
+                    <option data-language-url="/es/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/code" value="es">
+                      Spanish (es)
+                    </option>
+                    <option data-language-url="/es-419/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/code" value="es-419">
+                      Spanish (es-419)
+                    </option>
+                    <option data-language-url="/sv/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/code" value="sv">
+                      Swedish (sv)
+                    </option>
+                    <option data-language-url="/th/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/code" value="th">
+                      Thai (th)
+                    </option>
+                    <option data-language-url="/tr/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/code" value="tr">
+                      Turkish (tr)
+                    </option>
+                    <option data-language-url="/ug/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/code" value="ug">
+                      Uighur (ug)
+                    </option>
+                    <option data-language-url="/uk/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/code" value="uk">
+                      Ukrainian (uk)
+                    </option>
+                    <option data-language-url="/vi/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/code" value="vi">
+                      Vietnamese (vi)
+                    </option>
+                    <option data-language-url="/ckb/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/code" value="ckb">
+                      کوردیی ناوەندی (ckb)
+                    </option>
+                <option value="help">Help us translate!</option>
+              </select><input class="language-selector-submit" type="submit" value="→">
+            </form>
+
+        </div>
+        <nav>
+          <li class="scripts-index-link"><a href="/en/scripts">Scripts</a></li>
+            <li class="forum-link"><a href="/en/discussions">Forum</a></li>
+          <li class="help-link"><a href="/en/help">Help</a></li>
+          <li class="with-submenu">
+            <a href="#" onclick="return false">More</a>
+            <nav>
+              <li><a href="/en/search">Advanced search</a></li>
+              <li><a href="/en/users">User list</a></li>
+              <li><a href="/en/scripts/libraries">Libraries</a></li>
+              <li><a href="/en/moderator_actions">Moderator log</a></li>
+            </nav>
+          </li>
+        </nav>
+      </div>
+
+      <div id="mobile-nav">
+        <div class="mobile-nav-opener">☰</div>
+        <nav class="collapsed">
+          <li class="scripts-index-link"><a href="/en/scripts">Scripts</a></li>
+          <li class="forum-link"><a href="/en/discussions">Forum</a></li>
+          <li class="help-link"><a href="/en/help">Help</a></li>
+          <li><a href="/en/search">Advanced search</a></li>
+          <li><a href="/en/users">User list</a></li>
+          <li><a href="/en/scripts/libraries">Libraries</a></li>
+          <li><a href="/en/moderator_actions">Moderator log</a></li>
+            <li class="multi-link-nav">
+              <span class="sign-in-link"><a rel="nofollow" href="/en/users/sign_in?return_to=%2Fen%2Fscripts%2F460948-overframe%25E5%259B%25BD%25E6%259C%258D%25E5%2590%258D%25E7%25A7%25B0%25E6%259B%25BF%25E6%258D%25A2%25E8%258B%25B1%25E6%2596%2587%25E5%2590%258D%25E7%25A7%25B0%2Fcode">Sign in</a></span>
+            </li>
+          <li>            <form class="language-selector" action="/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/code">
+              <select class="language-selector-locale" name="locale" data-translate-url="https://github.com/greasyfork-org/greasyfork/wiki/Translating-Greasy-Fork">
+                    <option data-language-url="/ar/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/code" value="ar">
+                      Arabic (ar)
+                    </option>
+                    <option data-language-url="/be/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/code" value="be">
+                      Belarusian (be)
+                    </option>
+                    <option data-language-url="/nb/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/code" value="nb">
+                      Bokmål (nb)
+                    </option>
+                    <option data-language-url="/bg/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/code" value="bg">
+                      Bulgarian (bg)
+                    </option>
+                    <option data-language-url="/zh-CN/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/code" value="zh-CN">
+                      Chinese (China) (zh-CN)
+                    </option>
+                    <option data-language-url="/zh-TW/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/code" value="zh-TW">
+                      Chinese (Taiwan) (zh-TW)
+                    </option>
+                    <option data-language-url="/hr/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/code" value="hr">
+                      Croatian (hr)
+                    </option>
+                    <option data-language-url="/cs/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/code" value="cs">
+                      Czech (cs)
+                    </option>
+                    <option data-language-url="/da/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/code" value="da">
+                      Danish (da)
+                    </option>
+                    <option data-language-url="/nl/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/code" value="nl">
+                      Dutch (nl)
+                    </option>
+                    <option data-language-url="/en/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/code" value="en" selected>
+                      English (en)
+                    </option>
+                    <option data-language-url="/eo/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/code" value="eo">
+                      Esperanto (eo)
+                    </option>
+                    <option data-language-url="/fi/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/code" value="fi">
+                      Finnish (fi)
+                    </option>
+                    <option data-language-url="/fr/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/code" value="fr">
+                      French (fr)
+                    </option>
+                    <option data-language-url="/fr-CA/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/code" value="fr-CA">
+                      French (Canada) (fr-CA)
+                    </option>
+                    <option data-language-url="/ka/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/code" value="ka">
+                      Georgian (ka)
+                    </option>
+                    <option data-language-url="/de/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/code" value="de">
+                      German (de)
+                    </option>
+                    <option data-language-url="/el/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/code" value="el">
+                      Greek (el)
+                    </option>
+                    <option data-language-url="/he/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/code" value="he">
+                      Hebrew (he)
+                    </option>
+                    <option data-language-url="/hu/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/code" value="hu">
+                      Hungarian (hu)
+                    </option>
+                    <option data-language-url="/id/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/code" value="id">
+                      Indonesian (id)
+                    </option>
+                    <option data-language-url="/it/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/code" value="it">
+                      Italian (it)
+                    </option>
+                    <option data-language-url="/ja/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/code" value="ja">
+                      Japanese (ja)
+                    </option>
+                    <option data-language-url="/ko/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/code" value="ko">
+                      Korean (ko)
+                    </option>
+                    <option data-language-url="/mr/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/code" value="mr">
+                      Marathi (mr)
+                    </option>
+                    <option data-language-url="/pl/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/code" value="pl">
+                      Polish (pl)
+                    </option>
+                    <option data-language-url="/pt-BR/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/code" value="pt-BR">
+                      Portuguese (Brazil) (pt-BR)
+                    </option>
+                    <option data-language-url="/ro/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/code" value="ro">
+                      Romanian (ro)
+                    </option>
+                    <option data-language-url="/ru/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/code" value="ru">
+                      Russian (ru)
+                    </option>
+                    <option data-language-url="/sr/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/code" value="sr">
+                      Serbian (sr)
+                    </option>
+                    <option data-language-url="/sk/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/code" value="sk">
+                      Slovak (sk)
+                    </option>
+                    <option data-language-url="/es/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/code" value="es">
+                      Spanish (es)
+                    </option>
+                    <option data-language-url="/es-419/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/code" value="es-419">
+                      Spanish (es-419)
+                    </option>
+                    <option data-language-url="/sv/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/code" value="sv">
+                      Swedish (sv)
+                    </option>
+                    <option data-language-url="/th/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/code" value="th">
+                      Thai (th)
+                    </option>
+                    <option data-language-url="/tr/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/code" value="tr">
+                      Turkish (tr)
+                    </option>
+                    <option data-language-url="/ug/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/code" value="ug">
+                      Uighur (ug)
+                    </option>
+                    <option data-language-url="/uk/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/code" value="uk">
+                      Ukrainian (uk)
+                    </option>
+                    <option data-language-url="/vi/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/code" value="vi">
+                      Vietnamese (vi)
+                    </option>
+                    <option data-language-url="/ckb/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/code" value="ckb">
+                      کوردیی ناوەندی (ckb)
+                    </option>
+                <option value="help">Help us translate!</option>
+              </select><input class="language-selector-submit" type="submit" value="→">
+            </form>
+</li>
+        </nav>
+      </div>
+
+      <script>
+        /* submit is handled by js if enabled */
+        document.querySelectorAll(".language-selector-submit").forEach((lss) => { lss.style.display = "none" })
+      </script>
+    </div>
+  </header>
+
+  <div class="width-constraint">
+
+      <section id="script-info">
+    <ul id="script-links" class="tabs">
+      <li><a href="/en/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0"><span>Info</span></a></li>
+      <li class="current"><span>Code</span></li>
+      <li><a href="/en/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/versions"><span>History</span></a></li>
+      <li><a href="/en/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/feedback"><span>Feedback (0)</span></a></li>
+      <li><a href="/en/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/stats"><span>Stats</span></a></li>
+    </ul>
+    <header>
+      <h2>overframe国服名称替换英文名称</h2>
+      <p id="script-description" class="script-description">以文本替换方式实现游戏名词国服化，基于英文名称替换，搜索时请使用原名称。PS：本人代码文盲，此脚本为使用别人现有脚本改造而成，欢迎有能力的朋友做出更优秀脚本。原脚本地址：https://greasyfork.org/zh-CN/scripts/376441-soldout-2-%E6%96%87%E6%9C%AC%E6%9B%BF%E6%8D%A2</p>
+    </header>
+    <div id="script-content">
+      
+
+      <div id="install-area">
+          
+<a class="install-link" data-install-format="js" data-ping-url="/scripts/460948/install-ping" data-post-install-url="https://greasyfork.org/en/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/post-install" data-ip-address="207.211.147.108" data-script-id="460948" data-ping-key="1231a7f102ec0378e921926cef1ef7a09def5416" data-is-previous-version="false" data-previous-version-warning="This is not the latest version of this script. If you install it, you will never be updated to a newer version. Install anyway?" rel="nofollow" data-script-name="overframe国服名称替换英文名称" data-script-namespace="https://" data-script-version="0.3" data-update-label="Update to version 0.3" data-downgrade-label="Downgrade to version 0.3" data-reinstall-label="Reinstall version 0.3" href="https://update.greasyfork.org/scripts/460948/overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0.user.js">Install this script</a><a class="install-help-link" title="How to install" rel="nofollow" href="/en/help/installing-user-scripts">?</a>
+      </div>
+
+
+
+<dialog id="installation-instructions-modal-js" class="modal" closedby="any">
+  <header class="modal__header" aria-labelledby="installation-instructions-modal-title">
+    <h3 class="modal__title" id="installation-instructions-modal-title">
+      How to install
+    </h3>
+    <button class="modal__close modal__cancel" aria-label="Close modal"></button>
+  </header>
+  <main class="modal__content" id="installation-instructions-modal-content">
+    <p class="installation-instructions-modal-content-firefox">
+      You will need to install an extension such as <a target="tampermonkey" href="https://addons.mozilla.org/firefox/addon/tampermonkey/">Tampermonkey</a>, <a target="greasemonkey" href="https://addons.mozilla.org/firefox/addon/greasemonkey/">Greasemonkey</a> or <a target="violentmonkey" href="https://addons.mozilla.org/firefox/addon/violentmonkey/">Violentmonkey</a> to install this script.
+    </p>
+    <p class="installation-instructions-modal-content-chrome">
+      You will need to install an extension such as <a target="tampermonkey" href="https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo">Tampermonkey</a> to install this script.
+    </p>
+    <p class="installation-instructions-modal-content-opera">
+      You will need to install an extension such as <a target="tampermonkey" href="https://addons.opera.com/extensions/details/tampermonkey-beta/">Tampermonkey</a> or <a target="violentmonkey" href="https://violentmonkey.github.io/get-it/">Violentmonkey</a> to install this script.
+    </p>
+    <p class="installation-instructions-modal-content-safari">
+      You will need to install an extension such as <a target="tampermonkey" href="https://www.tampermonkey.net/?browser=safari">Tampermonkey</a> or <a target="Userscripts" href="https://apps.apple.com/app/userscripts/id1463298887">Userscripts</a> to install this script.
+    </p>
+    <p class="installation-instructions-modal-content-edge">
+      You will need to install an extension such as <a target="tampermonkey" href="https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd">Tampermonkey</a> to install this script.
+    </p>
+    <p class="installation-instructions-modal-content-other">
+      You will need to install a user script manager extension to install this script.
+    </p>
+    
+<div class="ad ad-rb ">
+    <a target="_blank" href="https://roxybrowser.com/?code=greasyfork"><img src="/vite/assets/banner-Do2PZy2O.png" /></a>
+</div>
+    <p class="installation-instructions-modal-content-bypass">
+      <a href="#">(I already have a user script manager, let me install it!)</a>
+    </p>
+  </main>
+  <footer class="modal__footer">
+    <button class="modal__btn modal__cancel">
+      OK
+    </button>
+  </footer>
+</dialog>
+
+<dialog id="installation-instructions-modal-css" class="modal" closedby="any">
+  <header class="modal__header" aria-labelledby="installation-instructions-modal-title">
+    <h3 class="modal__title" id="installation-instructions-modal-title">
+      How to install
+    </h3>
+    <button class="modal__close modal__cancel" aria-label="Close modal"></button>
+  </header>
+  <main class="modal__content" id="installation-instructions-modal-content">
+    <p class="installation-instructions-modal-content-firefox">
+      You will need to install an extension such as <a target="stylus" href="https://addons.mozilla.org/firefox/addon/styl-us/">Stylus</a> to install this style.
+    </p>
+    <p class="installation-instructions-modal-content-chrome">
+      You will need to install an extension such as <a target="stylus" href="https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne">Stylus</a> to install this style.
+    </p>
+    <p class="installation-instructions-modal-content-opera">
+      You will need to install an extension such as <a target="stylus" href="https://addons.opera.com/extensions/details/stylus/">Stylus</a> to install this style.
+    </p>
+    <p class="installation-instructions-modal-content-safari">
+      You will need to install a user style manager extension to install this style.
+    </p>
+    <p class="installation-instructions-modal-content-edge">
+      You will need to install a user style manager extension to install this style.
+    </p>
+    <p class="installation-instructions-modal-content-other">
+      You will need to install a user style manager extension to install this style.
+    </p>
+    <p class="installation-instructions-modal-content-bypass">
+      <a href="#">(I already have a user style manager, let me install it!)</a>
+    </p>
+  </main>
+  <footer class="modal__footer">
+    <button class="modal__btn modal__cancel">
+      OK
+    </button>
+  </footer>
+</dialog>
+
+
+
+<div id="script-feedback-suggestion">
+    <a rel="nofollow" href="/en/scripts/460948-overframe%E5%9B%BD%E6%9C%8D%E5%90%8D%E7%A7%B0%E6%9B%BF%E6%8D%A2%E8%8B%B1%E6%96%87%E5%90%8D%E7%A7%B0/feedback#post-discussion">Ask a question, post a review</a>, or <a rel="nofollow" href="/en/reports/new?item_class=script&amp;item_id=460948">report the script</a>.
+</div>
+
+
+
+  <div class="ad ad-ea" id="script-show-code-ad">
+    <div class="ad-content">
+        <div id="script-show-code-ea" class="flat ethical-ads adaptive" data-ea-publisher="greasyfork" data-ea-type="text-only-large-v1"></div>
+    </div>
+  </div>
+
+
+  
+
+
+<script src="https://cdn.jsdelivr.net/gh/google/code-prettify@master/loader/run_prettify.js?lang=css"></script>
+
+<div>
+  <input type="checkbox" id="wrap-lines" checked value="1"><label for="wrap-lines" class="checkbox-label">Wrap lines</label>
+</div>
+<div class="code-container">
+  <pre class="prettyprint linenums wrap lang-js">// ==UserScript==
+// @name         overframe国服名称替换英文名称
+// @namespace    https://
+// @version      0.3
+// @description  以文本替换方式实现游戏名词国服化，基于英文名称替换，搜索时请使用原名称。PS：本人代码文盲，此脚本为使用别人现有脚本改造而成，欢迎有能力的朋友做出更优秀脚本。原脚本地址：https://greasyfork.org/zh-CN/scripts/376441-soldout-2-%E6%96%87%E6%9C%AC%E6%9B%BF%E6%8D%A2
+// @author       ye
+// @match        https://overframe.gg/*
+// @grant        none
+// ==/UserScript==
+
+
+(function() {
+    &#39;use strict&#39;;
+
+    const i18n = new Map([
+//界面
+    [&#39;Top Builds&#39;, &#39;最佳配卡&#39;],
+        [&#39;Sort&#39;, &#39;排序&#39;],
+            [&#39;RATING&#39;, &#39;评价&#39;],
+            [&#39;LAST UPDATED&#39;, &#39;最后更新日期&#39;],
+            [&#39;FORMA COUNT&#39;, &#39;福马消耗量&#39;],
+            [&#39; 🢃&#39;, &#39; 高&#39;],
+            [&#39; 🢁&#39;, &#39; 低&#39;],
+            [&#39;NAME&#39;, &#39;名称&#39;],
+        [&#39;Updated since&#39;, &#39;更新时间&#39;],
+            [&#39;Any Time&#39;, &#39;任何时间&#39;],
+        [&#39;Build name&#39;, &#39;配卡名称&#39;],
+        [&#39;Warframe&#39;, &#39;星际战甲&#39;],
+        [&#39;WARFRAMES&#39;, &#39;战甲&#39;],
+        [&#39;Primary Weapon&#39;, &#39;主武器&#39;],
+        [&#39;PRIMARY WEAPONS&#39;, &#39;主武器&#39;],
+        [&#39;Secondary Weapon&#39;, &#39;副武器&#39;],
+        [&#39;SECONDARY WEAPONS&#39;, &#39;副武器&#39;],
+        [&#39;Melee Weapon&#39;, &#39;近战&#39;],
+        [&#39;MELEE WEAPONS&#39;, &#39;近战&#39;],
+        [&#39;Archwing&#39;, &#39;空战&#39;],
+        [&#39;ARCHWING&#39;, &#39;空战&#39;],
+        [&#39;Companion&#39;, &#39;小伙伴&#39;],
+        [&#39;COMPANIONS&#39;, &#39;小伙伴&#39;],
+    [&#39;Tier List&#39;, &#39;排行榜&#39;],
+        [&#39;HELMINTH ABILITIES&#39;, &#39;赫明斯技能&#39;],
+        [&#39;DISPLAY:&#39;, &#39;显示：&#39;],
+        [&#39;TIERS&#39;, &#39;级别&#39;],
+        [&#39;VOTES&#39;, &#39;评分&#39;],
+        [&#39;Tier&#39;, &#39;级&#39;],
+    [&#39;New Build&#39;, &#39;新建配卡&#39;],
+//双词缀
+        [&#39;Dual Kamas Prime&#39;, &#39;圣装迦摩天双镰&#39;],//近战武器，双词缀
+        [&#39;Dual Keres Prime&#39;, &#39;圣装灾厄双刃&#39;],//近战武器，双词缀
+        [&#39;Kuva Twin Stubbas&#39;, &#39;赤毒双子斯图巴冲锋手枪&#39;],//副武器，双词缀
+        [&#39;Prisma Dual Cleavers&#39;, &#39;棱晶近卫者&#39;],//近战武器，双词缀
+        [&#39;Prisma Dual Decurions&#39;, &#39;棱晶什长双枪&#39;],//空战武器，双词缀
+        [&#39;Secura Dual Cestra&#39;, &#39;瑟古拉双持逆转聚能炮&#39;],//副武器，双词缀
+//单词缀
+        [&#39;Afuris Prime&#39;, &#39;圣装双持弗里斯手枪&#39;],//副武器，单词缀
+        [&#39;Akbolto Prime&#39;, &#39;圣装双持角犀&#39;],//副武器，单词缀
+        [&#39;Akbronco Prime&#39;, &#39;圣装双持布隆克烈驹&#39;],//副武器，单词缀
+        [&#39;Akjagara Prime&#39;, &#39;圣装觉醒双枪&#39;],//副武器，单词缀
+        [&#39;Aklex Prime&#39;, &#39;圣装双持秩序之握&#39;],//副武器，单词缀
+        [&#39;Aksomati Prime&#39;, &#39;圣装轻灵索玛双枪&#39;],//副武器，单词缀
+        [&#39;Akstiletto Prime&#39;, &#39;圣装双持西提列托&#39;],//副武器，单词缀
+        [&#39;Akvasto Prime&#39;, &#39;圣装双持瓦斯托&#39;],//副武器，单词缀
+        [&#39;Ankyros Prime&#39;, &#39;圣装安奇洛斯拳套&#39;],//近战武器，单词缀
+        [&#39;Ash Prime&#39;, &#39;圣装灰烬之刃&#39;],//战甲，单词缀
+        [&#39;Astilla Prime&#39;, &#39;圣装碎晶霰弹枪&#39;],//主武器，单词缀
+        [&#39;Atlas Prime&#39;, &#39;圣装撼天刑者&#39;],//战甲，单词缀
+        [&#39;Ballistica Prime&#39;, &#39;圣装惊惧手弩&#39;],//副武器，单词缀
+        [&#39;Banshee Prime&#39;, &#39;圣装恸哭女妖&#39;],//战甲，单词缀
+        [&#39;Baruuk Prime&#39;, &#39;圣装圣拳武僧&#39;],//战甲，单词缀
+        [&#39;Baza Prime&#39;, &#39;圣装苍鹰冲锋枪&#39;],//主武器，单词缀
+        [&#39;Bo Prime&#39;, &#39;圣装破禅武杖&#39;],//近战武器，单词缀
+        [&#39;Boar Prime&#39;, &#39;圣装雄猪霰弹枪&#39;],//主武器，单词缀
+        [&#39;Boltor Prime&#39;, &#39;圣装波尔托骨刺&#39;],//主武器，单词缀
+        [&#39;Bonewidow Prime&#39;, &#39;圣装骨骸寡妇&#39;],//战甲，单词缀
+        [&#39;Braton Prime&#39;, &#39;圣装制式步枪&#39;],//主武器，单词缀
+        [&#39;Braton Vandal&#39;, &#39;镇暴制式步枪&#39;],//主武器，单词缀
+        [&#39;Broken War&#39;, &#39;破碎的纷争&#39;],//近战武器，单词缀
+        [&#39;Bronco Prime&#39;, &#39;圣装布隆克烈驹&#39;],//副武器，单词缀
+        [&#39;Burston Prime&#39;, &#39;圣装伯斯顿步枪&#39;],//主武器，单词缀
+        [&#39;Caliban Prime&#39;, &#39;圣装卡利班&#39;],//战甲，单词缀
+        [&#39;Carmine Penta&#39;, &#39;绯红五芒星榴弹炮&#39;],//主武器，单词缀
+        [&#39;Cernos Prime&#39;, &#39;圣装瑟诺斯长弓&#39;],//主武器，单词缀
+        [&#39;Ceti Lacera&#39;, &#39;天仓绝情双剪&#39;],//近战武器，单词缀
+        [&#39;Chroma Prime&#39;, &#39;圣装怒炎龙骑&#39;],//战甲，单词缀
+        [&#39;Citrine Prime&#39;, &#39;圣装辉光晶灵&#39;],//战甲，单词缀
+        [&#39;Cobra &amp; Crane Prime&#39;, &#39;圣装眼镜蛇与鹤&#39;],//近战武器，单词缀
+        [&#39;Corinth Prime&#39;, &#39;圣装科林斯泵动式霰弹枪&#39;],//主武器，单词缀
+        [&#39;Corvas Prime&#39;, &#39;圣装黑鸦&#39;],//空战武器，单词缀
+        [&#39;Dakra Prime&#39;, &#39;圣装达克拉&#39;],//近战武器，单词缀
+        [&#39;Deconstructor Prime&#39;, &#39;圣装爆能分解&#39;],//宠物武器，单词缀
+        [&#39;Dera Vandal&#39;, &#39;镇暴德拉&#39;],//主武器，单词缀
+        [&#39;Destreza Prime&#39;, &#39;圣装护手刺剑&#39;],//近战武器，单词缀
+        [&#39;Deth Machine Rifle Prime&#39;, &#39;圣装冷酷机枪&#39;],//宠物武器，单词缀
+        [&#39;Dex Dakra&#39;, &#39;灵敏达克拉&#39;],//近战武器，单词缀
+        [&#39;Dex Furis&#39;, &#39;灵敏弗里斯双枪&#39;],//副武器，单词缀
+        [&#39;Dex Sybaris&#39;, &#39;灵敏远古丧钟&#39;],//主武器，单词缀
+        [&#39;Dragon Nikana&#39;, &#39;龙之侍刃&#39;],//近战武器，单词缀
+        [&#39;Dual Cestra&#39;, &#39;双持逆转聚能炮&#39;],//副武器，单词缀
+        [&#39;Dual Cleavers&#39;, &#39;近卫者&#39;],//近战武器，单词缀
+        [&#39;Dual Decurion&#39;, &#39;什长双枪&#39;],//空战武器，单词缀
+        [&#39;Dual Ether&#39;, &#39;苍穹双剑&#39;],//近战武器，单词缀
+        [&#39;Dual Heat Swords&#39;, &#39;烈焰双剑&#39;],//近战武器，单词缀
+        [&#39;Dual Ichor&#39;, &#39;恶脓双斧&#39;],//近战武器，单词缀
+        [&#39;Dual Kamas&#39;, &#39;迦摩天双镰&#39;],//近战武器，单词缀
+        [&#39;Dual Keres&#39;, &#39;灾厄双刃&#39;],//近战武器，单词缀
+        [&#39;Dual Raza&#39;, &#39;锋月双斧&#39;],//近战武器，单词缀
+        [&#39;Dual Skana&#39;, &#39;空灵双刀&#39;],//近战武器，单词缀
+        [&#39;Dual Toxocyst&#39;, &#39;毒刺双枪&#39;],//副武器，单词缀
+        [&#39;Dual Zoren&#39;, &#39;索伦双斧&#39;],//近战武器，单词缀
+        [&#39;Ekwana Jai II&#39;, &#39;双扣环坠&#39;],//天工部件，单词缀
+        [&#39;Ekwana Ruhang II&#39;, &#39;环钩坠&#39;],//天工部件，单词缀
+        [&#39;Ember Prime&#39;, &#39;圣装永恒烈焰&#39;],//战甲，单词缀
+        [&#39;Equinox Prime&#39;, &#39;圣装阴阳双子&#39;],//战甲，单词缀
+        [&#39;Euphona Prime&#39;, &#39;圣装仙乐奏鸣&#39;],//副武器，单词缀
+        [&#39;Excalibur Umbra&#39;, &#39;暗影圣剑&#39;],//战甲，单词缀
+        [&#39;Fang Prime&#39;, &#39;圣装狼牙双刃&#39;],//近战武器，单词缀
+        [&#39;Fragor Prime&#39;, &#39;圣装悲悯&#39;],//近战武器，单词缀
+        [&#39;Frost Prime&#39;, &#39;圣装冰雪寒霜&#39;],//战甲，单词缀
+        [&#39;Furax Wraith&#39;, &#39;红莲寄居蟹手刺&#39;],//近战武器，单词缀
+        [&#39;Galatine Prime&#39;, &#39;圣装加拉丁暗影&#39;],//近战武器，单词缀
+        [&#39;Gara Prime&#39;, &#39;圣装琉璃仕女&#39;],//战甲，单词缀
+        [&#39;Garuda Prime&#39;, &#39;圣装迦楼罗&#39;],//战甲，单词缀
+        [&#39;Gauss Prime&#39;, &#39;圣装迅电驰影&#39;],//战甲，单词缀
+        [&#39;Gazal Machete&#39;, &#39;加扎尔精英阔刀&#39;],//近战武器，单词缀
+        [&#39;Glaive Prime&#39;, &#39;圣装回旋刃&#39;],//近战武器，单词缀
+        [&#39;Glaxion Vandal&#39;, &#39;镇暴急冻冰枪&#39;],//主武器，单词缀
+        [&#39;Gorgon Wraith&#39;, &#39;红莲蛇发女妖&#39;],//主武器，单词缀
+        [&#39;Gram Prime&#39;, &#39;圣装格拉姆&#39;],//近战武器，单词缀
+        [&#39;Grendel Prime&#39;, &#39;圣装暴食者&#39;],//战甲，单词缀
+        [&#39;Guandao Prime&#39;, &#39;圣装偃月刀&#39;],//近战武器，单词缀
+        [&#39;Gyre Prime&#39;, &#39;圣装电光舞者&#39;],//战甲，单词缀
+        [&#39;Halikar Wraith&#39;, &#39;红莲喷射飞锤&#39;],//近战武器，单词缀
+        [&#39;Harrow Prime&#39;, &#39;圣装驱魔使者&#39;],//战甲，单词缀
+        [&#39;Helios Prime&#39;, &#39;圣装太阳之神&#39;],//宠物，单词缀
+        [&#39;Hikou Prime&#39;, &#39;圣装星镖&#39;],//副武器，单词缀
+        [&#39;Hildryn Prime&#39;, &#39;圣装重装武神&#39;],//战甲，单词缀
+        [&#39;Hydroid Prime&#39;, &#39;圣装惊涛骇浪&#39;],//战甲，单词缀
+        [&#39;Hystrix Prime&#39;, &#39;圣装豪猪镖枪&#39;],//副武器，单词缀
+        [&#39;Ignis Wraith&#39;, &#39;红莲爆燃喷射器&#39;],//主武器，单词缀
+        [&#39;Imperator Vandal&#39;, &#39;镇暴皇蟒&#39;],//空战武器，单词缀
+        [&#39;Inaros Prime&#39;, &#39;圣装沙海怒涛&#39;],//战甲，单词缀
+        [&#39;Ivara Prime&#39;, &#39;圣装神弓游侠&#39;],//战甲，单词缀
+        [&#39;Jai II&#39;, &#39;双扣坠&#39;],//天工部件，单词缀
+        [&#39;Karak Wraith&#39;, &#39;红莲超体步枪&#39;],//主武器，单词缀
+        [&#39;Karyst Prime&#39;, &#39;圣装困惑之刃&#39;],//近战武器，单词缀
+        [&#39;Khora Prime&#39;, &#39;圣装荒野猎手&#39;],//战甲，单词缀
+        [&#39;Knell Prime&#39;, &#39;圣装噩兆&#39;],//副武器，单词缀
+        [&#39;Kogake Prime&#39;, &#39;圣装牢笼拳套&#39;],//近战武器，单词缀
+        [&#39;Kronen Prime&#39;, &#39;圣装弧月刀&#39;],//近战武器，单词缀
+        [&#39;Kuva Ayanga&#39;, &#39;赤毒怒雷&#39;],//空战武器，单词缀
+        [&#39;Kuva Brakk&#39;, &#39;赤毒布拉克&#39;],//副武器，单词缀
+        [&#39;Kuva Bramma&#39;, &#39;赤毒布拉玛&#39;],//主武器，单词缀
+        [&#39;Kuva Chakkhurr&#39;, &#39;赤毒邪眼&#39;],//主武器，单词缀
+        [&#39;Kuva Drakgoon&#39;, &#39;赤毒龙息匣炮&#39;],//主武器，单词缀
+        [&#39;Kuva Grattler&#39;, &#39;赤毒反重力空气枪&#39;],//空战武器，单词缀
+        [&#39;Kuva Hek&#39;, &#39;赤毒狂神&#39;],//主武器，单词缀
+        [&#39;Kuva Hind&#39;, &#39;赤毒雌鹿半自动步枪&#39;],//主武器，单词缀
+        [&#39;Kuva Karak&#39;, &#39;赤毒超体步枪&#39;],//主武器，单词缀
+        [&#39;Kuva Kohm&#39;, &#39;赤毒聚能瓦斯炮&#39;],//主武器，单词缀
+        [&#39;Kuva Kraken&#39;, &#39;赤毒北海巨妖&#39;],//副武器，单词缀
+        [&#39;Kuva Nukor&#39;, &#39;赤毒努克微波&#39;],//副武器，单词缀
+        [&#39;Kuva Ogris&#39;, &#39;赤毒奥基手持火箭炮&#39;],//主武器，单词缀
+        [&#39;Kuva Quartakk&#39;, &#39;赤毒夸塔克四管突击步枪&#39;],//主武器，单词缀
+        [&#39;Kuva Seer&#39;, &#39;赤毒希尔先知&#39;],//副武器，单词缀
+        [&#39;Kuva Shildeg&#39;, &#39;赤毒希尔德&#39;],//近战武器，单词缀
+        [&#39;Kuva Tonkor&#39;, &#39;赤毒征服榴炮&#39;],//主武器，单词缀
+        [&#39;Kuva Zarr&#39;, &#39;赤毒煞皇&#39;],//主武器，单词缀
+        [&#39;Lato Prime&#39;, &#39;圣装拉托&#39;],//副武器，单词缀
+        [&#39;Lato Vandal&#39;, &#39;镇暴拉托&#39;],//副武器，单词缀
+        [&#39;Latron Prime&#39;, &#39;圣装拉特龙半自动步枪&#39;],//主武器，单词缀
+        [&#39;Latron Wraith&#39;, &#39;红莲拉特龙半自动步枪&#39;],//主武器，单词缀
+        [&#39;Lavos Prime&#39;, &#39;圣装无限术士&#39;],//战甲，单词缀
+        [&#39;Lex Prime&#39;, &#39;圣装秩序之握&#39;],//副武器，单词缀
+        [&#39;Limbo Prime&#39;, &#39;圣装灵薄狱&#39;],//战甲，单词缀
+        [&#39;Loki Prime&#39;, &#39;圣装邪神洛基&#39;],//战甲，单词缀
+        [&#39;Machete Wraith&#39;, &#39;红莲精英阔刀&#39;],//近战武器，单词缀
+        [&#39;Mag Prime&#39;, &#39;圣装磁力&#39;],//战甲，单词缀
+        [&#39;Magnus Prime&#39;, &#39;圣装猛犸手枪&#39;],//副武器，单词缀
+        [&#39;Mara Detron&#39;, &#39;玛拉迪特隆&#39;],//副武器，单词缀
+        [&#39;Mesa Prime&#39;, &#39;圣装圣枪弥撒&#39;],//战甲，单词缀
+        [&#39;Mirage Prime&#39;, &#39;圣装魅影精灵&#39;],//战甲，单词缀
+        [&#39;MK1-Bo&#39;, &#39;试用型-破禅武杖&#39;],//近战武器，单词缀
+        [&#39;MK1-Braton&#39;, &#39;试用型-制式步枪&#39;],//主武器，单词缀
+        [&#39;MK1-Furax&#39;, &#39;试用型-寄居蟹手刺&#39;],//近战武器，单词缀
+        [&#39;MK1-Furis&#39;, &#39;试用型-弗里斯手枪&#39;],//副武器，单词缀
+        [&#39;MK1-Kunai&#39;, &#39;试用型-苦无&#39;],//副武器，单词缀
+        [&#39;MK1-Paris&#39;, &#39;试用型-帕里斯长弓&#39;],//主武器，单词缀
+        [&#39;MK1-Strun&#39;, &#39;试用型-斯特朗炮&#39;],//主武器，单词缀
+        [&#39;Mutalist Cernos&#39;, &#39;异融瑟诺斯长弓&#39;],//主武器，单词缀
+        [&#39;Mutalist Quanta&#39;, &#39;异融光能量子&#39;],//主武器，单词缀
+        [&#39;Nagantaka Prime&#39;, &#39;圣装噬蛇弩&#39;],//主武器，单词缀
+        [&#39;Nami Skyla Prime&#39;, &#39;圣装纳米斯凯拉&#39;],//近战武器，单词缀
+        [&#39;Nekros Prime&#39;, &#39;圣装御魂主宰&#39;],//战甲，单词缀
+        [&#39;Nezha Prime&#39;, &#39;圣装哪咤三太子&#39;],//战甲，单词缀
+        [&#39;Nidus Prime&#39;, &#39;圣装异变之巢&#39;],//战甲，单词缀
+        [&#39;Nikana Prime&#39;, &#39;圣装侍刃&#39;],//近战武器，单词缀
+        [&#39;Ninkondi Prime&#39;, &#39;圣装翠玉双截棍&#39;],//近战武器，单词缀
+        [&#39;Nova Prime&#39;, &#39;圣装超能新星&#39;],//战甲，单词缀
+        [&#39;Nyx Prime&#39;, &#39;圣装冥河夜神&#39;],//战甲，单词缀
+        [&#39;Oberon Prime&#39;, &#39;圣装龙王奥伯&#39;],//战甲，单词缀
+        [&#39;Octavia Prime&#39;, &#39;圣装吟游歌者&#39;],//战甲，单词缀
+        [&#39;Opticor Vandal&#39;, &#39;镇暴热熔镭射炮&#39;],//主武器，单词缀
+        [&#39;Orthos Prime&#39;, &#39;圣装双尾鲨&#39;],//近战武器，单词缀
+        [&#39;Pandero Prime&#39;, &#39;圣装潘德罗&#39;],//副武器，单词缀
+        [&#39;Pangolin Prime&#39;, &#39;圣装鲮鲤&#39;],//近战武器，单词缀
+        [&#39;Panthera Prime&#39;, &#39;圣装猎豹&#39;],//主武器，单词缀
+        [&#39;Paris Prime&#39;, &#39;圣装帕里斯长弓&#39;],//主武器，单词缀
+        [&#39;Phantasma Prime&#39;, &#39;圣装幻影离子冲击枪&#39;],//主武器，单词缀
+        [&#39;Prime Laser Rifle&#39;, &#39;圣装激光步枪&#39;],//宠物武器，单词缀
+        [&#39;Prisma Angstrum&#39;, &#39;棱晶将军手持短炮&#39;],//副武器，单词缀
+        [&#39;Prisma Burst Laser&#39;, &#39;棱晶爆发激光发射器&#39;],//宠物武器，单词缀
+        [&#39;Prisma Gorgon&#39;, &#39;棱晶蛇发女妖&#39;],//主武器，单词缀
+        [&#39;Prisma Grakata&#39;, &#39;棱晶格拉达火舌&#39;],//主武器，单词缀
+        [&#39;Prisma Grinlok&#39;, &#39;棱晶尖叫小丑&#39;],//主武器，单词缀
+        [&#39;Prisma Machete&#39;, &#39;棱晶精英阔刀&#39;],//近战武器，单词缀
+        [&#39;Prisma Obex&#39;, &#39;棱晶惩戒手刺&#39;],//近战武器，单词缀
+        [&#39;Prisma Shade&#39;, &#39;棱晶幽冥暗影&#39;],//宠物，单词缀
+        [&#39;Prisma Skana&#39;, &#39;棱晶空灵刃&#39;],//近战武器，单词缀
+        [&#39;Prisma Tetra&#39;, &#39;棱晶泰特拉&#39;],//主武器，单词缀
+        [&#39;Prisma Twin Gremlins&#39;, &#39;棱晶双子精灵&#39;],//副武器，单词缀
+        [&#39;Prisma Veritux&#39;, &#39;棱晶宇宙真理&#39;],//空战武器，单词缀
+        [&#39;Proboscis Cernos&#39;, &#39;刺吸瑟诺斯长弓&#39;],//主武器，单词缀
+        [&#39;Protea Prime&#39;, &#39;圣装泊时灵械&#39;],//战甲，单词缀
+        [&#39;Prova Vandal&#39;, &#39;镇暴高压电棒&#39;],//近战武器，单词缀
+        [&#39;Pyrana Prime&#39;, &#39;圣装派亚脊刺&#39;],//副武器，单词缀
+        [&#39;Quanta Vandal&#39;, &#39;镇暴光能量子&#39;],//主武器，单词缀
+        [&#39;Rakta Ballistica&#39;, &#39;拉克塔惊惧手弩&#39;],//副武器，单词缀
+        [&#39;Rakta Cernos&#39;, &#39;拉克塔瑟诺斯长弓&#39;],//主武器，单词缀
+        [&#39;Rakta Dark Dagger&#39;, &#39;拉克塔暗影匕首&#39;],//近战武器，单词缀
+        [&#39;Reaper Prime&#39;, &#39;圣装收割者&#39;],//近战武器，单词缀
+        [&#39;Redeemer Prime&#39;, &#39;圣装救赎者&#39;],//近战武器，单词缀
+        [&#39;Revenant Prime&#39;, &#39;圣装徘徊夜灵&#39;],//战甲，单词缀
+        [&#39;Rhino Prime&#39;, &#39;圣装狂野犀牛&#39;],//战甲，单词缀
+        [&#39;Rubico Prime&#39;, &#39;圣装绿陶狙击枪&#39;],//主武器，单词缀
+        [&#39;Ruhang II&#39;, &#39;双钩坠&#39;],//天工部件，单词缀
+        [&#39;Sancti Castanas&#39;, &#39;圣洁分体式处理信标&#39;],//副武器，单词缀
+        [&#39;Sancti Magistar&#39;, &#39;圣洁真理权杖&#39;],//近战武器，单词缀
+        [&#39;Sancti Tigris&#39;, &#39;圣洁泰格里斯&#39;],//主武器，单词缀
+        [&#39;Saryn Prime&#39;, &#39;圣装剧毒之触&#39;],//战甲，单词缀
+        [&#39;Scindo Prime&#39;, &#39;圣装神罚巨斧&#39;],//近战武器，单词缀
+        [&#39;Scourge Prime&#39;, &#39;圣装天罚&#39;],//主武器，单词缀
+        [&#39;Secura Lecta&#39;, &#39;瑟古拉僵直电鞭&#39;],//近战武器，单词缀
+        [&#39;Secura Penta&#39;, &#39;瑟古拉五芒星榴弹炮&#39;],//主武器，单词缀
+        [&#39;Sevagoth Prime&#39;, &#39;圣装虚冥鬼影&#39;],//战甲，单词缀
+        [&#39;Sicarus Prime&#39;, &#39;圣装塞卡洛斯&#39;],//副武器，单词缀
+        [&#39;Silva &amp; Aegis Prime&#39;, &#39;圣装希瓦·艾奎斯剑盾&#39;],//近战武器，单词缀
+        [&#39;Skana Prime&#39;, &#39;圣装空灵刃&#39;],//近战武器，单词缀
+        [&#39;Snipetron Vandal&#39;, &#39;镇暴特洛恩阳极磁轨枪&#39;],//主武器，单词缀
+        [&#39;Soma Prime&#39;, &#39;圣装索玛&#39;],//主武器，单词缀
+        [&#39;Spectra Vandal&#39;, &#39;镇暴光谱手枪&#39;],//副武器，单词缀
+        [&#39;Spira Prime&#39;, &#39;圣装螺旋飞刃&#39;],//副武器，单词缀
+        [&#39;Stradavar Prime&#39;, &#39;圣装斯特拉迪瓦&#39;],//主武器，单词缀
+        [&#39;Strun Prime&#39;, &#39;圣装斯特朗炮&#39;],//主武器，单词缀
+        [&#39;Strun Wraith&#39;, &#39;红莲斯特朗炮&#39;],//主武器，单词缀
+        [&#39;Styanax Prime&#39;, &#39;圣装无畏斗士&#39;],//战甲，单词缀
+        [&#39;Supra Vandal&#39;, &#39;镇暴量子苏普拉&#39;],//主武器，单词缀
+        [&#39;Sweeper Prime&#39;, &#39;圣装清道夫&#39;],//宠物武器，单词缀
+        [&#39;Sybaris Prime&#39;, &#39;圣装远古丧钟&#39;],//主武器，单词缀
+        [&#39;Synoid Gammacor&#39;, &#39;辛诺德射线发生仪&#39;],//副武器，单词缀
+        [&#39;Synoid Heliocor&#39;, &#39;辛诺德太阳神锤&#39;],//近战武器，单词缀
+        [&#39;Synoid Simulor&#39;, &#39;辛诺德重力奇点拟成枪&#39;],//主武器，单词缀
+        [&#39;Tatsu Prime&#39;, &#39;圣装龙辰&#39;],//近战武器，单词缀
+        [&#39;Tekko Prime&#39;, &#39;圣装刺蛇&#39;],//近战武器，单词缀
+        [&#39;Telos Akbolto&#39;, &#39;终极双持角犀&#39;],//副武器，单词缀
+        [&#39;Telos Boltace&#39;, &#39;终极螺钉弧月刀&#39;],//近战武器，单词缀
+        [&#39;Telos Boltor&#39;, &#39;终极波尔托骨刺&#39;],//主武器，单词缀
+        [&#39;Tenet Agendus&#39;, &#39;信条议程&#39;],//近战武器，单词缀
+        [&#39;Tenet Arca Plasmor&#39;, &#39;信条弧光等离子冲击枪&#39;],//主武器，单词缀
+        [&#39;Tenet Cycron&#39;, &#39;信条循环式电浆手枪&#39;],//副武器，单词缀
+        [&#39;Tenet Detron&#39;, &#39;信条迪特隆&#39;],//副武器，单词缀
+        [&#39;Tenet Diplos&#39;, &#39;信条迪普洛斯&#39;],//副武器，单词缀
+        [&#39;Tenet Envoy&#39;, &#39;信条特使&#39;],//主武器，单词缀
+        [&#39;Tenet Exec&#39;, &#39;信条枢密&#39;],//近战武器，单词缀
+        [&#39;Tenet Ferrox&#39;, &#39;信条铁磁式激光矛枪&#39;],//主武器，单词缀
+        [&#39;Tenet Flux Rifle&#39;, &#39;信条热能步枪&#39;],//主武器，单词缀
+        [&#39;Tenet Grigori&#39;, &#39;信条格里高利&#39;],//近战武器，单词缀
+        [&#39;Tenet Livia&#39;, &#39;信条利维亚&#39;],//近战武器，单词缀
+        [&#39;Tenet Plinx&#39;, &#39;信条漫射者&#39;],//副武器，单词缀
+        [&#39;Tenet Spirex&#39;, &#39;信条螺旋&#39;],//副武器，单词缀
+        [&#39;Tenet Tetra&#39;, &#39;信条泰特拉&#39;],//主武器，单词缀
+        [&#39;Tenora Prime&#39;, &#39;圣装泰诺拉&#39;],//主武器，单词缀
+        [&#39;Tiberon Prime&#39;, &#39;圣装提贝隆枪刺&#39;],//主武器，单词缀
+        [&#39;Tigris Prime&#39;, &#39;圣装泰格里斯&#39;],//主武器，单词缀
+        [&#39;Tipedo Prime&#39;, &#39;圣装提佩多&#39;],//近战武器，单词缀
+        [&#39;Titania Prime&#39;, &#39;圣装幻蝶仙灵&#39;],//战甲，单词缀
+        [&#39;Trinity Prime&#39;, &#39;圣装三位一体&#39;],//战甲，单词缀
+        [&#39;Twin Basolk&#39;, &#39;双子巴萨克&#39;],//近战武器，单词缀
+        [&#39;Twin Grakatas&#39;, &#39;双持格拉达火舌&#39;],//副武器，单词缀
+        [&#39;Twin Gremlins&#39;, &#39;双子精灵&#39;],//副武器，单词缀
+        [&#39;Twin Kohmak&#39;, &#39;双子寇玛热能炮&#39;],//副武器，单词缀
+        [&#39;Twin Krohkur&#39;, &#39;双子钩刃剑&#39;],//近战武器，单词缀
+        [&#39;Twin Rogga&#39;, &#39;双子罗迦霰弹枪&#39;],//副武器，单词缀
+        [&#39;Twin Vipers Wraith&#39;, &#39;红莲双子蝰蛇&#39;],//副武器，单词缀
+        [&#39;Twin Vipers&#39;, &#39;双子蝰蛇&#39;],//副武器，单词缀
+        [&#39;Valkyr Prime&#39;, &#39;圣装瓦尔基里&#39;],//战甲，单词缀
+        [&#39;Vargeet II Jai&#39;, &#39;双拐扣坠&#39;],//天工部件，单词缀
+        [&#39;Vargeet II Ruhang&#39;, &#39;双拐钩坠&#39;],//天工部件，单词缀
+        [&#39;Vargeet Jai II&#39;, &#39;双扣拐坠&#39;],//天工部件，单词缀
+        [&#39;Vargeet Ruhang II&#39;, &#39;双钩拐坠&#39;],//天工部件，单词缀
+        [&#39;Vasto Prime&#39;, &#39;圣装瓦斯托&#39;],//副武器，单词缀
+        [&#39;Vauban Prime&#39;, &#39;圣装工程统帅&#39;],//战甲，单词缀
+        [&#39;Vaykor Hek&#39;, &#39;维寇狂神&#39;],//主武器，单词缀
+        [&#39;Vaykor Marelok&#39;, &#39;维寇马洛克&#39;],//副武器，单词缀
+        [&#39;Vaykor Sydon&#39;, &#39;维寇三叉戟&#39;],//近战武器，单词缀
+        [&#39;Vectis Prime&#39;, &#39;圣装守望者&#39;],//主武器，单词缀
+        [&#39;Venka Prime&#39;, &#39;圣装钨钢合金爪&#39;],//近战武器，单词缀
+        [&#39;Viper Wraith&#39;, &#39;红莲蝰蛇&#39;],//副武器，单词缀
+        [&#39;Voidrig Prime&#39;, &#39;圣装虚空锐将&#39;],//战甲，单词缀
+        [&#39;Volnus Prime&#39;, &#39;圣装裂伤战锤&#39;],//近战武器，单词缀
+        [&#39;Volt Prime&#39;, &#39;圣装伏特&#39;],//战甲，单词缀
+        [&#39;Voruna Prime&#39;, &#39;圣装赤影狼母&#39;],//战甲，单词缀
+        [&#39;Vulkar Wraith&#39;, &#39;红莲伏尔卡狙击枪&#39;],//主武器，单词缀
+        [&#39;Wisp Prime&#39;, &#39;圣装离火幻灵&#39;],//战甲，单词缀
+        [&#39;Wukong Prime&#39;, &#39;圣装齐天大圣&#39;],//战甲，单词缀
+        [&#39;Xaku Prime&#39;, &#39;圣装虚空残响&#39;],//战甲，单词缀
+        [&#39;Yareli Prime&#39;, &#39;圣装咏浪之灵&#39;],//战甲，单词缀
+        [&#39;Zakti Prime&#39;, &#39;圣装猛毒镖枪&#39;],//副武器，单词缀
+        [&#39;Zephyr Prime&#39;, &#39;圣装狂啸西风&#39;],//战甲，单词缀
+        [&#39;Zhuge Prime&#39;, &#39;圣装诸葛连弩&#39;],//主武器，单词缀
+//无词缀
+        [&quot;Xata&#39;s Whisper&quot;, &quot;真理密语&quot;],//大嘴技能
+        [&quot;Lycath&#39;s Hunt&quot;, &quot;莱卡斯之猎&quot;],//大嘴技能
+        [&#39;Zymos&#39;, &#39;邪莫斯&#39;],//副武器
+        [&#39;Zylok&#39;, &#39;宰洛克&#39;],//副武器
+        [&#39;Zipneedle&#39;, &#39;飞针&#39;],//组件枪部件
+        [&#39;Zipfire&#39;, &#39;啸火&#39;],//组件枪部件
+        [&#39;Zip&#39;, &#39;呼啸&#39;],//组件枪部件
+        [&#39;Zhuge&#39;, &#39;诸葛连弩&#39;],//主武器
+        [&#39;Zephyr&#39;, &#39;狂啸西风&#39;],//战甲
+        [&#39;Zenith&#39;, &#39;天涯&#39;],//主武器
+        [&#39;Zenistar&#39;, &#39;天顶之星&#39;],//近战武器
+        [&#39;Zarr&#39;, &#39;煞皇&#39;],//主武器
+        [&#39;Zakti&#39;, &#39;猛毒镖枪&#39;],//副武器
+        [&#39;Yareli&#39;, &#39;咏浪之灵&#39;],//战甲
+        [&#39;Xoris&#39;, &#39;驱魔之刃&#39;],//近战武器
+        [&#39;Xaku&#39;, &#39;虚空残响&#39;],//战甲
+        [&#39;Wyrm&#39;, &#39;邪念妖龙&#39;],//宠物
+        [&#39;Wukong&#39;, &#39;齐天大圣&#39;],//战甲
+        [&#39;Wolf Sledge&#39;, &#39;恶狼战锤&#39;],//近战武器
+        [&#39;Wisp&#39;, &#39;离火幻灵&#39;],//战甲
+        [&#39;Well of Life&#39;, &#39;生命之井&#39;],//大嘴技能
+        [&#39;Warcry&#39;, &#39;咆哮如雷&#39;],//大嘴技能
+        [&#39;Vulklok&#39;, &#39;电弧步枪&#39;],//宠物武器
+        [&#39;Vulkar&#39;, &#39;伏尔卡狙击枪&#39;],//主武器
+        [&#39;Vulcax&#39;, &#39;火神步枪&#39;],//宠物武器
+        [&#39;Voruna&#39;, &#39;赤影狼母&#39;],//战甲
+        [&#39;Volt&#39;, &#39;伏特&#39;],//战甲
+        [&#39;Volnus&#39;, &#39;裂伤战锤&#39;],//近战武器
+        [&#39;Voidrig&#39;, &#39;虚空锐将&#39;],//战甲
+        [&#39;Vizier Predasite&#39;, &#39;宰相扑猎达赛&#39;],//宠物
+        [&#39;Vitrica&#39;, &#39;金璃剑&#39;],//近战武器
+        [&#39;Viper&#39;, &#39;蝰蛇&#39;],//副武器
+        [&#39;Vial Rush&#39;, &#39;药瓶冲撞&#39;],//大嘴技能
+        [&#39;Vermisplicer&#39;, &#39;虫置&#39;],//组件枪部件
+        [&#39;Veritux&#39;, &#39;宇宙真理&#39;],//空战武器
+        [&#39;Vericres&#39;, &#39;真月武扇&#39;],//近战武器
+        [&#39;Verglas&#39;, &#39;冰凇&#39;],//宠物武器
+        [&#39;Verdilac&#39;, &#39;蝰首骨妖&#39;],//近战武器
+        [&#39;Venka&#39;, &#39;钨钢合金爪&#39;],//近战武器
+        [&#39;Venato&#39;, &#39;脉纹&#39;],//近战武器
+        [&#39;Venari&#39;, &#39;维纳利&#39;],//宠物
+        [&#39;Velox&#39;, &#39;逐电&#39;],//副武器
+        [&#39;Velocitus&#39;, &#39;威洛斯图&#39;],//空战武器
+        [&#39;Veldt&#39;, &#39;荒野步枪&#39;],//主武器
+        [&#39;Vectis&#39;, &#39;守望者&#39;],//主武器
+        [&#39;Vauban&#39;, &#39;工程统帅&#39;],//战甲
+        [&#39;Vasto&#39;, &#39;瓦斯托&#39;],//副武器
+        [&#39;Vastilok&#39;, &#39;瓦斯提枪刃&#39;],//近战武器
+        [&#39;Vasca Kavat&#39;, &#39;噬血型狯犽&#39;],//宠物
+        [&#39;Vargeet Ruhang&#39;, &#39;拐钩坠&#39;],//天工部件
+        [&#39;Vargeet Jai&#39;, &#39;拐扣坠&#39;],//天工部件
+        [&#39;Valkyr&#39;, &#39;瓦尔基里&#39;],//战甲
+        [&#39;Tysis&#39;, &#39;泰希斯异形&#39;],//副武器
+        [&#39;Trumna&#39;, &#39;灭杀者&#39;],//主武器
+        [&#39;Trinity&#39;, &#39;三位一体&#39;],//战甲
+        [&#39;Tremor&#39;, &#39;发抖&#39;],//组件枪部件
+        [&#39;Torid&#39;, &#39;爆裂生化炮&#39;],//主武器
+        [&#39;Tonkor&#39;, &#39;征服榴炮&#39;],//主武器
+        [&#39;Tonbo&#39;, &#39;龙涎棍&#39;],//近战武器
+        [&#39;Tombfinger&#39;, &#39;墓指&#39;],//组件枪部件
+        [&#39;Titania&#39;, &#39;幻蝶仙灵&#39;],//战甲
+        [&#39;Tipedo&#39;, &#39;提佩多军铲&#39;],//近战武器
+        [&#39;Tigris&#39;, &#39;泰格里斯&#39;],//主武器
+        [&#39;Tiberon&#39;, &#39;提贝隆枪刺&#39;],//主武器
+        [&#39;Thunderdrum&#39;, &#39;雷鼓&#39;],//组件枪部件
+        [&#39;Thermal Sunder&#39;, &#39;热能抽离&#39;],//大嘴技能
+        [&#39;Tharros Strike&#39;, &#39;豪勇之击&#39;],//大嘴技能
+        [&#39;Tetra&#39;, &#39;泰特拉&#39;],//主武器
+        [&#39;Tesla Nervos&#39;, &#39;特斯拉手雷&#39;],//大嘴技能
+        [&#39;Terrify&#39;, &#39;恐惧惊骇&#39;],//大嘴技能
+        [&#39;Tenora&#39;, &#39;泰诺拉&#39;],//主武器
+        [&#39;Tempest Barrage&#39;, &#39;暴风弹幕&#39;],//大嘴技能
+        [&#39;Tekko&#39;, &#39;蛇刺&#39;],//近战武器
+        [&#39;Tazicor&#39;, &#39;电镖步枪&#39;],//宠物武器
+        [&#39;Taxon&#39;, &#39;复归信标&#39;],//宠物
+        [&#39;Tatsu&#39;, &#39;龙辰&#39;],//近战武器
+        [&#39;Talons&#39;, &#39;鹰爪飞镖&#39;],//副武器
+        [&#39;Synapse&#39;, &#39;焦灼之须&#39;],//主武器
+        [&#39;Sydon&#39;, &#39;恶龙三叉戟&#39;],//近战武器
+        [&#39;Sybaris&#39;, &#39;远古丧钟&#39;],//主武器
+        [&#39;Swiftfire&#39;, &#39;迅火&#39;],//组件枪部件
+        [&#39;Sweeper&#39;, &#39;清道夫&#39;],//宠物武器
+        [&#39;Supra&#39;, &#39;量子苏普拉&#39;],//主武器
+        [&#39;Sunika Kubrow&#39;, &#39;勇猛库狛&#39;],//宠物
+        [&#39;Styanax&#39;, &#39;无畏斗士&#39;],//战甲
+        [&#39;Stug&#39;, &#39;斯塔格&#39;],//副武器
+        [&#39;Stubba&#39;, &#39;斯图巴冲锋手枪&#39;],//副武器
+        [&#39;Strun&#39;, &#39;斯特朗炮&#39;],//主武器
+        [&#39;Stropha&#39;, &#39;诡计之刃&#39;],//近战武器
+        [&#39;Stradavar&#39;, &#39;斯特拉迪瓦&#39;],//主武器
+        [&#39;Stitch&#39;, &#39;缝针&#39;],//组件枪部件
+        [&#39;Stinger&#39;, &#39;史丁格毒刺&#39;],//宠物武器
+        [&#39;Steflos&#39;, &#39;石晶之花&#39;],//主武器
+        [&#39;Steadyslam&#39;, &#39;稳击&#39;],//组件枪部件
+        [&#39;Staticor&#39;, &#39;静电势能发射器&#39;],//副武器
+        [&#39;Stahlta&#39;, &#39;钢刃步枪&#39;],//主武器
+        [&#39;Sporothrix&#39;, &#39;孢丝感染枪&#39;],//主武器
+        [&#39;Sporelacer&#39;, &#39;孢射&#39;],//组件枪部件
+        [&#39;Splat&#39;, &#39;猛砸&#39;],//组件枪部件
+        [&#39;Spira&#39;, &#39;小李飞刀&#39;],//副武器
+        [&#39;Spellbind&#39;, &#39;仙尘幻咒&#39;],//大嘴技能
+        [&#39;Spectrorage&#39;, &#39;辐光幻镜&#39;],//大嘴技能
+        [&#39;Spectra&#39;, &#39;光谱手枪&#39;],//副武器
+        [&#39;Spark&#39;, &#39;花火&#39;],//组件枪部件
+        [&#39;Sonicor&#39;, &#39;超声冲击枪&#39;],//副武器
+        [&#39;Soma&#39;, &#39;索玛&#39;],//主武器
+        [&#39;Sobek&#39;, &#39;鳄牙&#39;],//主武器
+        [&#39;Snipetron&#39;, &#39;特洛恩阳极磁轨枪&#39;],//主武器
+        [&#39;Smite&#39;, &#39;新星惩击&#39;],//大嘴技能
+        [&#39;Smeeta Kavat&#39;, &#39;柴郡狯犽&#39;],//宠物
+        [&#39;Sly Vulpaphyla&#39;, &#39;狡黠狐帕菲拉&#39;],//宠物
+        [&#39;Slaytra&#39;, &#39;屠煞&#39;],//近战武器
+        [&#39;Slapneedle&#39;, &#39;撞针&#39;],//组件枪部件
+        [&#39;Slap&#39;, &#39;冲撞&#39;],//组件枪部件
+        [&#39;Skiajati&#39;, &#39;暗影侍刃&#39;],//近战武器
+        [&#39;Skana&#39;, &#39;空灵刃&#39;],//近战武器
+        [&#39;Simulor&#39;, &#39;重力奇点拟成枪&#39;],//主武器
+        [&#39;Silva &amp; Aegis&#39;, &#39;希瓦·艾奎斯剑盾&#39;],//近战武器
+        [&#39;Silence&#39;, &#39;静默光环&#39;],//大嘴技能
+        [&#39;Sigma &amp; Octantis&#39;, &#39;南极星&#39;],//近战武器
+        [&#39;Sicarus&#39;, &#39;塞卡洛斯&#39;],//副武器
+        [&#39;Sibear&#39;, &#39;冰原重锤&#39;],//近战武器
+        [&#39;Shuriken&#39;, &#39;反转袖箭&#39;],//大嘴技能
+        [&#39;Shtung&#39;, &#39;特重长握柄&#39;],//天工部件
+        [&#39;Shrewd&#39;, &#39;机灵&#39;],//组件枪部件
+        [&#39;Shooting Gallery&#39;, &#39;靶场&#39;],//大嘴技能
+        [&#39;Shock&#39;, &#39;连锁闪电&#39;],//大嘴技能
+        [&#39;Sheev&#39;, &#39;西弗&#39;],//近战武器
+        [&#39;Shedu&#39;, &#39;舍杜&#39;],//主武器
+        [&#39;Shaku&#39;, &#39;虎骨双节棍&#39;],//近战武器
+        [&#39;Shade&#39;, &#39;幽冥暗影&#39;],//宠物
+        [&#39;Sevagoth&#39;, &#39;虚冥鬼影&#39;],//战甲
+        [&#39;Serro&#39;, &#39;工程支持联接体&#39;],//近战武器
+        [&#39;Sepulcrum&#39;, &#39;追击者&#39;],//副武器
+        [&#39;Sepfahn&#39;, &#39;直刃&#39;],//天工部件
+        [&#39;Sentient Wrath&#39;, &#39;灵煞之怒&#39;],//大嘴技能
+        [&#39;Seer&#39;, &#39;希尔先知&#39;],//副武器
+        [&#39;Seekalla&#39;, &#39;轻长握柄&#39;],//天工部件
+        [&#39;Scourge&#39;, &#39;天罚&#39;],//主武器
+        [&#39;Scoliac&#39;, &#39;腐尾蛟&#39;],//近战武器
+        [&#39;Scindo&#39;, &#39;神罚巨斧&#39;],//近战武器
+        [&#39;Saryn&#39;, &#39;剧毒之触&#39;],//战甲
+        [&#39;Sarpa&#39;, &#39;蛇刃&#39;],//近战武器
+        [&#39;Sarofang&#39;, &#39;沙罗之牙&#39;],//近战武器
+        [&#39;Sahasa Kubrow&#39;, &#39;斥候库狛&#39;],//宠物
+        [&#39;Rumblejack&#39;, &#39;电匕怪杰&#39;],//近战武器
+        [&#39;Ruhang&#39;, &#39;钩坠&#39;],//天工部件
+        [&#39;Rubico&#39;, &#39;绿陶狙击枪&#39;],//主武器
+        [&#39;Roar&#39;, &#39;征战号角&#39;],//大嘴技能
+        [&#39;Ripkas&#39;, &#39;覆海蛟&#39;],//近战武器
+        [&#39;Rhino&#39;, &#39;狂野犀牛&#39;],//战甲
+        [&#39;Revenant&#39;, &#39;徘徊夜灵&#39;],//战甲
+        [&#39;Rest &amp; Rage&#39;, &#39;暂息一怒气&#39;],//大嘴技能
+        [&#39;Resonator&#39;, &#39;低音共振&#39;],//大嘴技能
+        [&#39;Redeemer&#39;, &#39;救赎者&#39;],//近战武器
+        [&#39;Reave&#39;, &#39;生气收割&#39;],//大嘴技能
+        [&#39;Rattleguts&#39;, &#39;响腹&#39;],//组件枪部件
+        [&#39;Rathbone&#39;, &#39;洛萨之骨&#39;],//空战武器
+        [&#39;Ramflare&#39;, &#39;耀光&#39;],//组件枪部件
+        [&#39;Ramble&#39;, &#39;漫谈&#39;],//组件枪部件
+        [&#39;Raksa Kubrow&#39;, &#39;守护库狛&#39;],//宠物
+        [&#39;Radial Blind&#39;, &#39;折光致盲&#39;],//大嘴技能
+        [&#39;Rabvee&#39;, &#39;重锤刃&#39;],//天工部件
+        [&#39;Quiver&#39;, &#39;百变箭袋&#39;],//大嘴技能
+        [&#39;Quellor&#39;, &#39;压制者&#39;],//主武器
+        [&#39;Quatz&#39;, &#39;夸兹&#39;],//副武器
+        [&#39;Quassus&#39;, &#39;威震战扇&#39;],//近战武器
+        [&#39;Quartakk&#39;, &#39;夸塔克四管突击步枪&#39;],//主武器
+        [&#39;Quanta&#39;, &#39;光能量子&#39;],//主武器
+        [&#39;Pyrana&#39;, &#39;派亚脊刺&#39;],//副武器
+        [&#39;Pupacyst&#39;, &#39;蛹囊寄生者&#39;],//近战武器
+        [&#39;Pulmonars&#39;, &#39;感染连枷&#39;],//近战武器
+        [&#39;Pull&#39;, &#39;万象天引&#39;],//大嘴技能
+        [&#39;Prova&#39;, &#39;高压电棒&#39;],//近战武器
+        [&#39;Protea&#39;, &#39;泊时灵械&#39;],//战甲
+        [&#39;Praedos&#39;, &#39;双雄&#39;],//近战武器
+        [&#39;Pox&#39;, &#39;异变信标&#39;],//副武器
+        [&#39;Plinx&#39;, &#39;漫射者&#39;],//副武器
+        [&#39;Plasma Sword&#39;, &#39;等离子长剑&#39;],//近战武器
+        [&#39;Plague Kripath&#39;, &#39;异变轻刺刃&#39;],//天工部件
+        [&#39;Plague Keewar&#39;, &#39;异变重镰刃&#39;],//天工部件
+        [&#39;Plague Bokwin&#39;, &#39;异变重长握柄&#39;],//天工部件
+        [&#39;Plague Akwin&#39;, &#39;异变轻短握柄&#39;],//天工部件
+        [&#39;Pillage&#39;, &#39;野火燎原&#39;],//大嘴技能
+        [&#39;Phenmor&#39;, &#39;凤殁&#39;],//主武器
+        [&#39;Pharaoh Predasite&#39;, &#39;法老扑猎达赛&#39;],//宠物
+        [&#39;Phantasma&#39;, &#39;幻影离子冲击枪&#39;],//主武器
+        [&#39;Phage&#39;, &#39;菲姬噬菌体&#39;],//主武器
+        [&#39;Phaedra&#39;, &#39;月蚀&#39;],//空战武器
+        [&#39;Peye&#39;, &#39;轻短握柄&#39;],//天工部件
+        [&#39;Petrify&#39;, &#39;石化冰封&#39;],//大嘴技能
+        [&#39;Perigale&#39;, &#39;月面狂风&#39;],//主武器
+        [&#39;Penta&#39;, &#39;五芒星榴弹炮&#39;],//主武器
+        [&#39;Pennant&#39;, &#39;尖幡&#39;],//近战武器
+        [&#39;Pathocyst&#39;, &#39;病囊飞刃&#39;],//近战武器
+        [&#39;Paris&#39;, &#39;帕里斯长弓&#39;],//主武器
+        [&#39;Paracyst&#39;, &#39;附肢寄生者&#39;],//主武器
+        [&#39;Paracesis&#39;, &#39;贤者之刃&#39;],//近战武器
+        [&#39;Para Moa&#39;, &#39;副木节恐鸟&#39;],//宠物
+        [&#39;Panzer Vulpaphyla&#39;, &#39;铁甲狐帕菲拉&#39;],//宠物
+        [&#39;Panthera&#39;, &#39;猎豹&#39;],//主武器
+        [&#39;Pangolin Sword&#39;, &#39;鲮鲤剑&#39;],//近战武器
+        [&#39;Pandero&#39;, &#39;潘德罗&#39;],//副武器
+        [&#39;Oxylus&#39;, &#39;山林卫士&#39;],//宠物
+        [&#39;Orvius&#39;, &#39;神庭轮&#39;],//近战武器
+        [&#39;Orthos&#39;, &#39;双尾鲨&#39;],//近战武器
+        [&#39;Opticor&#39;, &#39;热熔镭射炮&#39;],//主武器
+        [&#39;Ooltha&#39;, &#39;长刃&#39;],//天工部件
+        [&#39;Onorix&#39;, &#39;新星诺里斯&#39;],//空战武器
+        [&#39;Oloro Moa&#39;, &#39;扇冠恐鸟&#39;],//宠物
+        [&#39;Okina&#39;, &#39;三叉刺&#39;],//近战武器
+        [&#39;Ohma&#39;, &#39;欧玛电击棍&#39;],//近战武器
+        [&#39;Ogris&#39;, &#39;奥基手持火箭炮&#39;],//主武器
+        [&#39;Odonata&#39;, &#39;远古陨蜓曲翼&#39;],//空战翅膀
+        [&#39;Odonata Prime&#39;, &#39;圣装远古陨蜓曲翼&#39;],//空战翅膀
+        [&#39;Ocucor&#39;, &#39;幽浮能量枪&#39;],//副武器
+        [&#39;Octavia&#39;, &#39;吟游歌者&#39;],//战甲
+        [&#39;Obex&#39;, &#39;惩戒手刺&#39;],//近战武器
+        [&#39;Oberon&#39;, &#39;龙王奥伯&#39;],//战甲
+        [&#39;Nyx&#39;, &#39;冥河夜神&#39;],//战甲
+        [&#39;Nychus Moa&#39;, &#39;尼丘斯恐鸟&#39;],//宠物
+        [&#39;Null Star&#39;, &#39;湮灭流星&#39;],//大嘴技能
+        [&#39;Nukor&#39;, &#39;努克微波&#39;],//副武器
+        [&#39;Nova&#39;, &#39;超能新星&#39;],//战甲
+        [&#39;Nourish&#39;, &#39;消化滋养&#39;],//大嘴技能
+        [&#39;Ninkondi&#39;, &#39;翠玉双截棍&#39;],//近战武器
+        [&#39;Nikana&#39;, &#39;虎之侍刃&#39;],//近战武器
+        [&#39;Nidus&#39;, &#39;异变之巢&#39;],//战甲
+        [&#39;Nezha&#39;, &#39;哪咤三太子&#39;],//战甲
+        [&#39;Nepheri&#39;, &#39;赤炎流星&#39;],//近战武器
+        [&#39;Nekros&#39;, &#39;御魂主宰&#39;],//战甲
+        [&#39;Nautilus&#39;, &#39;鹦鹉螺&#39;],//宠物
+        [&#39;Nataruk&#39;, &#39;太始弓&#39;],//主武器
+        [&#39;Nami Solo&#39;, &#39;纳米索隆&#39;],//近战武器
+        [&#39;Nami Skyla&#39;, &#39;纳米斯凯拉&#39;],//近战武器
+        [&#39;Nagantaka&#39;, &#39;噬蛇弩&#39;],//主武器
+        [&#39;Multron&#39;, &#39;速射步枪&#39;],//宠物武器
+        [&#39;Morgha&#39;, &#39;置灵者&#39;],//空战武器
+        [&#39;Molt&#39;, &#39;蛇形蜕皮&#39;],//大嘴技能
+        [&#39;Miter&#39;, &#39;米特锯刃发射器&#39;],//主武器
+        [&#39;Mire&#39;, &#39;米雷泥沼&#39;],//近战武器
+        [&#39;Mirage&#39;, &#39;魅影精灵&#39;],//战甲
+        [&#39;Mios&#39;, &#39;米奥斯鞭刃&#39;],//近战武器
+        [&#39;Mind Control&#39;, &#39;心灵控制&#39;],//大嘴技能
+        [&#39;Mewan&#39;, &#39;重长刃&#39;],//天工部件
+        [&#39;Mesa&#39;, &#39;圣枪弥撒&#39;],//战甲
+        [&#39;Medjay Predasite&#39;, &#39;守卫扑猎达赛&#39;],//宠物
+        [&#39;Mausolon&#39;, &#39;惩戒者&#39;],//空战武器
+        [&#39;Masseter&#39;, &#39;咀嚼金棒&#39;],//近战武器
+        [&#39;Marelok&#39;, &#39;马洛克&#39;],//副武器
+        [&#39;Magnus&#39;, &#39;猛犸手枪&#39;],//副武器
+        [&#39;Magistar&#39;, &#39;真理权杖&#39;],//近战武器
+        [&#39;Mag&#39;, &#39;磁力&#39;],//战甲
+        [&#39;Machete&#39;, &#39;精英阔刀&#39;],//近战武器
+        [&#39;Lull&#39;, &#39;镇静&#39;],//大嘴技能
+        [&#39;Lovetap&#39;, &#39;爱抚&#39;],//组件枪部件
+        [&#39;Loki&#39;, &#39;邪神洛基&#39;],//战甲
+        [&#39;Limbo&#39;, &#39;灵薄狱&#39;],//战甲
+        [&#39;Lex&#39;, &#39;秩序之握&#39;],//副武器
+        [&#39;Lesion&#39;, &#39;毒伤之颚&#39;],//近战武器
+        [&#39;Lenz&#39;, &#39;楞次复合弓&#39;],//主武器
+        [&#39;Lecta&#39;, &#39;僵直电鞭&#39;],//近战武器
+        [&#39;Lavos&#39;, &#39;无限术士&#39;],//战甲
+        [&#39;Latron&#39;, &#39;拉特龙半自动步枪&#39;],//主武器
+        [&#39;Lato&#39;, &#39;拉托&#39;],//副武器
+        [&#39;Laser Rifle&#39;, &#39;激光步枪&#39;],//宠物武器
+        [&#39;Larva&#39;, &#39;卷须触肢&#39;],//大嘴技能
+        [&#39;Larkspur&#39;, &#39;翠雀&#39;],//空战武器
+        [&#39;Lanka&#39;, &#39;兰卡原能加速枪&#39;],//主武器
+        [&#39;Lambeo Moa&#39;, &#39;兰伯恐鸟&#39;],//宠物
+        [&#39;Laka&#39;, &#39;短握柄&#39;],//天工部件
+        [&#39;Laetum&#39;, &#39;奏凯&#39;],//副武器
+        [&#39;Lacerten&#39;, &#39;莱斯腾&#39;],//宠物武器
+        [&#39;Lacera&#39;, &#39;绝情双剪&#39;],//近战武器
+        [&#39;Kwath&#39;, &#39;重短握柄&#39;],//天工部件
+        [&#39;Kunai&#39;, &#39;苦无&#39;],//副武器
+        [&#39;Kulstar&#39;, &#39;集束鱼雷发射器&#39;],//副武器
+        [&#39;Kroostra&#39;, &#39;重长握柄&#39;],//天工部件
+        [&#39;Kronsh&#39;, &#39;重弯刃&#39;],//天工部件
+        [&#39;Kronen&#39;, &#39;弧月刀&#39;],//近战武器
+        [&#39;Krohkur&#39;, &#39;钩刃剑&#39;],//近战武器
+        [&#39;Kreska&#39;, &#39;克莱斯卡&#39;],//近战武器
+        [&#39;Kraken&#39;, &#39;北海巨妖&#39;],//副武器
+        [&#39;Korumm&#39;, &#39;雷霆暴君&#39;],//近战武器
+        [&#39;Korrudo&#39;, &#39;库鲁多&#39;],//近战武器
+        [&#39;Korb&#39;, &#39;特重短握柄&#39;],//天工部件
+        [&#39;Kompressa&#39;, &#39;卡帕压力枪&#39;],//副武器
+        [&#39;Komorex&#39;, &#39;猛毒&#39;],//主武器
+        [&#39;Kohmak&#39;, &#39;寇玛热能炮&#39;],//副武器
+        [&#39;Kohm&#39;, &#39;聚能瓦斯炮&#39;],//主武器
+        [&#39;Kogake&#39;, &#39;牢笼拳套&#39;],//近战武器
+        [&#39;Knux&#39;, &#39;雷格之拳&#39;],//空战武器
+        [&#39;Knell&#39;, &#39;噩兆&#39;],//副武器
+        [&#39;Killstream&#39;, &#39;连袭&#39;],//组件枪部件
+        [&#39;Khora&#39;, &#39;荒野猎手&#39;],//战甲
+        [&#39;Kestrel&#39;, &#39;红隼&#39;],//近战武器
+        [&#39;Kesheg&#39;, &#39;禁卫长戟&#39;],//近战武器
+        [&#39;Keratinos&#39;, &#39;卡提努之爪&#39;],//近战武器
+        [&#39;Kaszas&#39;, &#39;武者战镰&#39;],//空战武器
+        [&#39;Karyst&#39;, &#39;困惑之刃&#39;],//近战武器
+        [&#39;Karak&#39;, &#39;超体步枪&#39;],//主武器
+        [&#39;Kama&#39;, &#39;迦摩天战镰&#39;],//近战武器
+        [&#39;Jayap&#39;, &#39;长握柄&#39;],//天工部件
+        [&#39;Jaw Sword&#39;, &#39;蛇颚刀&#39;],//近战武器
+        [&#39;Javlok&#39;, &#39;爆燃矛枪&#39;],//主武器
+        [&#39;Jat Kusar&#39;, &#39;爆燃锁镰&#39;],//近战武器
+        [&#39;Jat Kittag&#39;, &#39;氪金狼牙棒&#39;],//近战武器
+        [&#39;Jai&#39;, &#39;扣坠&#39;],//天工部件
+        [&#39;Ivara&#39;, &#39;神弓游侠&#39;],//战甲
+        [&#39;Itzal&#39;, &#39;刺峰&#39;],//空战翅膀
+        [&#39;Ironbride&#39;, &#39;铁嫁&#39;],//空战武器
+        [&#39;Innodem&#39;, &#39;清刚&#39;],//近战武器
+        [&#39;Inaros&#39;, &#39;沙海怒涛&#39;],//战甲
+        [&#39;Imperator&#39;, &#39;皇蟒&#39;],//空战武器
+        [&#39;Ignis&#39;, &#39;爆燃喷射器&#39;],//主武器
+        [&#39;Ice Wave&#39;, &#39;极寒冰浪&#39;],//大嘴技能
+        [&#39;Hystrix&#39;, &#39;豪猪镖枪&#39;],//副武器
+        [&#39;Hydroid&#39;, &#39;惊涛骇浪&#39;],//战甲
+        [&#39;Huras Kubrow&#39;, &#39;狩猎库狛&#39;],//宠物
+        [&#39;Hirudo&#39;, &#39;血蛭&#39;],//近战武器
+        [&#39;Hind&#39;, &#39;雌鹿半自动步枪&#39;],//主武器
+        [&#39;Hildryn&#39;, &#39;重装武神&#39;],//战甲
+        [&#39;Hikou&#39;, &#39;星镖&#39;],//副武器
+        [&#39;Hespar&#39;, &#39;暮斩&#39;],//近战武器
+        [&#39;Hema&#39;, &#39;希玛异变体&#39;],//主武器
+        [&#39;Helstrum&#39;, &#39;赫尔斯壮&#39;],//宠物武器
+        [&#39;Helminth Charger&#39;, &#39;赫明斯巢体寄生疾冲者&#39;],//宠物
+        [&#39;Helios&#39;, &#39;太阳之神&#39;],//宠物
+        [&#39;Heliocor&#39;, &#39;太阳神锤&#39;],//近战武器
+        [&#39;Hek&#39;, &#39;狂神&#39;],//主武器
+        [&#39;Hec Hound&#39;, &#39;骸克猎犬&#39;],//宠物
+        [&#39;Heat Sword&#39;, &#39;烈焰长剑&#39;],//近战武器
+        [&#39;Heat Dagger&#39;, &#39;烈焰短剑&#39;],//近战武器
+        [&#39;Haymaker&#39;, &#39;重击&#39;],//组件枪部件
+        [&#39;Hate&#39;, &#39;厌弃&#39;],//近战武器
+        [&#39;Harrow&#39;, &#39;驱魔使者&#39;],//战甲
+        [&#39;Harpak&#39;, &#39;猎魂捕鲸炮&#39;],//主武器
+        [&#39;Halikar&#39;, &#39;喷射飞锤&#39;],//近战武器
+        [&#39;Gyre&#39;, &#39;电光舞者&#39;],//战甲
+        [&#39;Gunsen&#39;, &#39;铁骨军扇&#39;],//近战武器
+        [&#39;Guandao&#39;, &#39;偃月刀&#39;],//近战武器
+        [&#39;Grinlok&#39;, &#39;尖叫小丑&#39;],//主武器
+        [&#39;Grendel&#39;, &#39;暴食者&#39;],//战甲
+        [&#39;Grattler&#39;, &#39;反重力空气枪&#39;],//空战武器
+        [&#39;Gram&#39;, &#39;格拉姆&#39;],//近战武器
+        [&#39;Grakata&#39;, &#39;格拉达火舌&#39;],//主武器
+        [&#39;Gorgon&#39;, &#39;蛇发女妖&#39;],//主武器
+        [&#39;Gloom&#39;, &#39;惨淡&#39;],//大嘴技能
+        [&#39;Glaxion&#39;, &#39;急冻冰枪&#39;],//主武器
+        [&#39;Glaive&#39;, &#39;回旋刃&#39;],//近战武器
+        [&#39;Gibber&#39;, &#39;急语&#39;],//组件枪部件
+        [&#39;Ghoulsaw&#39;, &#39;尸鬼电锯&#39;],//近战武器
+        [&#39;Gaze&#39;, &#39;凝视&#39;],//组件枪部件
+        [&#39;Gauss&#39;, &#39;迅电驰影&#39;],//战甲
+        [&#39;Garuda&#39;, &#39;迦楼罗&#39;],//战甲
+        [&#39;Gara&#39;, &#39;琉璃仕女&#39;],//战甲
+        [&#39;Gammacor&#39;, &#39;射线发生仪&#39;],//副武器
+        [&#39;Galvacord&#39;, &#39;电流刺索&#39;],//近战武器
+        [&#39;Galatine&#39;, &#39;加拉丁暗影&#39;],//近战武器
+        [&#39;Fusilai&#39;, &#39;琉璃飞刀&#39;],//副武器
+        [&#39;Furis&#39;, &#39;弗里斯手枪&#39;],//副武器
+        [&#39;Furax&#39;, &#39;寄居蟹手刺&#39;],//近战武器
+        [&#39;Fulmin&#39;, &#39;雷霆&#39;],//主武器
+        [&#39;Frost&#39;, &#39;冰雪寒霜&#39;],//战甲
+        [&#39;Fragor&#39;, &#39;悲悯&#39;],//近战武器
+        [&#39;Flux Rifle&#39;, &#39;热能步枪&#39;],//主武器
+        [&#39;Flutterfire&#39;, &#39;曳火&#39;],//组件枪部件
+        [&#39;Fluctus&#39;, &#39;巨浪&#39;],//空战武器
+        [&#39;Fire Walker&#39;, &#39;风火霹雳&#39;],//大嘴技能
+        [&#39;Fire Blast&#39;, &#39;火焰冲击&#39;],//大嘴技能
+        [&#39;Ferrox&#39;, &#39;铁磁式激光矛枪&#39;],//主武器
+        [&#39;Felarx&#39;, &#39;逐枭&#39;],//主武器
+        [&#39;Fang&#39;, &#39;狼牙双刃&#39;],//近战武器
+        [&#39;Falcor&#39;, &#39;猎鹰回旋刃&#39;],//近战武器
+        [&#39;Exergis&#39;, &#39;晶能放射器&#39;],//主武器
+        [&#39;Excalibur&#39;, &#39;圣剑&#39;],//战甲
+        [&#39;Ether Sword&#39;, &#39;苍穹之剑&#39;],//近战武器
+        [&#39;Ether Reaper&#39;, &#39;苍穹夜神&#39;],//近战武器
+        [&#39;Ether Daggers&#39;, &#39;苍穹匕首&#39;],//近战武器
+        [&#39;Equinox&#39;, &#39;阴阳双子&#39;],//战甲
+        [&#39;Epitaph&#39;, &#39;葬铭&#39;],//副武器
+        [&#39;Ensnare&#39;, &#39;活钢陷阱&#39;],//大嘴技能
+        [&#39;Endura&#39;, &#39;苦行刺剑&#39;],//近战武器
+        [&#39;Embolist&#39;, &#39;蛇颅&#39;],//副武器
+        [&#39;Ember&#39;, &#39;永恒烈焰&#39;],//战甲
+        [&#39;Elytron&#39;, &#39;断脊鳞&#39;],//空战翅膀
+        [&#39;Elemental Ward&#39;, &#39;元素之护&#39;],//大嘴技能
+        [&#39;Ekwana Ruhang&#39;, &#39;双钩环坠&#39;],//天工部件
+        [&#39;Ekwana Jai&#39;, &#39;环扣坠&#39;],//天工部件
+        [&#39;Ekwana II Ruhang&#39;, &#39;双环钩坠&#39;],//天工部件
+        [&#39;Ekwana II Jai&#39;, &#39;双环扣坠&#39;],//天工部件
+        [&#39;Eclipse&#39;, &#39;黯然失色&#39;],//大嘴技能
+        [&#39;Dread&#39;, &#39;惊恐&#39;],//主武器
+        [&#39;Drakgoon&#39;, &#39;龙息匣炮&#39;],//主武器
+        [&#39;Dorma Hound&#39;, &#39;铎玛猎犬&#39;],//宠物
+        [&#39;Dokrahm&#39;, &#39;轻镰刃&#39;],//天工部件
+        [&#39;Djinn&#39;, &#39;暗影邪灵&#39;],//宠物
+        [&#39;Dispensary&#39;, &#39;后勤支援&#39;],//大嘴技能
+        [&#39;Diriga&#39;, &#39;电弧气囊&#39;],//宠物
+        [&#39;Detron&#39;, &#39;迪特隆&#39;],//副武器
+        [&#39;Dethcube&#39;, &#39;寂灭魔方&#39;],//宠物
+        [&#39;Deth Machine Rifle&#39;, &#39;冷酷机枪&#39;],//宠物武器
+        [&#39;Destreza&#39;, &#39;护手刺剑&#39;],//近战武器
+        [&#39;Despair&#39;, &#39;无妄&#39;],//副武器
+        [&#39;Desiccation&#39;, &#39;灼沙卷浪&#39;],//大嘴技能
+        [&#39;Dera&#39;, &#39;德拉&#39;],//主武器
+        [&#39;Dehtat&#39;, &#39;轻刺刃&#39;],//天工部件
+        [&#39;Defy&#39;, &#39;腾云驾雾&#39;],//大嘴技能
+        [&#39;Deepbreath&#39;, &#39;深呼吸&#39;],//组件枪部件
+        [&#39;Decoy&#39;, &#39;欺诈诱饵&#39;],//大嘴技能
+        [&#39;Deconstructor&#39;, &#39;爆能分解&#39;],//宠物武器
+        [&#39;Dark Sword&#39;, &#39;暗影长剑&#39;],//近战武器
+        [&#39;Dark Split-Sword&#39;, &#39;暗影子母剑&#39;],//近战武器
+        [&#39;Dark Dagger&#39;, &#39;暗影匕首&#39;],//近战武器
+        [&#39;Daikyu&#39;, &#39;大久和弓&#39;],//主武器
+        [&#39;Cyngas&#39;, &#39;复合瓦斯炮&#39;],//空战武器
+        [&#39;Cycron&#39;, &#39;循环式电浆手枪&#39;],//副武器
+        [&#39;Cyath&#39;, &#39;弯刃&#39;],//天工部件
+        [&#39;Cyanex&#39;, &#39;氰毒&#39;],//副武器
+        [&#39;Cryotra&#39;, &#39;冷冻射线枪&#39;],//宠物武器
+        [&#39;Cronus&#39;, &#39;克洛诺斯&#39;],//近战武器
+        [&#39;Crescent Vulpaphyla&#39;, &#39;月刃狐帕菲拉&#39;],//宠物
+        [&#39;Corvas&#39;, &#39;黑鸦&#39;],//空战武器
+        [&#39;Corufell&#39;, &#39;闪劫&#39;],//近战武器
+        [&#39;Cortege&#39;, &#39;送葬者&#39;],//空战武器
+        [&#39;Corinth&#39;, &#39;科林斯泵动式霰弹枪&#39;],//主武器
+        [&#39;Convectrix&#39;, &#39;对流射线发生器&#39;],//主武器
+        [&#39;Condemn&#39;, &#39;定罪锁链&#39;],//大嘴技能
+        [&#39;Coil Horizon&#39;, &#39;旋爆视界&#39;],//大嘴技能
+        [&#39;Cobra &amp; Crane&#39;, &#39;眼镜蛇与鹤&#39;],//近战武器
+        [&#39;Citrine&#39;, &#39;辉光晶灵&#39;],//战甲
+        [&#39;Chroma&#39;, &#39;怒炎龙骑&#39;],//战甲
+        [&#39;Chesa Kubrow&#39;, &#39;寻宝库狛&#39;],//宠物
+        [&#39;Cestra&#39;, &#39;逆转聚能炮&#39;],//副武器
+        [&#39;Cernos&#39;, &#39;瑟诺斯长弓&#39;],//主武器
+        [&#39;Cerata&#39;, &#39;蛟鳃刃&#39;],//近战武器
+        [&#39;Ceramic Dagger&#39;, &#39;精瓷匕首&#39;],//近战武器
+        [&#39;Centaur&#39;, &#39;半人马&#39;],//空战武器
+        [&#39;Cedo&#39;, &#39;塞多&#39;],//主武器
+        [&#39;Caustacyst&#39;, &#39;腐蚀寄生者&#39;],//近战武器
+        [&#39;Catchmoon&#39;, &#39;射月&#39;],//组件枪部件
+        [&#39;Catabolyst&#39;, &#39;异化者&#39;],//副武器
+        [&#39;Castanas&#39;, &#39;分体式处理信标&#39;],//副武器
+        [&#39;Cassowar&#39;, &#39;鹤鸵双头戟&#39;],//近战武器
+        [&#39;Carrier&#39;, &#39;搬运信使&#39;],//宠物
+        [&#39;Caliban&#39;, &#39;卡利班&#39;],//战甲
+        [&#39;Cadus&#39;, &#39;光棍&#39;],//近战武器
+        [&#39;Buzlok&#39;, &#39;反击黄鼬&#39;],//主武器
+        [&#39;Burston&#39;, &#39;伯斯顿步枪&#39;],//主武器
+        [&#39;Burst Laser&#39;, &#39;爆发激光发射器&#39;],//宠物武器
+        [&#39;Bubonico&#39;, &#39;横痃重炮&#39;],//主武器
+        [&#39;Bronco&#39;, &#39;布隆克烈驹&#39;],//副武器
+        [&#39;Broken Scepter&#39;, &#39;破碎的权杖&#39;],//近战武器
+        [&#39;Breach Surge&#39;, &#39;裂口涌流&#39;],//大嘴技能
+        [&#39;Braton&#39;, &#39;制式步枪&#39;],//主武器
+        [&#39;Brash&#39;, &#39;骤雨&#39;],//组件枪部件
+        [&#39;Brakk&#39;, &#39;布拉克&#39;],//副武器
+        [&#39;Bonewidow&#39;, &#39;骨骸寡妇&#39;],//战甲
+        [&#39;Boltor&#39;, &#39;波尔托骨刺&#39;],//主武器
+        [&#39;Bolto&#39;, &#39;角犀&#39;],//副武器
+        [&#39;Boltace&#39;, &#39;螺钉弧月刀&#39;],//近战武器
+        [&#39;Boar&#39;, &#39;雄猪霰弹枪&#39;],//主武器
+        [&#39;Blood Altar&#39;, &#39;鲜血祭坛&#39;],//大嘴技能
+        [&#39;Bhaira Hound&#39;, &#39;拜拉猎犬&#39;],//宠物
+        [&#39;Bellows&#39;, &#39;咆哮&#39;],//组件枪部件
+        [&#39;Baza&#39;, &#39;苍鹰冲锋枪&#39;],//主武器
+        [&#39;Battacor&#39;, &#39;纷争能量枪&#39;],//主武器
+        [&#39;Batoten&#39;, &#39;巴托腾&#39;],//宠物武器
+        [&#39;Basmu&#39;, &#39;巴什穆&#39;],//主武器
+        [&#39;Bashrack&#39;, &#39;痛殴&#39;],//组件枪部件
+        [&#39;Baruuk&#39;, &#39;圣拳武僧&#39;],//战甲
+        [&#39;Banshee&#39;, &#39;恸哭女妖&#39;],//战甲
+        [&#39;Banish&#39;, &#39;裂隙放逐&#39;],//大嘴技能
+        [&#39;Ballistica&#39;, &#39;惊惧手弩&#39;],//副武器
+        [&#39;Balla&#39;, &#39;轻短刃&#39;],//天工部件
+        [&#39;Azima&#39;, &#39;日冕&#39;],//副武器
+        [&#39;Attica&#39;, &#39;阿提卡重弩&#39;],//主武器
+        [&#39;Atterax&#39;, &#39;刑罚绞索&#39;],//近战武器
+        [&#39;Atomos&#39;, &#39;原子矿融炮&#39;],//副武器
+        [&#39;Atlas&#39;, &#39;撼天刑者&#39;],//战甲
+        [&#39;Athodai&#39;, &#39;阿索代&#39;],//副武器
+        [&#39;Astilla&#39;, &#39;碎晶霰弹枪&#39;],//主武器
+        [&#39;Ash&#39;, &#39;灰烬之刃&#39;],//战甲
+        [&#39;Arum Spinosa&#39;, &#39;疆南星刺&#39;],//近战武器
+        [&#39;Artemis Bow&#39;, &#39;月神弓&#39;],//显赫武器
+        [&#39;Artax&#39;, &#39;冰冻光束&#39;],//宠物武器
+        [&#39;Argonak&#39;, &#39;阿格那突击步枪&#39;],//主武器
+        [&#39;Arca Titron&#39;, &#39;弧光蓄电重锤&#39;],//近战武器
+        [&#39;Arca Scisco&#39;, &#39;弧光探导手枪&#39;],//副武器
+        [&#39;Arca Plasmor&#39;, &#39;弧光等离子冲击枪&#39;],//主武器
+        [&#39;Aquablades&#39;, &#39;水形之刃&#39;],//大嘴技能
+        [&#39;Ankyros&#39;, &#39;安奇洛斯拳套&#39;],//近战武器
+        [&#39;Anku&#39;, &#39;侍魂镰&#39;],//近战武器
+        [&#39;Angstrum&#39;, &#39;将军手持短炮&#39;],//副武器
+        [&#39;Amprex&#39;, &#39;安普斯雷电&#39;],//主武器
+        [&#39;Amphis&#39;, &#39;安菲斯&#39;],//近战武器
+        [&#39;Amesha&#39;, &#39;圣火之翼&#39;],//空战翅膀
+        [&#39;Ambassador&#39;, &#39;使节&#39;],//主武器
+        [&#39;Alternox&#39;, &#39;电幻步枪&#39;],//主武器
+        [&#39;Akzani&#39;, &#39;双持欢喜丸&#39;],//副武器
+        [&#39;Akvasto&#39;, &#39;双持瓦斯托&#39;],//副武器
+        [&#39;Akstiletto&#39;, &#39;双持西提列托&#39;],//副武器
+        [&#39;Aksomati&#39;, &#39;轻灵索玛双枪&#39;],//副武器
+        [&#39;Akmagnus&#39;, &#39;猛犸双枪&#39;],//副武器
+        [&#39;Aklex&#39;, &#39;双持秩序之握&#39;],//副武器
+        [&#39;Aklato&#39;, &#39;双持拉托&#39;],//副武器
+        [&#39;Akjagara&#39;, &#39;觉醒双枪&#39;],//副武器
+        [&#39;Akbronco&#39;, &#39;双持布隆克烈驹&#39;],//副武器
+        [&#39;Akbolto&#39;, &#39;双持角犀&#39;],//副武器
+        [&#39;Akaten&#39;, &#39;阿卡腾&#39;],//宠物武器
+        [&#39;Akarius&#39;, &#39;阿利乌&#39;],//副武器
+        [&#39;Airburst&#39;, &#39;俯冲轰炸&#39;],//大嘴技能
+        [&#39;Agkuza&#39;, &#39;钩刃巨剑&#39;],//空战武器
+        [&#39;Afuris&#39;, &#39;双持弗里斯手枪&#39;],//副武器
+        [&#39;Afentis&#39;, &#39;圣英&#39;],//主武器
+        [&#39;Aeolak&#39;, &#39;风鸣&#39;],//主武器
+        [&#39;Aegrit&#39;, &#39;骇敌榴弹&#39;],//副武器
+        [&#39;Adarza Kavat&#39;, &#39;灵镜狯犽&#39;],//宠物
+        [&#39;Acrid&#39;, &#39;刻薄毒镖&#39;],//副武器
+        [&#39;Ack &amp; Brunt&#39;, &#39;龟背盾斧&#39;],//近战武器
+        [&#39;Acceltra&#39;, &#39;迅发电浆炮&#39;],//主武器
+//词根
+        [&#39;War&#39;, &#39;纷争&#39;],//近战武器
+        [&#39;Bo&#39;, &#39;破禅武杖&#39;],//近战武器
+
+
+    ])
+
+    replaceText(document.body)
+
+    const bodyObserver = new MutationObserver(mutations =&gt; {
+      mutations.forEach(mutation =&gt; {
+        mutation.addedNodes.forEach(addedNode =&gt; replaceText(addedNode))
+      })
+    })
+    bodyObserver.observe(document.body, { childList: true, subtree: true })
+
+    function replaceText(node) {
+      nodeForEach(node).forEach(htmlnode =&gt; {
+        i18n.forEach((value, index) =&gt; {
+          // includes可直接使用 === 以提高匹配精度
+          const textReg = new RegExp(index, &#39;g&#39;)
+          if (htmlnode instanceof Text &amp;&amp; htmlnode.nodeValue.includes(index))
+            htmlnode.nodeValue = htmlnode.nodeValue.replace(textReg, value)
+          else if (htmlnode instanceof HTMLInputElement &amp;&amp; htmlnode.value.includes(index))
+            htmlnode.value = htmlnode.value.replace(textReg, value)
+        })
+      })
+    }
+
+    function nodeForEach(node) {
+      const list = []
+      if (node.childNodes.length === 0) list.push(node)
+      else {
+        node.childNodes.forEach(child =&gt; {
+          if (child.childNodes.length === 0) list.push(child)
+          else list.push(...nodeForEach(child))
+        })
+      }
+      return list
+    }
+})();</pre>
+</div>
+
+    </div>
+  </section>
+
+  </div>
+
+    <script>
+      (function (d) {
+      window.rum = {key: '29razx6j'};
+      var script = d.createElement('script');
+      script.src = 'https://cdn.perfops.net/rom3/rom3.min.js';
+      script.type = 'text/javascript';
+      script.defer = true;
+      script.async = true;
+      d.getElementsByTagName('head')[0].appendChild(script);
+      })(document);
+    </script>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/v8c78df7c7c0f484497ecbca7046644da1771523124516" integrity="sha512-8DS7rgIrAmghBFwoOTujcf6D9rXvH8xm8JQ1Ja01h9QX8EzXldiszufYa4IFfKdLUKTTrnSFXLDkUEOTrZQ8Qg==" data-cf-beacon='{"version":"2024.11.0","token":"3b2c78865ea34bf4ad258da879f720f8","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+</body>
+</html>
+
+

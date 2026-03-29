@@ -1,0 +1,622 @@
+{
+    "迅发电浆炮Prime":  {
+                       "url_name":  "acceltra_prime",
+                       "real_cn_name":  "迅发电浆炮Prime"
+                   },
+    "盗贼双枪Prime":  {
+                      "url_name":  "afuris_prime",
+                      "real_cn_name":  "盗贼双枪Prime"
+                  },
+    "阿利乌双枪Prime":  {
+                       "url_name":  "akarius_prime",
+                       "real_cn_name":  "阿利乌双枪Prime"
+                   },
+    "螺钉双枪Prime":  {
+                      "url_name":  "akbolto_prime",
+                      "real_cn_name":  "螺钉双枪Prime"
+                  },
+    "野马双枪Prime":  {
+                      "url_name":  "akbronco_prime",
+                      "real_cn_name":  "野马双枪Prime"
+                  },
+    "觉醒双枪Prime":  {
+                      "url_name":  "akjagara_prime",
+                      "real_cn_name":  "觉醒双枪Prime"
+                  },
+    "雷克斯双枪Prime":  {
+                       "url_name":  "aklex_prime",
+                       "real_cn_name":  "雷克斯双枪Prime"
+                   },
+    "麦格努斯双枪Prime":  {
+                        "url_name":  "akmagnus_prime",
+                        "real_cn_name":  "麦格努斯双枪Prime"
+                    },
+    "轻灵月神双枪Prime":  {
+                        "url_name":  "aksomati_prime",
+                        "real_cn_name":  "轻灵月神双枪Prime"
+                    },
+    "史提托双枪Prime":  {
+                       "url_name":  "akstiletto_prime",
+                       "real_cn_name":  "史提托双枪Prime"
+                   },
+    "瓦斯托双枪Prime":  {
+                       "url_name":  "akvasto_prime",
+                       "real_cn_name":  "瓦斯托双枪Prime"
+                   },
+    "电幻步枪Prime":  {
+                      "url_name":  "alternox_prime",
+                      "real_cn_name":  "电幻步枪Prime"
+                  },
+    "甲龙双拳Prime":  {
+                      "url_name":  "ankyros_prime",
+                      "real_cn_name":  "甲龙双拳Prime"
+                  },
+    "ashprime":  {
+                     "url_name":  "ash_prime",
+                     "real_cn_name":  "Ash Prime"
+                 },
+    "碎裂者Prime":  {
+                     "url_name":  "astilla_prime",
+                     "real_cn_name":  "碎裂者Prime"
+                 },
+    "atlasprime":  {
+                       "url_name":  "atlas_prime",
+                       "real_cn_name":  "Atlas Prime"
+                   },
+    "布里斯提卡Prime":  {
+                       "url_name":  "ballistica_prime",
+                       "real_cn_name":  "布里斯提卡Prime"
+                   },
+    "bansheeprime":  {
+                         "url_name":  "banshee_prime",
+                         "real_cn_name":  "Banshee Prime"
+                     },
+    "baruukprime":  {
+                        "url_name":  "baruuk_prime",
+                        "real_cn_name":  "Baruuk Prime"
+                    },
+    "苍鹰Prime":  {
+                    "url_name":  "baza_prime",
+                    "real_cn_name":  "苍鹰Prime"
+                },
+    "玻之武杖Prime":  {
+                      "url_name":  "bo_prime",
+                      "real_cn_name":  "玻之武杖Prime"
+                  },
+    "野猪Prime":  {
+                    "url_name":  "boar_prime",
+                    "real_cn_name":  "野猪Prime"
+                },
+    "螺钉步枪Prime":  {
+                      "url_name":  "boltor_prime",
+                      "real_cn_name":  "螺钉步枪Prime"
+                  },
+    "布莱顿Prime":  {
+                     "url_name":  "braton_prime",
+                     "real_cn_name":  "布莱顿Prime"
+                 },
+    "野马Prime":  {
+                    "url_name":  "bronco_prime",
+                    "real_cn_name":  "野马Prime"
+                },
+    "伯斯顿Prime":  {
+                     "url_name":  "burston_prime",
+                     "real_cn_name":  "伯斯顿Prime"
+                 },
+    "calibanprime":  {
+                         "url_name":  "caliban_prime",
+                         "real_cn_name":  "Caliban Prime"
+                     },
+    "搬运者Prime":  {
+                     "url_name":  "carrier_prime",
+                     "real_cn_name":  "搬运者Prime"
+                 },
+    "塞多Prime":  {
+                    "url_name":  "cedo_prime",
+                    "real_cn_name":  "塞多Prime"
+                },
+    "西诺斯Prime":  {
+                     "url_name":  "cernos_prime",
+                     "real_cn_name":  "西诺斯Prime"
+                 },
+    "chromaprime":  {
+                        "url_name":  "chroma_prime",
+                        "real_cn_name":  "Chroma Prime"
+                    },
+    "眼镜蛇&鹤Prime":  {
+                            "url_name":  "cobra_&_crane_prime",
+                            "real_cn_name":  "眼镜蛇&鹤Prime"
+                        },
+    "科林斯Prime":  {
+                     "url_name":  "corinth_prime",
+                     "real_cn_name":  "科林斯Prime"
+                 },
+    "黑鸦Prime":  {
+                    "url_name":  "corvas_prime",
+                    "real_cn_name":  "黑鸦Prime"
+                },
+    "达克拉Prime":  {
+                     "url_name":  "dakra_prime",
+                     "real_cn_name":  "达克拉Prime"
+                 },
+    "大久和弓Prime":  {
+                      "url_name":  "daikyu_prime",
+                      "real_cn_name":  "大久和弓Prime"
+                  },
+    "技巧之剑Prime":  {
+                      "url_name":  "destreza_prime",
+                      "real_cn_name":  "技巧之剑Prime"
+                  },
+    "死亡魔方Prime":  {
+                      "url_name":  "dethcube_prime",
+                      "real_cn_name":  "死亡魔方Prime"
+                  },
+    "双短柄战镰Prime":  {
+                       "url_name":  "dual_kamas_prime",
+                       "real_cn_name":  "双短柄战镰Prime"
+                   },
+    "凯瑞斯双刀Prime":  {
+                       "url_name":  "dual_keres_prime",
+                       "real_cn_name":  "凯瑞斯双刀Prime"
+                   },
+    "佐伦双斧Prime":  {
+                      "url_name":  "dual_zoren_prime",
+                      "real_cn_name":  "佐伦双斧Prime"
+                  },
+    "emberprime":  {
+                       "url_name":  "ember_prime",
+                       "real_cn_name":  "Ember Prime"
+                   },
+    "葬铭Prime":  {
+                    "url_name":  "epitaph_prime",
+                    "real_cn_name":  "葬铭Prime"
+                },
+    "equinoxprime":  {
+                         "url_name":  "equinox_prime",
+                         "real_cn_name":  "Equinox Prime"
+                     },
+    "悦音Prime":  {
+                    "url_name":  "euphona_prime",
+                    "real_cn_name":  "悦音Prime"
+                },
+    "狼牙Prime":  {
+                    "url_name":  "fang_prime",
+                    "real_cn_name":  "狼牙Prime"
+                },
+    "重击巨锤Prime":  {
+                      "url_name":  "fragor_prime",
+                      "real_cn_name":  "重击巨锤Prime"
+                  },
+    "frostprime":  {
+                       "url_name":  "frost_prime",
+                       "real_cn_name":  "Frost Prime"
+                   },
+    "雷霆Prime":  {
+                    "url_name":  "fulmin_prime",
+                    "real_cn_name":  "雷霆Prime"
+                },
+    "迦伦提恩Prime":  {
+                      "url_name":  "galatine_prime",
+                      "real_cn_name":  "迦伦提恩Prime"
+                  },
+    "garaprime":  {
+                      "url_name":  "gara_prime",
+                      "real_cn_name":  "Gara Prime"
+                  },
+    "garudaprime":  {
+                        "url_name":  "garuda_prime",
+                        "real_cn_name":  "Garuda Prime"
+                    },
+    "gaussprime":  {
+                       "url_name":  "gauss_prime",
+                       "real_cn_name":  "Gauss Prime"
+                   },
+    "战刃Prime":  {
+                    "url_name":  "glaive_prime",
+                    "real_cn_name":  "战刃Prime"
+                },
+    "骨葬Prime":  {
+                    "url_name":  "gotva_prime",
+                    "real_cn_name":  "骨葬Prime"
+                },
+    "格拉姆Prime":  {
+                     "url_name":  "gram_prime",
+                     "real_cn_name":  "格拉姆Prime"
+                 },
+    "grendelprime":  {
+                         "url_name":  "grendel_prime",
+                         "real_cn_name":  "Grendel Prime"
+                     },
+    "关刀Prime":  {
+                    "url_name":  "guandao_prime",
+                    "real_cn_name":  "关刀Prime"
+                },
+    "军扇Prime":  {
+                    "url_name":  "gunsen_prime",
+                    "real_cn_name":  "军扇Prime"
+                },
+    "gyreprime":  {
+                      "url_name":  "gyre_prime",
+                      "real_cn_name":  "Gyre Prime"
+                  },
+    "harrowprime":  {
+                        "url_name":  "harrow_prime",
+                        "real_cn_name":  "Harrow Prime"
+                    },
+    "赫利俄斯 Prime":  {
+                       "url_name":  "helios_prime",
+                       "real_cn_name":  "赫利俄斯 Prime"
+                   },
+    "飞扬Prime":  {
+                    "url_name":  "hikou_prime",
+                    "real_cn_name":  "飞扬Prime"
+                },
+    "hildrynprime":  {
+                         "url_name":  "hildryn_prime",
+                         "real_cn_name":  "Hildryn Prime"
+                     },
+    "hydroidprime":  {
+                         "url_name":  "hydroid_prime",
+                         "real_cn_name":  "Hydroid Prime"
+                     },
+    "豪猪Prime":  {
+                    "url_name":  "hystrix_prime",
+                    "real_cn_name":  "豪猪Prime"
+                },
+    "inarosprime":  {
+                        "url_name":  "inaros_prime",
+                        "real_cn_name":  "Inaros Prime"
+                    },
+    "ivaraprime":  {
+                       "url_name":  "ivara_prime",
+                       "real_cn_name":  "Ivara Prime"
+                   },
+    "凯洛斯特Prime":  {
+                      "url_name":  "karyst_prime",
+                      "real_cn_name":  "凯洛斯特Prime"
+                  },
+    "喀婆萨Prime":  {
+                     "url_name":  "kavasa_prime",
+                     "real_cn_name":  "喀婆萨Prime"
+                 },
+    "红隼Prime":  {
+                    "url_name":  "kestrel_prime",
+                    "real_cn_name":  "红隼Prime"
+                },
+    "khoraprime":  {
+                       "url_name":  "khora_prime",
+                       "real_cn_name":  "Khora Prime"
+                   },
+    "丧钟Prime":  {
+                    "url_name":  "knell_prime",
+                    "real_cn_name":  "丧钟Prime"
+                },
+    "科加基Prime":  {
+                     "url_name":  "kogake_prime",
+                     "real_cn_name":  "科加基Prime"
+                 },
+    "卡帕压力枪Prime":  {
+                       "url_name":  "kompressa_prime",
+                       "real_cn_name":  "卡帕压力枪Prime"
+                   },
+    "皇家拐刃Prime":  {
+                      "url_name":  "kronen_prime",
+                      "real_cn_name":  "皇家拐刃Prime"
+                  },
+    "翠雀Prime":  {
+                    "url_name":  "larkspur_prime",
+                    "real_cn_name":  "翠雀Prime"
+                },
+    "拉特昂Prime":  {
+                     "url_name":  "latron_prime",
+                     "real_cn_name":  "拉特昂Prime"
+                 },
+    "lavosprime":  {
+                       "url_name":  "lavos_prime",
+                       "real_cn_name":  "Lavos Prime"
+                   },
+    "雷克斯Prime":  {
+                     "url_name":  "lex_prime",
+                     "real_cn_name":  "雷克斯Prime"
+                 },
+    "limboprime":  {
+                       "url_name":  "limbo_prime",
+                       "real_cn_name":  "Limbo Prime"
+                   },
+    "lokiprime":  {
+                      "url_name":  "loki_prime",
+                      "real_cn_name":  "Loki Prime"
+                  },
+    "magprime":  {
+                     "url_name":  "mag_prime",
+                     "real_cn_name":  "Mag Prime"
+                 },
+    "麦格努斯Prime":  {
+                      "url_name":  "magnus_prime",
+                      "real_cn_name":  "麦格努斯Prime"
+                  },
+    "咀嚼金杖Prime":  {
+                      "url_name":  "masseter_prime",
+                      "real_cn_name":  "咀嚼金杖Prime"
+                  },
+    "mesaprime":  {
+                      "url_name":  "mesa_prime",
+                      "real_cn_name":  "Mesa Prime"
+                  },
+    "mirageprime":  {
+                        "url_name":  "mirage_prime",
+                        "real_cn_name":  "Mirage Prime"
+                    },
+    "噬蛇弩Prime":  {
+                     "url_name":  "nagantaka_prime",
+                     "real_cn_name":  "噬蛇弩Prime"
+                 },
+    "海波斯库拉对剑Prime":  {
+                         "url_name":  "nami_skyla_prime",
+                         "real_cn_name":  "海波斯库拉对剑Prime"
+                     },
+    "鹦鹉螺Prime":  {
+                     "url_name":  "nautilus_prime",
+                     "real_cn_name":  "鹦鹉螺Prime"
+                 },
+    "nekrosprime":  {
+                        "url_name":  "nekros_prime",
+                        "real_cn_name":  "Nekros Prime"
+                    },
+    "nezhaprime":  {
+                       "url_name":  "nezha_prime",
+                       "real_cn_name":  "Nezha Prime"
+                   },
+    "nidusprime":  {
+                       "url_name":  "nidus_prime",
+                       "real_cn_name":  "Nidus Prime"
+                   },
+    "侍刃Prime":  {
+                    "url_name":  "nikana_prime",
+                    "real_cn_name":  "侍刃Prime"
+                },
+    "降灵追猎者Prime":  {
+                       "url_name":  "ninkondi_prime",
+                       "real_cn_name":  "降灵追猎者Prime"
+                   },
+    "novaprime":  {
+                      "url_name":  "nova_prime",
+                      "real_cn_name":  "Nova Prime"
+                  },
+    "nyxprime":  {
+                     "url_name":  "nyx_prime",
+                     "real_cn_name":  "Nyx Prime"
+                 },
+    "oberonprime":  {
+                        "url_name":  "oberon_prime",
+                        "real_cn_name":  "Oberon Prime"
+                    },
+    "octaviaprime":  {
+                         "url_name":  "octavia_prime",
+                         "real_cn_name":  "Octavia Prime"
+                     },
+    "陨蜓Prime":  {
+                    "url_name":  "odonata_prime",
+                    "real_cn_name":  "陨蜓Prime"
+                },
+    "翁Prime":  {
+                   "url_name":  "okina_prime",
+                   "real_cn_name":  "翁Prime"
+               },
+    "欧特鲁斯Prime":  {
+                      "url_name":  "orthos_prime",
+                      "real_cn_name":  "欧特鲁斯Prime"
+                  },
+    "手鼓Prime":  {
+                    "url_name":  "pandero_prime",
+                    "real_cn_name":  "手鼓Prime"
+                },
+    "鲮鲤剑Prime":  {
+                     "url_name":  "pangolin_prime",
+                     "real_cn_name":  "鲮鲤剑Prime"
+                 },
+    "猎豹Prime":  {
+                    "url_name":  "panthera_prime",
+                    "real_cn_name":  "猎豹Prime"
+                },
+    "帕里斯Prime":  {
+                     "url_name":  "paris_prime",
+                     "real_cn_name":  "帕里斯Prime"
+                 },
+    "幻离子Prime":  {
+                     "url_name":  "phantasma_prime",
+                     "real_cn_name":  "幻离子Prime"
+                 },
+    "proteaprime":  {
+                        "url_name":  "protea_prime",
+                        "real_cn_name":  "Protea Prime"
+                    },
+    "食人鱼Prime":  {
+                     "url_name":  "pyrana_prime",
+                     "real_cn_name":  "食人鱼Prime"
+                 },
+    "威震武扇Prime":  {
+                      "url_name":  "quassus_prime",
+                      "real_cn_name":  "威震武扇Prime"
+                  },
+    "收割者Prime":  {
+                     "url_name":  "reaper_prime",
+                     "real_cn_name":  "收割者Prime"
+                 },
+    "救赎者Prime":  {
+                     "url_name":  "redeemer_prime",
+                     "real_cn_name":  "救赎者Prime"
+                 },
+    "revenantprime":  {
+                          "url_name":  "revenant_prime",
+                          "real_cn_name":  "Revenant Prime"
+                      },
+    "rhinoprime":  {
+                       "url_name":  "rhino_prime",
+                       "real_cn_name":  "Rhino Prime"
+                   },
+    "绝路Prime":  {
+                    "url_name":  "rubico_prime",
+                    "real_cn_name":  "绝路Prime"
+                },
+    "sarynprime":  {
+                       "url_name":  "saryn_prime",
+                       "real_cn_name":  "Saryn Prime"
+                   },
+    "分裂斩斧Prime":  {
+                      "url_name":  "scindo_prime",
+                      "real_cn_name":  "分裂斩斧Prime"
+                  },
+    "祸根Prime":  {
+                    "url_name":  "scourge_prime",
+                    "real_cn_name":  "祸根Prime"
+                },
+    "sevagothprime":  {
+                          "url_name":  "sevagoth_prime",
+                          "real_cn_name":  "Sevagoth Prime"
+                      },
+    "阴影Prime":  {
+                    "url_name":  "shade_prime",
+                    "real_cn_name":  "阴影Prime"
+                },
+    "暗杀者Prime":  {
+                     "url_name":  "sicarus_prime",
+                     "real_cn_name":  "暗杀者Prime"
+                 },
+    "席瓦&神盾Prime":  {
+                            "url_name":  "silva_&_aegis_prime",
+                            "real_cn_name":  "席瓦&神盾Prime"
+                        },
+    "月神Prime":  {
+                    "url_name":  "soma_prime",
+                    "real_cn_name":  "月神Prime"
+                },
+    "旋刃飞刀Prime":  {
+                      "url_name":  "spira_prime",
+                      "real_cn_name":  "旋刃飞刀Prime"
+                  },
+    "斯特拉迪瓦Prime":  {
+                       "url_name":  "stradavar_prime",
+                       "real_cn_name":  "斯特拉迪瓦Prime"
+                   },
+    "斯特朗Prime":  {
+                     "url_name":  "strun_prime",
+                     "real_cn_name":  "斯特朗Prime"
+                 },
+    "席芭莉丝Prime":  {
+                      "url_name":  "sybaris_prime",
+                      "real_cn_name":  "席芭莉丝Prime"
+                  },
+    "龙辰Prime":  {
+                    "url_name":  "tatsu_prime",
+                    "real_cn_name":  "龙辰Prime"
+                },
+    "铁钩手甲Prime":  {
+                      "url_name":  "tekko_prime",
+                      "real_cn_name":  "铁钩手甲Prime"
+                  },
+    "双簧管Prime":  {
+                     "url_name":  "tenora_prime",
+                     "real_cn_name":  "双簧管Prime"
+                 },
+    "狂鲨Prime":  {
+                    "url_name":  "tiberon_prime",
+                    "real_cn_name":  "狂鲨Prime"
+                },
+    "猛虎Prime":  {
+                    "url_name":  "tigris_prime",
+                    "real_cn_name":  "猛虎Prime"
+                },
+    "提佩多Prime":  {
+                     "url_name":  "tipedo_prime",
+                     "real_cn_name":  "提佩多Prime"
+                 },
+    "titaniaprime":  {
+                         "url_name":  "titania_prime",
+                         "real_cn_name":  "Titania Prime"
+                     },
+    "trinityprime":  {
+                         "url_name":  "trinity_prime",
+                         "real_cn_name":  "Trinity Prime"
+                     },
+    "灭杀者Prime":  {
+                     "url_name":  "trumna_prime",
+                     "real_cn_name":  "灭杀者Prime"
+                 },
+    "瓦德雅Prime":  {
+                     "url_name":  "vadarya_prime",
+                     "real_cn_name":  "瓦德雅Prime"
+                 },
+    "valkyrprime":  {
+                        "url_name":  "valkyr_prime",
+                        "real_cn_name":  "Valkyr Prime"
+                    },
+    "瓦斯托Prime":  {
+                     "url_name":  "vasto_prime",
+                     "real_cn_name":  "瓦斯托Prime"
+                 },
+    "vaubanprime":  {
+                        "url_name":  "vauban_prime",
+                        "real_cn_name":  "Vauban Prime"
+                    },
+    "守望者Prime":  {
+                     "url_name":  "vectis_prime",
+                     "real_cn_name":  "守望者Prime"
+                 },
+    "逐电Prime":  {
+                    "url_name":  "velox_prime",
+                    "real_cn_name":  "逐电Prime"
+                },
+    "脉纹Prime":  {
+                    "url_name":  "venato_prime",
+                    "real_cn_name":  "脉纹Prime"
+                },
+    "凯旋之爪Prime":  {
+                      "url_name":  "venka_prime",
+                      "real_cn_name":  "凯旋之爪Prime"
+                  },
+    "创伤Prime":  {
+                    "url_name":  "volnus_prime",
+                    "real_cn_name":  "创伤Prime"
+                },
+    "voltprime":  {
+                      "url_name":  "volt_prime",
+                      "real_cn_name":  "Volt Prime"
+                  },
+    "wispprime":  {
+                      "url_name":  "wisp_prime",
+                      "real_cn_name":  "Wisp Prime"
+                  },
+    "wukongprime":  {
+                        "url_name":  "wukong_prime",
+                        "real_cn_name":  "Wukong Prime"
+                    },
+    "蛟龙 Prime":  {
+                     "url_name":  "wyrm_prime",
+                     "real_cn_name":  "蛟龙 Prime"
+                 },
+    "xakuprime":  {
+                      "url_name":  "xaku_prime",
+                      "real_cn_name":  "Xaku Prime"
+                  },
+    "yareliprime":  {
+                        "url_name":  "yareli_prime",
+                        "real_cn_name":  "Yareli Prime"
+                    },
+    "毒芽Prime":  {
+                    "url_name":  "zakti_prime",
+                    "real_cn_name":  "毒芽Prime"
+                },
+    "zephyrprime":  {
+                        "url_name":  "zephyr_prime",
+                        "real_cn_name":  "Zephyr Prime"
+                    },
+    "诸葛连弩Prime":  {
+                      "url_name":  "zhuge_prime",
+                      "real_cn_name":  "诸葛连弩Prime"
+                  },
+    "席尔火枪Prime":  {
+                      "url_name":  "zylok_prime",
+                      "real_cn_name":  "席尔火枪Prime"
+                  }
+}
